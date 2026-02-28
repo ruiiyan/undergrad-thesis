@@ -102,6 +102,8 @@ ten_reflection = {
 # 
 print(score_reflection(eight_reflection_short))
 
+#TESTING
+
 # # First, precompute each benchmark reflection’s similarity to the centroid
 # df_good["similarity_to_centroid"] = [
 #     float(cosine_similarity([emb], [centroid])[0][0])
