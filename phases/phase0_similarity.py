@@ -8,6 +8,15 @@ import numpy as np
 import json
 from sentence_transformers import SentenceTransformer
 from sklearn.metrics.pairwise import cosine_similarity
+import matplotlib.pyplot as plt
+
+from utils import (
+    centroid_similarity_stats,
+    pairwise_similarity_stats,
+    plot_similarity_distribution,
+    plot_similarity_heatmap,
+    plot_umap_projection
+)
 
 # 1.load the benchmark reflection
 file_path = "utils/star_reflections_strict_100.json" 
@@ -28,23 +37,33 @@ model = SentenceTransformer("all-MiniLM-L6-v2")
 embeddings = model.encode(df_good["combined"].tolist(), normalize_embeddings=True, show_progress_bar=True)
 df_good["embedding"] = embeddings.tolist()
 
-#4. we then compute the benchmark centroid, for us to compare against later
+# 4. printing some metrics to verify the embeddings
+centroid_sims, centroid_stats = centroid_similarity_stats(embeddings)
+
+pairwise_sims, pairwise_stats = pairwise_similarity_stats(embeddings)
+
+print("Centroid stats:")
+print(centroid_stats)
+
+print("\nPairwise stats:")
+print(pairwise_stats)
+
+projection = plot_umap_projection(embeddings)
+
+# plot_similarity_distribution(
+#     centroid_sims,
+#     "Centroid Similarity Distribution"
+# )
+
+# plot_similarity_distribution(
+#     pairwise_sims,
+#     "Pairwise Similarity Distribution"
+# )
+
+#5. we then compute the benchmark centroid, for us to compare against later
 #.  currently the centroid is just an average of all the embeddings.
 embedding_matrix = np.vstack(df_good["embedding"].values)
 centroid = np.mean(embedding_matrix, axis=0)
-
-# 5. For each benchmark reflection, we then compare it's similarity to the centroid
-#    we do this to validate that our group of 100 reflections, are tightly grouped or not. 
-#    This also allows us to define the multiple similarity cutoffs for us to 'score' new reflections
-
-df_good["similarity_to_centroid"] = cosine_similarity(
-    df_good["embedding"].tolist(), [centroid]
-).flatten()
-
-print(df_good["similarity_to_centroid"].describe())
-
-# p10, p25, p50 = np.percentile(df_good["similarity_to_centroid"], [10, 25, 50])
-# print(f"Similarity thresholds:\n P10={p10:.3f}  P25={p25:.3f}  P50={p50:.3f}")
 
 # 6. helper function that takes a new reflection, and computes its similarity score and qualitative label
 
@@ -99,7 +118,7 @@ ten_reflection = {
 # Interesting. a eight reflection, got a higher score, compared to a 10 reflection
 # Tried it with a different size reflection and instead, got an even worse score xD
 # Possible reason: The one that scored higher, is SEMANTICALLY more similar to the benchmark. 
-# 
+
 print(score_reflection(eight_reflection_short))
 
 #TESTING
