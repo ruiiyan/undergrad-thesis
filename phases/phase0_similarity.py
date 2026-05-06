@@ -15,55 +15,31 @@ from utils import (
     pairwise_similarity_stats,
     plot_similarity_distribution,
     plot_similarity_heatmap,
-    plot_umap_projection
+    plot_umap_projection,
+    plot_similarity_subplot
 )
 
 # 1.load the benchmark reflection
-file_path = "utils/star_reflections_strict_100.json" 
+file_path = "STAR_REFLECTIONS.json" 
 with open(file_path, "r", encoding="utf-8") as f:
     reflections = json.load(f)
 
 # 2. combine the reflections back (doing combined for now, but could test out if doing it per
 #.   part of the framework, and averaging those out makes a diff or not) 
 df_good = pd.DataFrame(reflections)
-df_good["combined"] = (
-    df_good["situation"].astype(str) + " " +
-    df_good["task_action"].astype(str) + " " +
-    df_good["result"].astype(str)
-)
+# df_good["combined"] = (
+#     df_good["situation"].astype(str) + " " +
+#     df_good["task_action"].astype(str) + " " +
+#     df_good["result"].astype(str)
+# )
 
-#3. We then compute the embeddings for each of the benchmark reflections
+#3. We then compute the embeddings for each section of the reflections
 model = SentenceTransformer("all-MiniLM-L6-v2")
-embeddings = model.encode(df_good["combined"].tolist(), normalize_embeddings=True, show_progress_bar=True)
-df_good["embedding"] = embeddings.tolist()
 
-# 4. printing some metrics to verify the embeddings
-centroid_sims, centroid_stats = centroid_similarity_stats(embeddings)
+situation_embeddings = model.encode(df_good["situation"].tolist(), normalize_embeddings=True, show_progress_bar=True)
+task_action_embeddings = model.encode(df_good["task_action"].tolist(), normalize_embeddings=True, show_progress_bar=True)
+result_embeddings = model.encode(df_good["result"].tolist(), normalize_embeddings=True, show_progress_bar=True)
 
-pairwise_sims, pairwise_stats = pairwise_similarity_stats(embeddings)
-
-print("Centroid stats:")
-print(centroid_stats)
-
-print("\nPairwise stats:")
-print(pairwise_stats)
-
-projection = plot_umap_projection(embeddings)
-
-# plot_similarity_distribution(
-#     centroid_sims,
-#     "Centroid Similarity Distribution"
-# )
-
-# plot_similarity_distribution(
-#     pairwise_sims,
-#     "Pairwise Similarity Distribution"
-# )
-
-#5. we then compute the benchmark centroid, for us to compare against later
-#.  currently the centroid is just an average of all the embeddings.
-embedding_matrix = np.vstack(df_good["embedding"].values)
-centroid = np.mean(embedding_matrix, axis=0)
 
 # 6. helper function that takes a new reflection, and computes its similarity score and qualitative label
 
@@ -119,7 +95,7 @@ ten_reflection = {
 # Tried it with a different size reflection and instead, got an even worse score xD
 # Possible reason: The one that scored higher, is SEMANTICALLY more similar to the benchmark. 
 
-print(score_reflection(eight_reflection_short))
+# print(score_reflection(eight_reflection_short))
 
 #TESTING
 

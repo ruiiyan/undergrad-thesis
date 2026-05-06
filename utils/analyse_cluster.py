@@ -117,11 +117,17 @@ def plot_umap_projection(embeddings, title="UMAP Projection of Benchmark Reflect
 
     projection = reducer.fit_transform(embeddings)
 
-    plt.figure(figsize=(8, 6))
-    plt.scatter(projection[:, 0], projection[:, 1], alpha=0.8)
-    plt.title(title)
-    plt.xlabel("UMAP Dimension 1")
-    plt.ylabel("UMAP Dimension 2")
-    plt.show()
+    # plt.figure(figsize=(8, 6))
+    # plt.scatter(projection[:, 0], projection[:, 1], alpha=0.8)
+    # plt.title(title)
+    # plt.xlabel("UMAP Dimension 1")
+    # plt.ylabel("UMAP Dimension 2")
+    # plt.show()
 
     return projection
+
+def plot_similarity_subplot(values, ax, title):
+    ax.hist(values, bins=30)
+    ax.set_title(title)
+    ax.set_xlabel("Cosine Similarity")
+    ax.set_ylabel("Frequency")
