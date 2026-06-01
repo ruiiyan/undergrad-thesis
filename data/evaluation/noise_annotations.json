@@ -1,0 +1,590 @@
+{
+  "24": {
+    "result": {
+      "level": 3,
+      "justification": "The student connects specific actions (restructuring the project, using Discord, redistributing work) to their outcomes, demonstrating application of problem-solving strategies in context, but does not examine why these decisions were more effective than alternatives."
+    },
+    "pfr": {
+      "level": 1,
+      "justification": "The student merely states that the project is going well with no emotional reflection, assumption-challenging, or exploration of alternative perspectives."
+    },
+    "learning": {
+      "level": 2,
+      "justification": "The student summarises a general lesson about resilience in their own words ('where there is hardship there is always a solution') but does not analyse causes, evaluate strategies, or articulate how this learning will be specifically applied in future contexts."
+    }
+  },
+  "0": {
+    "result": {
+      "level": 2,
+      "justification": "The section summarises outcomes in general terms ('maximized productivity', 'exceeded expectations') but offers no analysis of why the strategies worked or examination of contributing factors."
+    },
+    "pfr": {
+      "level": 2,
+      "justification": "The student describes their emotional states (optimism, excitement, pressure) and acknowledges challenges emerged, but does not examine assumptions, explore alternative perspectives, or analyse why these feelings arose."
+    },
+    "learning": {
+      "level": 3,
+      "justification": "The student connects the experience to specific practices (proactive communication, structured planning, regular check-ins) and applies these as actionable strategies, but does not critically justify why these are the best approaches or weigh alternatives."
+    }
+  },
+  "22": {
+    "result": {
+      "level": 2,
+      "justification": "The section summarises outcomes and states general benefits of continuous learning but does not analyse causes, weigh alternatives, or examine why these practices led to success beyond broad assertions."
+    },
+    "pfr": {
+      "level": 2,
+      "justification": "The student describes their emotional shift from daunting to fulfilling and states a belief in lifelong learning, but does not challenge assumptions, explore alternative perspectives, or examine why the experience felt that way beyond a surface-level account."
+    },
+    "learning": {
+      "level": 3,
+      "justification": "The student makes a concrete connection between applying a specific resource (Systems Engineering and Analysis book) to refine design decisions, demonstrating theory-to-practice application, but future intentions are listed without critical justification of why they are the best approach, and no genuine weighing of alternatives occurs."
+    }
+  },
+  "14": {
+    "result": {
+      "level": 2,
+      "justification": "The section summarises what changed in the group's behaviour and attitude, but does not examine why these changes occurred or analyse the factors that drove them."
+    },
+    "pfr": {
+      "level": 3,
+      "justification": "The writer connects their initial assumption ('no one knew how to properly talk') to their emotional response and shows some understanding of others' perspectives by acknowledging why the spokesperson role would have been daunting, demonstrating a basic link between prior knowledge of social dynamics and the observed behaviour."
+    },
+    "learning": {
+      "level": 3,
+      "justification": "The writer applies a general principle \u2014 that promoting relatability helps people engage in new environments \u2014 as a practical takeaway, but does not critically justify why this is the best approach or weigh it against alternatives."
+    }
+  },
+  "41": {
+    "result": {
+      "level": 2,
+      "justification": "The student summarises the outcomes (saved materials, improved reliability) in their own words but offers no analysis of why these outcomes occurred or what caused them."
+    },
+    "pfr": {
+      "level": 3,
+      "justification": "The student connects the practical challenge of implementing ideas to the decision to collaborate, showing a link between prior difficulty and the applied strategy of collective work and leveraging differing expertise."
+    },
+    "learning": {
+      "level": 2,
+      "justification": "The student states a general lesson ('different approaches suit different situations') but does not analyse why this approach was superior or justify it against alternatives, remaining at the level of summarising what happened."
+    }
+  },
+  "39": {
+    "result": {
+      "level": 2,
+      "justification": "The student summarises the outcome in general terms ('desired outcome', 'high quality', 'strong working relationship') without examining causes, trade-offs, or what specifically drove those results."
+    },
+    "pfr": {
+      "level": 3,
+      "justification": "The student connects the experience to a broader principle (critical thinking requires practice and adaptability) and applies it to their own context, but the use of 'evaluated' is not backed by actual weighing of alternatives \u2014 the reasoning stays at the level of applying recognised concepts to their situation."
+    },
+    "learning": {
+      "level": 3,
+      "justification": "The student states future intentions (seek challenges, consult mentors) but does not critically justify why these are the best approaches or evaluate their likely effectiveness, keeping the response at the level of applying planned actions."
+    }
+  },
+  "21": {
+    "result": {
+      "level": 2,
+      "justification": "The section summarises the outcome in general terms ('completed on time', 'positive feedback', 'improved teamwork skills') without examining why those outcomes occurred or analysing the factors that contributed to them."
+    },
+    "pfr": {
+      "level": 2,
+      "justification": "The student describes an emotional arc from anxiety to confidence and reward, but does not challenge assumptions or explore alternative perspectives \u2014 it remains a straightforward account of feelings as events unfolded."
+    },
+    "learning": {
+      "level": 3,
+      "justification": "The student connects specific practices (regular meetings, shared documents, leveraging strengths) to teamwork outcomes and states intentions to apply them in future contexts, but does not critically justify why these are the best approaches or weigh them against alternatives."
+    }
+  },
+  "26": {
+    "result": {
+      "level": 2,
+      "justification": "The student summarises the outcome and mentions a 'holistic approach' but does not break down why the check system worked or analyse the factors behind the successful realignment."
+    },
+    "pfr": {
+      "level": 2,
+      "justification": "The student describes their emotional response and states a general takeaway about 'looking at the whole picture,' but does not examine assumptions, explore alternative perspectives, or analyse why they felt as they did."
+    },
+    "learning": {
+      "level": 2,
+      "justification": "The student lists general lessons (teamwork, planning, double-checking) and states they will apply them in future, but provides no critical justification for why these are the best approaches or analysis of how they connect to the specific experience."
+    }
+  },
+  "36": {
+    "result": {
+      "level": 2,
+      "justification": "The student summarises the outcomes of communication and teamwork in their own words but does not analyse why these outcomes occurred or evaluate their effectiveness beyond general positive statements."
+    },
+    "pfr": {
+      "level": 3,
+      "justification": "The student connects their emotional response (anxiety, fear) to a specific situational cause (too many ideas, time pressure) and describes how applying communication skills resolved those feelings, showing a link between prior knowledge and practice."
+    },
+    "learning": {
+      "level": 2,
+      "justification": "The student restates the general value of communication and teamwork for future use but does not analyse why these strategies work, evaluate alternatives, or justify why they are the best approach beyond surface-level assertions."
+    }
+  },
+  "15": {
+    "result": {
+      "level": 1,
+      "justification": "The section simply recalls the outcome \u2014 completing the RGM before the due date with each member contributing \u2014 with no explanation, analysis, or interpretation of what that outcome meant."
+    },
+    "pfr": {
+      "level": 2,
+      "justification": "The student explains how initial concerns about online collaboration were resolved through role rotation, summarising the experience in their own words but not examining why the approach worked or exploring alternative perspectives."
+    },
+    "learning": {
+      "level": 3,
+      "justification": "The student connects the practice of fair workload distribution and contingency planning to the successful delivery of a difficult project, making a practical link between team management strategies and outcomes, but does not critically justify why these are the best approaches."
+    }
+  },
+  "38": {
+    "result": {
+      "level": 2,
+      "justification": "The student summarises the outcome of their sales effort in their own words but offers no analysis of why the approach worked or evaluation of alternative strategies."
+    },
+    "pfr": {
+      "level": 2,
+      "justification": "The student describes their emotional journey (enthusiasm, doubt, frustration, determination) but does not examine the underlying causes of those feelings or challenge any assumptions."
+    },
+    "learning": {
+      "level": 3,
+      "justification": "The student connects the experience to practical concepts like project management and mindset, and describes applying trial-and-error to develop skills, but future intentions ('I will apply these lessons') are stated without critical justification of why they are the best approach."
+    }
+  },
+  "3": {
+    "result": {
+      "level": 2,
+      "justification": "The student summarises the outcome of the work-split discussion in their own words but offers no analysis of why this arrangement worked or examination of contributing factors."
+    },
+    "pfr": {
+      "level": 2,
+      "justification": "The student describes their emotional experience and notes that voicing concerns led to an acceptable outcome, but does not challenge assumptions or explore alternative perspectives beyond a surface-level account."
+    },
+    "learning": {
+      "level": 3,
+      "justification": "The student connects the experience to a broader principle \u2014 that leaderless groups can still reach coherent decisions \u2014 applying this insight as a generalisation, but does not critically justify why this approach was optimal or examine the conditions under which it might fail."
+    }
+  },
+  "25": {
+    "result": {
+      "level": 2,
+      "justification": "The student summarises the outcome (high mark, positive feedback) in their own words but does not analyse why the structured communication approach produced these results."
+    },
+    "pfr": {
+      "level": 2,
+      "justification": "The student describes their emotional journey (overwhelmed to proud) and notes collaboration positives, but does not examine underlying assumptions or explore alternative perspectives on why the team dynamics worked or failed."
+    },
+    "learning": {
+      "level": 3,
+      "justification": "The student connects the experience to specific skills (active listening, agility) and states intentions to apply them in future group work, but does not critically justify why these are the best approaches or weigh them against alternatives."
+    }
+  },
+  "37": {
+    "result": {
+      "level": 1,
+      "justification": "The section simply states that the deadline was met and editing is underway, with no explanation, analysis, or evaluation of how or why this outcome occurred."
+    },
+    "pfr": {
+      "level": 3,
+      "justification": "The writer connects their prior uncertainty about follow-up communication to a practical decision and its outcome, demonstrating application of judgment in context, but does not break down multiple contributing factors or weigh alternatives beyond a single cause-and-effect observation."
+    },
+    "learning": {
+      "level": 3,
+      "justification": "The writer identifies the transferability of the skill to future workplace and academic contexts, but the stated future intentions ('have those difficult conversations', 'build upon') are not critically justified as the best course of action, remaining at the level of application rather than evaluation."
+    }
+  },
+  "12": {
+    "result": {
+      "level": 2,
+      "justification": "The student summarises outcomes (well-planned RGM, group cohesion, preparedness) in their own words but offers no analysis of why these results occurred or critical assessment of their quality."
+    },
+    "pfr": {
+      "level": 2,
+      "justification": "The student describes their emotional journey (surprise at workload, initial hesitance, relief about presenting) but does not challenge assumptions or explore alternative perspectives beyond acknowledging their initial expectations were wrong."
+    },
+    "learning": {
+      "level": 2,
+      "justification": "The student identifies skills gained (teamwork, communication, professional writing) and acknowledges a knowledge gap, but does not analyse why these gaps existed or articulate how the learning will be applied in future contexts."
+    }
+  },
+  "27": {
+    "result": {
+      "level": 2,
+      "justification": "The section summarises the outcomes (well-received document, approval, feedback) in the student's own words but offers no analysis of why these results occurred or evaluation of the decisions that led to them."
+    },
+    "pfr": {
+      "level": 2,
+      "justification": "The student describes a range of emotions (exhilaration, overwhelm, pride) and explains how they changed over time, but does not challenge underlying assumptions or explore alternative perspectives beyond surface-level acknowledgement of difficulty."
+    },
+    "learning": {
+      "level": 3,
+      "justification": "The student connects specific practices (shared platforms, visual aids, feedback sessions) to improved outcomes and outlines future strategies, demonstrating application of lessons learned, but the future intentions are listed without critical justification of why they are the best course of action."
+    }
+  },
+  "13": {
+    "result": {
+      "level": 2,
+      "justification": "The section summarises outcomes in general terms ('successfully maneuvered', 'bolstered our project's image') without examining why or how these results were achieved, indicating comprehension rather than analysis."
+    },
+    "pfr": {
+      "level": 3,
+      "justification": "The writer moves beyond describing feelings to connecting the experience of forming a diverse team with a practical insight about collaboration in regulatory contexts, demonstrating application of a strategy in response to a challenge."
+    },
+    "learning": {
+      "level": 3,
+      "justification": "The section lists future behavioural intentions (collaborating with experts, maintaining documentation, staying updated) without critically justifying why these are the best approaches or weighing them against alternatives, which caps it at application rather than evaluation."
+    }
+  },
+  "17": {
+    "result": {
+      "level": 2,
+      "justification": "The student explains what happened in their own words \u2014 tension arose and communication helped refocus the group \u2014 but does not examine why or analyse the contributing factors."
+    },
+    "pfr": {
+      "level": 2,
+      "justification": "The student describes their emotional response (frustration, then satisfaction) and summarises what the team did, but does not challenge assumptions or explore alternative perspectives."
+    },
+    "learning": {
+      "level": 3,
+      "justification": "The student connects the problem (unclear role allocation) to a practical solution (shared document), demonstrating application of a specific technique to address the identified issue."
+    }
+  },
+  "10": {
+    "result": {
+      "level": 2,
+      "justification": "The student summarises the outcome in their own words (saved time, improved efficiency, gained knowledge) but does not analyse why the approach worked or evaluate its effectiveness beyond general positive statements."
+    },
+    "pfr": {
+      "level": 3,
+      "justification": "The student connects a prior taught method (brainstorming/ideation) to their specific situation by applying it to solve the reading overload problem, showing a link between learned technique and practice."
+    },
+    "learning": {
+      "level": 2,
+      "justification": "The student restates general takeaways (teamwork, collaboration) without analysing why these strategies were effective or evaluating whether alternative approaches might have been better."
+    }
+  },
+  "33": {
+    "result": {
+      "level": 2,
+      "justification": "The section summarises the outcome and broadly states that theoretical knowledge was applied, but offers no analysis of how or why the critical thinking led to success, remaining at the level of explanation."
+    },
+    "pfr": {
+      "level": 2,
+      "justification": "The student describes their emotional journey from anxiety to understanding in their own words, but does not challenge assumptions or explore alternative perspectives, staying at a narrative explanation of what was felt."
+    },
+    "learning": {
+      "level": 3,
+      "justification": "The student connects the experience to a practical principle \u2014 systematic problem-solving focused on priorities \u2014 and notes context-dependence of solutions, indicating an application-level connection between the experience and future practice, though without critical justification of why these are the best approaches."
+    }
+  },
+  "18": {
+    "result": {
+      "level": 2,
+      "justification": "The student summarises the outcome of their infographic and broadly states that creative thinking gave them a more open-minded perspective, but does not analyse causes, weigh alternatives, or evaluate the impact with specific reasoning."
+    },
+    "pfr": {
+      "level": 2,
+      "justification": "The student explains their emotional experience of transitioning from essay-based thinking to creative design and describes discovering a suitable theme, but the reflection stays at the level of summarising what happened without examining why or challenging assumptions."
+    },
+    "learning": {
+      "level": 3,
+      "justification": "The student describes applying a specific technique (the elimination method) to break down and weigh options in context, demonstrating a connection between a practical strategy and the outcome, though the reasoning does not go beyond a single cause-and-effect chain."
+    }
+  },
+  "8": {
+    "result": {
+      "level": 2,
+      "justification": "The student summarises the outcome of the project in their own words but offers no analysis of why goals were or were not met."
+    },
+    "pfr": {
+      "level": 2,
+      "justification": "The student explains their experience with NoSQL and acknowledges ongoing learning, but does not examine why the technology was easy or analyse the implications of their approach beyond a surface-level summary."
+    },
+    "learning": {
+      "level": 3,
+      "justification": "The student connects the experience of self-directed scheduling to a practical principle ('know yourself') and applies it to future time management decisions, but does not critically justify why this is the best approach or weigh alternatives."
+    }
+  },
+  "35": {
+    "result": {
+      "level": 1,
+      "justification": "The section only recounts what happened during the hike \u2014 a brief discussion, a decision, and physical assistance \u2014 with no explanation, analysis, or interpretation of those events."
+    },
+    "pfr": {
+      "level": 2,
+      "justification": "The writer explains how the group moved from uncertainty to a decision by sharing ideas and weighing pros and cons, but does not examine why the initial uncertainty existed or analyse the group dynamics in any deeper way."
+    },
+    "learning": {
+      "level": 3,
+      "justification": "The writer connects the experience to the application of interpersonal skills (teamwork and communication) and describes using a pros/cons framework to evaluate options in context, but the stated future intention to 'analyse options by breaking them down' is a behavioural commitment without critical justification of why this is the best approach."
+    }
+  },
+  "2": {
+    "result": {
+      "level": 2,
+      "justification": "The student summarises the outcome in their own words (a decision was reached and design ideas were formed) but offers no analysis of why or how those outcomes were achieved."
+    },
+    "pfr": {
+      "level": 3,
+      "justification": "The student connects prior knowledge of constraints (time limitation, complexity trade-offs) to their decision-making process, showing an application of practical reasoning rather than mere description of feelings."
+    },
+    "learning": {
+      "level": 2,
+      "justification": "The student explains that sharing ideas led to a satisfactory group outcome but does not analyse why this worked or evaluate whether it was the best approach."
+    }
+  },
+  "7": {
+    "result": {
+      "level": 1,
+      "justification": "The student simply states the outcome ('completed the project and passed the unit') with no interpretation, analysis, or reflection on how or why that result was achieved."
+    },
+    "pfr": {
+      "level": 2,
+      "justification": "The student describes feeling overwhelmed and then successful, but only summarises the emotional arc of the experience without examining causes, challenging assumptions, or exploring alternative perspectives."
+    },
+    "learning": {
+      "level": 2,
+      "justification": "The student restates what they did ('step by step working solution', 'organising our team') and names the skills gained, but does not explain how or why these approaches worked, nor connects them to broader principles or future application."
+    }
+  },
+  "31": {
+    "result": {
+      "level": 2,
+      "justification": "The student summarises the outcome in their own words ('higher quality end result') but offers no analysis of why or how accountability produced this result."
+    },
+    "pfr": {
+      "level": 3,
+      "justification": "The student connects the initial negative emotional response to a shift in team behaviour (1-on-1 meetings, collaboration), showing a practical link between the accountability approach and observable outcomes, but does not examine the underlying causes of the tension or weigh alternative interpretations."
+    },
+    "learning": {
+      "level": 4,
+      "justification": "The student breaks down the experience to distinguish between a flawed solution and a flawed execution of a correct solution, identifying two contributing factors (misunderstanding vs. inability to carry out) that explain why the approach initially appeared to fail."
+    }
+  },
+  "30": {
+    "result": {
+      "level": 2,
+      "justification": "The student summarises the outcome in their own words ('successfully constructed', 'adapt and thrive') but offers no analysis of why or how the collaboration worked, remaining at the level of explaining what happened."
+    },
+    "pfr": {
+      "level": 2,
+      "justification": "The student describes their emotional journey from overwhelm to reassurance but does not examine the underlying causes of those feelings or challenge any assumptions, staying at the level of explaining their experience."
+    },
+    "learning": {
+      "level": 3,
+      "justification": "The student connects the experience to practical strategies (in-person meetings, digital tools, early communication) and applies lessons to future contexts, but does not critically weigh whether these are the best approaches or analyse why they would work, which caps the reasoning at application."
+    }
+  },
+  "32": {
+    "result": {
+      "level": 1,
+      "justification": "The result section simply states that a plan was successfully designed through communication, with no explanation, analysis, or interpretation of what occurred."
+    },
+    "pfr": {
+      "level": 2,
+      "justification": "The student explains the emotional experience of starting a project and summarises how teamwork and leveraging strengths and weaknesses led to success, but does not analyse why or examine causes and effects beyond a general restatement."
+    },
+    "learning": {
+      "level": 3,
+      "justification": "The student describes applying interpersonal skills in context by adapting to weather constraints and redirecting effort to unaffected tasks, demonstrating a practical connection between communication skills and problem-solving, but does not examine why these strategies worked or evaluate alternatives."
+    }
+  },
+  "16": {
+    "result": {
+      "level": 2,
+      "justification": "The section summarises the outcomes of the evacuation plan implementation (successful drills, staff confidence, parental reassurance) in the student's own words but offers no analysis of why these outcomes occurred or evaluation of the approach taken."
+    },
+    "pfr": {
+      "level": 3,
+      "justification": "The student connects prior knowledge (Hurricane Katrina) to their emotional response and describes applying a structured breakdown of tasks to manage stress, demonstrating a theory-to-practice link rather than deeper analysis of why the feelings arose or examination of alternative perspectives."
+    },
+    "learning": {
+      "level": 3,
+      "justification": "The student states intentions to apply prioritisation and structured decision-making in future projects, but these commitments are listed without critically justifying why this approach is superior to alternatives, keeping the reasoning at the apply level rather than evaluate."
+    }
+  },
+  "9": {
+    "result": {
+      "level": 2,
+      "justification": "The student summarises what the assignment involved and asserts it was worthwhile, but does not analyse why or examine causes and effects beyond a general claim that it 'forced them to think differently'."
+    },
+    "pfr": {
+      "level": 2,
+      "justification": "The student describes their emotional discomfort and prior preferences in their own words but does not examine assumptions or explore alternative perspectives beyond acknowledging unfamiliarity with visual design."
+    },
+    "learning": {
+      "level": 3,
+      "justification": "The student connects specific research actions (colour theory, text-to-visual ratios) to the practical goal of improving their infographic, demonstrating application of acquired knowledge to a concrete task."
+    }
+  },
+  "11": {
+    "result": {
+      "level": 1,
+      "justification": "The section only recounts what was done (task allocation, deadlines, meetings) with no explanation, interpretation, or analysis of why these actions were taken or what resulted from them."
+    },
+    "pfr": {
+      "level": 3,
+      "justification": "The student draws on a prior experience from ENGG2050 and explicitly applies that knowledge to inform their leadership approach, connecting past feelings to a deliberate strategy of gradual support rather than simply describing emotions."
+    },
+    "learning": {
+      "level": 3,
+      "justification": "The student describes transferring a past experience into a workplace strategy and notes a positive outcome (distinction), but does not critically justify why empathy was the best approach or weigh it against alternatives, keeping it at application rather than evaluation."
+    }
+  },
+  "5": {
+    "result": {
+      "level": 2,
+      "justification": "The student summarises the meeting outcomes and decisions made (re-shooting videos, transition objects) in their own words but does not analyse why these decisions were made or evaluate their effectiveness."
+    },
+    "pfr": {
+      "level": 2,
+      "justification": "The student describes their initial concern and emotional shift from burden to relief, but does not examine the underlying causes of these feelings or challenge any assumptions beyond surface-level observation."
+    },
+    "learning": {
+      "level": 2,
+      "justification": "The student states a general principle about attitude and professional behaviour affecting others, but the connection remains a broad assertion without breaking down contributing factors or justifying why refreshing ethical principles is the best course of action."
+    }
+  },
+  "28": {
+    "result": {
+      "level": 2,
+      "justification": "The student summarises the outcome in general terms \u2014 effective communication reduces risk \u2014 but offers no breakdown of causes, consequences, or evidence beyond a broad restatement of the situation."
+    },
+    "pfr": {
+      "level": 4,
+      "justification": "The student examines why communication failures occurred by identifying multiple contributing factors (diverse nationalities, varying abilities, first-time visitors, ambiguous gestures) and traces how these led to unsafe assumptions, demonstrating genuine breakdown of causes rather than a single cause-effect chain."
+    },
+    "learning": {
+      "level": 3,
+      "justification": "The student connects the insight about simplified communication to improved workplace practice and broader life application, but the future intentions are stated as commitments without critically weighing whether this approach is optimal or comparing it against alternatives."
+    }
+  },
+  "19": {
+    "result": {
+      "level": 2,
+      "justification": "The student describes what happened and explains their communication struggles and emotional reaction, but does not break down contributing factors or weigh alternative approaches beyond a surface-level acknowledgement."
+    },
+    "pfr": {
+      "level": 2,
+      "justification": "The student recounts the group conflict and their intervention in their own words, showing they understand what occurred, but does not examine why the conflict escalated or critically explore alternative perspectives or assumptions."
+    },
+    "learning": {
+      "level": 2,
+      "justification": "The student states that communication affects group atmosphere and lists future intentions to improve, but does not justify why these strategies are optimal or analyse the underlying reasons communication was effective, remaining at the level of explanation rather than application or evaluation."
+    }
+  },
+  "1": {
+    "result": {
+      "level": 1,
+      "justification": "The result section simply states what was decided with no explanation of how or why, functioning as a bare factual recount."
+    },
+    "pfr": {
+      "level": 2,
+      "justification": "The writer explains the group's emotional discomfort and describes the brainstorming and voting process in their own words, but does not analyse why the confusion arose or examine the decision-making process in any depth."
+    },
+    "learning": {
+      "level": 2,
+      "justification": "The learning statement summarises a general takeaway about communication and empathy but does not connect it to specific causes, apply it to a framework, or justify why this approach was the best course of action."
+    }
+  },
+  "4": {
+    "result": {
+      "level": 2,
+      "justification": "The student summarises the outcome in their own words ('well-received proposal', 'clear project roadmap') but does not examine why the preparation worked or analyse the factors behind the success."
+    },
+    "pfr": {
+      "level": 2,
+      "justification": "The student describes their emotional response (excitement, apprehension) and names the challenge of diverse stakeholder expectations, but does not analyse causes, challenge assumptions, or explore alternative perspectives."
+    },
+    "learning": {
+      "level": 3,
+      "justification": "The student connects the experience to practical skills (project management) and identifies the need for adaptation with evolving technologies, showing a theory-to-practice link, but does not critically justify why these are the right lessons or weigh alternative approaches."
+    }
+  },
+  "29": {
+    "result": {
+      "level": 1,
+      "justification": "The section simply states that tasks were completed smoothly with no negative interactions, offering no explanation, analysis, or interpretation of why this outcome occurred."
+    },
+    "pfr": {
+      "level": 1,
+      "justification": "The section recounts a consistently positive team atmosphere using descriptive statements ('calmness and professionalism') without interpreting, analysing, or challenging any assumptions about the experience."
+    },
+    "learning": {
+      "level": 2,
+      "justification": "The student contrasts their prior preference for solo work with a new understanding of group collaboration, summarising what they gained ('remaining calm, listening, being open') but without analysing why these behaviours were effective or evaluating whether this shift in perspective is justified."
+    }
+  },
+  "34": {
+    "result": {
+      "level": 1,
+      "justification": "The result section merely states that the outcome was 'satisfactory' and that a conceptual design was created, with no explanation, analysis, or interpretation of what happened."
+    },
+    "pfr": {
+      "level": 2,
+      "justification": "The student describes their emotional journey from fear to relief and fulfilment, explaining the shift in feelings through team chemistry and role distribution, but does not analyse why these factors worked or challenge any underlying assumptions."
+    },
+    "learning": {
+      "level": 2,
+      "justification": "The student summarises two general takeaways \u2014 equal contribution aids completion and planning beats panic \u2014 but these are stated as simple conclusions without examining causes, weighing alternatives, or justifying why these are the best approaches."
+    }
+  },
+  "6": {
+    "result": {
+      "level": 1,
+      "justification": "The result section simply states the outcome ('TfNSW accepted the RFI') with no explanation, interpretation, or analysis of what led to that outcome."
+    },
+    "pfr": {
+      "level": 2,
+      "justification": "The student describes their emotional response (worry, feeling daunted) and the pressure from the project manager, but only summarises what happened without examining why the situation was challenging or exploring alternative perspectives."
+    },
+    "learning": {
+      "level": 2,
+      "justification": "The learning is expressed as a general observation about teamwork ('having a team really comes to play') without connecting it to specific theory, analysing why teamwork was effective, or justifying it as the best approach."
+    }
+  },
+  "20": {
+    "result": {
+      "level": 2,
+      "justification": "The section summarises what happened and its outcomes (milestones met, team cohesion improved) but does not examine why the solution worked or analyse the factors behind its success."
+    },
+    "pfr": {
+      "level": 3,
+      "justification": "The writer connects the practice of open dialogue and collaborative input to a shift from feeling overwhelmed to empowered, demonstrating an application of a specific technique (collective evaluation) to manage the situation, but does not analyse the underlying reasons why this approach changed their emotional state."
+    },
+    "learning": {
+      "level": 3,
+      "justification": "The writer identifies lessons about decisiveness and risk-reward weighing and states future intentions to prioritise collaboration, but these commitments are listed without critically justifying why they are the best course of action, keeping the reasoning at the apply level."
+    }
+  },
+  "23": {
+    "result": {
+      "level": 2,
+      "justification": "The section summarises what happened and states outcomes (completed on time, good feedback) but does not analyse why the new approach worked or examine the factors behind the success."
+    },
+    "pfr": {
+      "level": 2,
+      "justification": "The section describes emotional states (unease, frustration, determination) and recounts the team's response, but does not challenge assumptions or explore alternative perspectives on the experience."
+    },
+    "learning": {
+      "level": 3,
+      "justification": "The student connects the experience to broader principles (adaptability, collaborative problem-solving, inclusive environments) and applies these to future professional contexts, but does not weigh alternatives or critically justify why these are the best approaches."
+    }
+  },
+  "40": {
+    "result": {
+      "level": 1,
+      "justification": "The section simply states numerical outcomes (85 cm vs 31 cm) with no explanation, interpretation, or analysis of what those results mean."
+    },
+    "pfr": {
+      "level": 2,
+      "justification": "The student describes frustration and identifies external factors (time pressure, wind) that affected the experiment, but only explains what happened without examining why these factors mattered or exploring alternative perspectives."
+    },
+    "learning": {
+      "level": 3,
+      "justification": "The student connects the experimental process to a practical outcome and identifies a specific corrective action (enclosed environment), demonstrating application of experimental inquiry principles, but the reasoning does not break down multiple contributing factors or weigh alternatives in depth."
+    }
+  }
+}

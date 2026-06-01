@@ -1,0 +1,2515 @@
+{
+  "metadata": {
+    "total_reflections": 250,
+    "grade_distribution": {
+      "fail": 50,
+      "pass": 50,
+      "credit": 50,
+      "distinction": 50,
+      "hd": 50
+    },
+    "topics_count": 40
+  },
+  "SYNTHETIC_REFLECTIONS": [
+    {
+      "id": 1,
+      "grade": 2.0,
+      "topic": "Lifelong learning",
+      "situation": "We needed to prepare a presentation for our engineering tutorial. The reflection focused on lifelong learning.",
+      "task_action": "I tried to finish the work quickly without much planning.",
+      "result": "The work was completed but several parts were rushed and unclear.",
+      "pfr": "I felt stressed and unsure during the task. I realised I was not very organised.",
+      "learning": "I learned that teamwork and preparation are important."
+    },
+    {
+      "id": 2,
+      "grade": 4.0,
+      "topic": "Self-awareness and metacognition",
+      "situation": "We needed to prepare a presentation for our engineering tutorial. The reflection focused on self-awareness and metacognition.",
+      "task_action": "I followed the examples provided in class but did not review them carefully.",
+      "result": "The work was completed but several parts were rushed and unclear.",
+      "pfr": "I thought the task was harder than expected and I struggled to manage it.",
+      "learning": "I learned that I should manage my time better."
+    },
+    {
+      "id": 3,
+      "grade": 2.0,
+      "topic": "Attitudes, thought and learning",
+      "situation": "Our group had to complete a short engineering activity during class. The reflection focused on attitudes, thought and learning.",
+      "task_action": "I completed my section close to the deadline and relied on other students for guidance.",
+      "result": "The work was completed but several parts were rushed and unclear.",
+      "pfr": "I thought the task was harder than expected and I struggled to manage it.",
+      "learning": "I learned that communication can affect project outcomes."
+    },
+    {
+      "id": 4,
+      "grade": 4.0,
+      "topic": "Prioritization and focus",
+      "situation": "Our group had to complete a short engineering activity during class. The reflection focused on prioritization and focus.",
+      "task_action": "I followed the examples provided in class but did not review them carefully.",
+      "result": "The group experienced confusion and delays during the task.",
+      "pfr": "I thought the task was harder than expected and I struggled to manage it.",
+      "learning": "I learned that communication can affect project outcomes."
+    },
+    {
+      "id": 5,
+      "grade": 2.0,
+      "topic": "Trade-offs and judgement",
+      "situation": "I had a lab task and several assignments due in the same week. The reflection focused on trade-offs and judgement.",
+      "task_action": "I followed the examples provided in class but did not review them carefully.",
+      "result": "The final outcome met only the minimum requirements.",
+      "pfr": "I felt stressed and unsure during the task. I realised I was not very organised.",
+      "learning": "I learned that teamwork and preparation are important."
+    },
+    {
+      "id": 6,
+      "grade": 3.0,
+      "topic": "Forming effective teams",
+      "situation": "I had a lab task and several assignments due in the same week. The reflection focused on forming effective teams.",
+      "task_action": "I completed my section close to the deadline and relied on other students for guidance.",
+      "result": "The work was completed but several parts were rushed and unclear.",
+      "pfr": "I found the activity difficult and did not feel confident completing it.",
+      "learning": "I learned that teamwork and preparation are important."
+    },
+    {
+      "id": 7,
+      "grade": 3.0,
+      "topic": "Critical thinking",
+      "situation": "Our group had to complete a short engineering activity during class. The reflection focused on critical thinking.",
+      "task_action": "I tried to finish the work quickly without much planning.",
+      "result": "The final outcome met only the minimum requirements.",
+      "pfr": "I thought the task was harder than expected and I struggled to manage it.",
+      "learning": "I learned that I should manage my time better."
+    },
+    {
+      "id": 8,
+      "grade": 4.0,
+      "topic": "Attitudes, thought and learning",
+      "situation": "I had a lab task and several assignments due in the same week. The reflection focused on attitudes, thought and learning.",
+      "task_action": "I followed the examples provided in class but did not review them carefully.",
+      "result": "The work was completed but several parts were rushed and unclear.",
+      "pfr": "I found the activity difficult and did not feel confident completing it.",
+      "learning": "I learned that teamwork and preparation are important."
+    },
+    {
+      "id": 9,
+      "grade": 3.0,
+      "topic": "Project management",
+      "situation": "We needed to prepare a presentation for our engineering tutorial. The reflection focused on project management.",
+      "task_action": "I followed the examples provided in class but did not review them carefully.",
+      "result": "The final outcome met only the minimum requirements.",
+      "pfr": "I thought the task was harder than expected and I struggled to manage it.",
+      "learning": "I learned that teamwork and preparation are important."
+    },
+    {
+      "id": 10,
+      "grade": 2.0,
+      "topic": "Perseverance and flexibility",
+      "situation": "We needed to prepare a presentation for our engineering tutorial. The reflection focused on perseverance and flexibility.",
+      "task_action": "I completed my section close to the deadline and relied on other students for guidance.",
+      "result": "The final outcome met only the minimum requirements.",
+      "pfr": "I felt stressed and unsure during the task. I realised I was not very organised.",
+      "learning": "I learned that teamwork and preparation are important."
+    },
+    {
+      "id": 11,
+      "grade": 3.0,
+      "topic": "Self-awareness and metacognition",
+      "situation": "I had a lab task and several assignments due in the same week. The reflection focused on self-awareness and metacognition.",
+      "task_action": "I tried to finish the work quickly without much planning.",
+      "result": "The group experienced confusion and delays during the task.",
+      "pfr": "I found the activity difficult and did not feel confident completing it.",
+      "learning": "I learned that teamwork and preparation are important."
+    },
+    {
+      "id": 12,
+      "grade": 3.0,
+      "topic": "Thinking holistically",
+      "situation": "Our group had to complete a short engineering activity during class. The reflection focused on thinking holistically.",
+      "task_action": "I followed the examples provided in class but did not review them carefully.",
+      "result": "The final outcome met only the minimum requirements.",
+      "pfr": "I thought the task was harder than expected and I struggled to manage it.",
+      "learning": "I learned that communication can affect project outcomes."
+    },
+    {
+      "id": 13,
+      "grade": 4.0,
+      "topic": "Perseverance and flexibility",
+      "situation": "We needed to prepare a presentation for our engineering tutorial. The reflection focused on perseverance and flexibility.",
+      "task_action": "I completed my section close to the deadline and relied on other students for guidance.",
+      "result": "The group experienced confusion and delays during the task.",
+      "pfr": "I thought the task was harder than expected and I struggled to manage it.",
+      "learning": "I learned that teamwork and preparation are important."
+    },
+    {
+      "id": 14,
+      "grade": 3.0,
+      "topic": "Professional behaviour",
+      "situation": "I had a lab task and several assignments due in the same week. The reflection focused on professional behaviour.",
+      "task_action": "I tried to finish the work quickly without much planning.",
+      "result": "The group experienced confusion and delays during the task.",
+      "pfr": "I thought the task was harder than expected and I struggled to manage it.",
+      "learning": "I learned that communication can affect project outcomes."
+    },
+    {
+      "id": 15,
+      "grade": 4.0,
+      "topic": "Written communication",
+      "situation": "I had a lab task and several assignments due in the same week. The reflection focused on written communication.",
+      "task_action": "I completed my section close to the deadline and relied on other students for guidance.",
+      "result": "The work was completed but several parts were rushed and unclear.",
+      "pfr": "I felt stressed and unsure during the task. I realised I was not very organised.",
+      "learning": "I learned that I should manage my time better."
+    },
+    {
+      "id": 16,
+      "grade": 3.0,
+      "topic": "Data driven decision making",
+      "situation": "Our group had to complete a short engineering activity during class. The reflection focused on data driven decision making.",
+      "task_action": "I completed my section close to the deadline and relied on other students for guidance.",
+      "result": "The group experienced confusion and delays during the task.",
+      "pfr": "I thought the task was harder than expected and I struggled to manage it.",
+      "learning": "I learned that I should manage my time better."
+    },
+    {
+      "id": 17,
+      "grade": 4.0,
+      "topic": "Communications strategy",
+      "situation": "I had a lab task and several assignments due in the same week. The reflection focused on communications strategy.",
+      "task_action": "I tried to finish the work quickly without much planning.",
+      "result": "The group experienced confusion and delays during the task.",
+      "pfr": "I found the activity difficult and did not feel confident completing it.",
+      "learning": "I learned that teamwork and preparation are important."
+    },
+    {
+      "id": 18,
+      "grade": 2.0,
+      "topic": "Advocacy",
+      "situation": "Our group had to complete a short engineering activity during class. The reflection focused on advocacy.",
+      "task_action": "I followed the examples provided in class but did not review them carefully.",
+      "result": "The group experienced confusion and delays during the task.",
+      "pfr": "I thought the task was harder than expected and I struggled to manage it.",
+      "learning": "I learned that I should manage my time better."
+    },
+    {
+      "id": 19,
+      "grade": 3.0,
+      "topic": "Hardware software integration",
+      "situation": "We needed to prepare a presentation for our engineering tutorial. The reflection focused on hardware software integration.",
+      "task_action": "I tried to finish the work quickly without much planning.",
+      "result": "The final outcome met only the minimum requirements.",
+      "pfr": "I felt stressed and unsure during the task. I realised I was not very organised.",
+      "learning": "I learned that teamwork and preparation are important."
+    },
+    {
+      "id": 20,
+      "grade": 3.0,
+      "topic": "Design process",
+      "situation": "Our group had to complete a short engineering activity during class. The reflection focused on design process.",
+      "task_action": "I completed my section close to the deadline and relied on other students for guidance.",
+      "result": "The work was completed but several parts were rushed and unclear.",
+      "pfr": "I felt stressed and unsure during the task. I realised I was not very organised.",
+      "learning": "I learned that communication can affect project outcomes."
+    },
+    {
+      "id": 21,
+      "grade": 4.0,
+      "topic": "Professional behaviour",
+      "situation": "I had a lab task and several assignments due in the same week. The reflection focused on professional behaviour.",
+      "task_action": "I followed the examples provided in class but did not review them carefully.",
+      "result": "The work was completed but several parts were rushed and unclear.",
+      "pfr": "I found the activity difficult and did not feel confident completing it.",
+      "learning": "I learned that I should manage my time better."
+    },
+    {
+      "id": 22,
+      "grade": 3.0,
+      "topic": "Leadership",
+      "situation": "We needed to prepare a presentation for our engineering tutorial. The reflection focused on leadership.",
+      "task_action": "I tried to finish the work quickly without much planning.",
+      "result": "The group experienced confusion and delays during the task.",
+      "pfr": "I felt stressed and unsure during the task. I realised I was not very organised.",
+      "learning": "I learned that communication can affect project outcomes."
+    },
+    {
+      "id": 23,
+      "grade": 4.0,
+      "topic": "Lifelong learning",
+      "situation": "We needed to prepare a presentation for our engineering tutorial. The reflection focused on lifelong learning.",
+      "task_action": "I tried to finish the work quickly without much planning.",
+      "result": "The group experienced confusion and delays during the task.",
+      "pfr": "I found the activity difficult and did not feel confident completing it.",
+      "learning": "I learned that teamwork and preparation are important."
+    },
+    {
+      "id": 24,
+      "grade": 3.0,
+      "topic": "Roles and responsibility of engineers",
+      "situation": "Our group had to complete a short engineering activity during class. The reflection focused on roles and responsibility of engineers.",
+      "task_action": "I tried to finish the work quickly without much planning.",
+      "result": "The work was completed but several parts were rushed and unclear.",
+      "pfr": "I thought the task was harder than expected and I struggled to manage it.",
+      "learning": "I learned that communication can affect project outcomes."
+    },
+    {
+      "id": 25,
+      "grade": 4.0,
+      "topic": "Advocacy",
+      "situation": "Our group had to complete a short engineering activity during class. The reflection focused on advocacy.",
+      "task_action": "I followed the examples provided in class but did not review them carefully.",
+      "result": "The work was completed but several parts were rushed and unclear.",
+      "pfr": "I thought the task was harder than expected and I struggled to manage it.",
+      "learning": "I learned that I should manage my time better."
+    },
+    {
+      "id": 26,
+      "grade": 4.0,
+      "topic": "Design process",
+      "situation": "Our group had to complete a short engineering activity during class. The reflection focused on design process.",
+      "task_action": "I completed my section close to the deadline and relied on other students for guidance.",
+      "result": "The final outcome met only the minimum requirements.",
+      "pfr": "I felt stressed and unsure during the task. I realised I was not very organised.",
+      "learning": "I learned that communication can affect project outcomes."
+    },
+    {
+      "id": 27,
+      "grade": 2.0,
+      "topic": "Implementation management",
+      "situation": "We needed to prepare a presentation for our engineering tutorial. The reflection focused on implementation management.",
+      "task_action": "I tried to finish the work quickly without much planning.",
+      "result": "The final outcome met only the minimum requirements.",
+      "pfr": "I felt stressed and unsure during the task. I realised I was not very organised.",
+      "learning": "I learned that teamwork and preparation are important."
+    },
+    {
+      "id": 28,
+      "grade": 3.0,
+      "topic": "Thinking holistically",
+      "situation": "Our group had to complete a short engineering activity during class. The reflection focused on thinking holistically.",
+      "task_action": "I completed my section close to the deadline and relied on other students for guidance.",
+      "result": "The work was completed but several parts were rushed and unclear.",
+      "pfr": "I thought the task was harder than expected and I struggled to manage it.",
+      "learning": "I learned that teamwork and preparation are important."
+    },
+    {
+      "id": 29,
+      "grade": 4.0,
+      "topic": "Critical thinking",
+      "situation": "I had a lab task and several assignments due in the same week. The reflection focused on critical thinking.",
+      "task_action": "I completed my section close to the deadline and relied on other students for guidance.",
+      "result": "The group experienced confusion and delays during the task.",
+      "pfr": "I felt stressed and unsure during the task. I realised I was not very organised.",
+      "learning": "I learned that teamwork and preparation are important."
+    },
+    {
+      "id": 30,
+      "grade": 4.0,
+      "topic": "Conflict resolution",
+      "situation": "Our group had to complete a short engineering activity during class. The reflection focused on conflict resolution.",
+      "task_action": "I tried to finish the work quickly without much planning.",
+      "result": "The group experienced confusion and delays during the task.",
+      "pfr": "I thought the task was harder than expected and I struggled to manage it.",
+      "learning": "I learned that I should manage my time better."
+    },
+    {
+      "id": 31,
+      "grade": 4.0,
+      "topic": "Communications strategy",
+      "situation": "We needed to prepare a presentation for our engineering tutorial. The reflection focused on communications strategy.",
+      "task_action": "I followed the examples provided in class but did not review them carefully.",
+      "result": "The work was completed but several parts were rushed and unclear.",
+      "pfr": "I thought the task was harder than expected and I struggled to manage it.",
+      "learning": "I learned that I should manage my time better."
+    },
+    {
+      "id": 32,
+      "grade": 4.0,
+      "topic": "Data driven decision making",
+      "situation": "We needed to prepare a presentation for our engineering tutorial. The reflection focused on data driven decision making.",
+      "task_action": "I tried to finish the work quickly without much planning.",
+      "result": "The final outcome met only the minimum requirements.",
+      "pfr": "I thought the task was harder than expected and I struggled to manage it.",
+      "learning": "I learned that I should manage my time better."
+    },
+    {
+      "id": 33,
+      "grade": 2.0,
+      "topic": "Lifelong learning",
+      "situation": "Our group had to complete a short engineering activity during class. The reflection focused on lifelong learning.",
+      "task_action": "I completed my section close to the deadline and relied on other students for guidance.",
+      "result": "The final outcome met only the minimum requirements.",
+      "pfr": "I felt stressed and unsure during the task. I realised I was not very organised.",
+      "learning": "I learned that communication can affect project outcomes."
+    },
+    {
+      "id": 34,
+      "grade": 2.0,
+      "topic": "Project management",
+      "situation": "We needed to prepare a presentation for our engineering tutorial. The reflection focused on project management.",
+      "task_action": "I completed my section close to the deadline and relied on other students for guidance.",
+      "result": "The work was completed but several parts were rushed and unclear.",
+      "pfr": "I felt stressed and unsure during the task. I realised I was not very organised.",
+      "learning": "I learned that communication can affect project outcomes."
+    },
+    {
+      "id": 35,
+      "grade": 2.0,
+      "topic": "Initiative under uncertainty",
+      "situation": "Our group had to complete a short engineering activity during class. The reflection focused on initiative under uncertainty.",
+      "task_action": "I completed my section close to the deadline and relied on other students for guidance.",
+      "result": "The final outcome met only the minimum requirements.",
+      "pfr": "I felt stressed and unsure during the task. I realised I was not very organised.",
+      "learning": "I learned that communication can affect project outcomes."
+    },
+    {
+      "id": 36,
+      "grade": 3.0,
+      "topic": "Oral presentation",
+      "situation": "We needed to prepare a presentation for our engineering tutorial. The reflection focused on oral presentation.",
+      "task_action": "I tried to finish the work quickly without much planning.",
+      "result": "The work was completed but several parts were rushed and unclear.",
+      "pfr": "I thought the task was harder than expected and I struggled to manage it.",
+      "learning": "I learned that teamwork and preparation are important."
+    },
+    {
+      "id": 37,
+      "grade": 4.0,
+      "topic": "Sustainability",
+      "situation": "I had a lab task and several assignments due in the same week. The reflection focused on sustainability.",
+      "task_action": "I completed my section close to the deadline and relied on other students for guidance.",
+      "result": "The final outcome met only the minimum requirements.",
+      "pfr": "I found the activity difficult and did not feel confident completing it.",
+      "learning": "I learned that teamwork and preparation are important."
+    },
+    {
+      "id": 38,
+      "grade": 2.0,
+      "topic": "Self-awareness and metacognition",
+      "situation": "We needed to prepare a presentation for our engineering tutorial. The reflection focused on self-awareness and metacognition.",
+      "task_action": "I tried to finish the work quickly without much planning.",
+      "result": "The final outcome met only the minimum requirements.",
+      "pfr": "I found the activity difficult and did not feel confident completing it.",
+      "learning": "I learned that I should manage my time better."
+    },
+    {
+      "id": 39,
+      "grade": 4.0,
+      "topic": "Visual communication",
+      "situation": "Our group had to complete a short engineering activity during class. The reflection focused on visual communication.",
+      "task_action": "I followed the examples provided in class but did not review them carefully.",
+      "result": "The group experienced confusion and delays during the task.",
+      "pfr": "I thought the task was harder than expected and I struggled to manage it.",
+      "learning": "I learned that teamwork and preparation are important."
+    },
+    {
+      "id": 40,
+      "grade": 3.0,
+      "topic": "Initiative under uncertainty",
+      "situation": "We needed to prepare a presentation for our engineering tutorial. The reflection focused on initiative under uncertainty.",
+      "task_action": "I tried to finish the work quickly without much planning.",
+      "result": "The work was completed but several parts were rushed and unclear.",
+      "pfr": "I felt stressed and unsure during the task. I realised I was not very organised.",
+      "learning": "I learned that teamwork and preparation are important."
+    },
+    {
+      "id": 41,
+      "grade": 4.0,
+      "topic": "Communications",
+      "situation": "I had a lab task and several assignments due in the same week. The reflection focused on communications.",
+      "task_action": "I completed my section close to the deadline and relied on other students for guidance.",
+      "result": "The final outcome met only the minimum requirements.",
+      "pfr": "I felt stressed and unsure during the task. I realised I was not very organised.",
+      "learning": "I learned that I should manage my time better."
+    },
+    {
+      "id": 42,
+      "grade": 2.0,
+      "topic": "Visual communication",
+      "situation": "Our group had to complete a short engineering activity during class. The reflection focused on visual communication.",
+      "task_action": "I tried to finish the work quickly without much planning.",
+      "result": "The group experienced confusion and delays during the task.",
+      "pfr": "I felt stressed and unsure during the task. I realised I was not very organised.",
+      "learning": "I learned that teamwork and preparation are important."
+    },
+    {
+      "id": 43,
+      "grade": 2.0,
+      "topic": "Systems engineering",
+      "situation": "Our group had to complete a short engineering activity during class. The reflection focused on systems engineering.",
+      "task_action": "I completed my section close to the deadline and relied on other students for guidance.",
+      "result": "The work was completed but several parts were rushed and unclear.",
+      "pfr": "I found the activity difficult and did not feel confident completing it.",
+      "learning": "I learned that I should manage my time better."
+    },
+    {
+      "id": 44,
+      "grade": 2.0,
+      "topic": "Conflict resolution",
+      "situation": "I had a lab task and several assignments due in the same week. The reflection focused on conflict resolution.",
+      "task_action": "I completed my section close to the deadline and relied on other students for guidance.",
+      "result": "The work was completed but several parts were rushed and unclear.",
+      "pfr": "I found the activity difficult and did not feel confident completing it.",
+      "learning": "I learned that teamwork and preparation are important."
+    },
+    {
+      "id": 45,
+      "grade": 3.0,
+      "topic": "Reproducibility",
+      "situation": "I had a lab task and several assignments due in the same week. The reflection focused on reproducibility.",
+      "task_action": "I tried to finish the work quickly without much planning.",
+      "result": "The final outcome met only the minimum requirements.",
+      "pfr": "I thought the task was harder than expected and I struggled to manage it.",
+      "learning": "I learned that communication can affect project outcomes."
+    },
+    {
+      "id": 46,
+      "grade": 4.0,
+      "topic": "Project management",
+      "situation": "We needed to prepare a presentation for our engineering tutorial. The reflection focused on project management.",
+      "task_action": "I tried to finish the work quickly without much planning.",
+      "result": "The work was completed but several parts were rushed and unclear.",
+      "pfr": "I felt stressed and unsure during the task. I realised I was not very organised.",
+      "learning": "I learned that I should manage my time better."
+    },
+    {
+      "id": 47,
+      "grade": 2.0,
+      "topic": "Communications strategy",
+      "situation": "We needed to prepare a presentation for our engineering tutorial. The reflection focused on communications strategy.",
+      "task_action": "I followed the examples provided in class but did not review them carefully.",
+      "result": "The group experienced confusion and delays during the task.",
+      "pfr": "I felt stressed and unsure during the task. I realised I was not very organised.",
+      "learning": "I learned that communication can affect project outcomes."
+    },
+    {
+      "id": 48,
+      "grade": 2.0,
+      "topic": "Thinking creatively",
+      "situation": "Our group had to complete a short engineering activity during class. The reflection focused on thinking creatively.",
+      "task_action": "I followed the examples provided in class but did not review them carefully.",
+      "result": "The final outcome met only the minimum requirements.",
+      "pfr": "I thought the task was harder than expected and I struggled to manage it.",
+      "learning": "I learned that communication can affect project outcomes."
+    },
+    {
+      "id": 49,
+      "grade": 2.0,
+      "topic": "Professional behaviour",
+      "situation": "We needed to prepare a presentation for our engineering tutorial. The reflection focused on professional behaviour.",
+      "task_action": "I completed my section close to the deadline and relied on other students for guidance.",
+      "result": "The work was completed but several parts were rushed and unclear.",
+      "pfr": "I felt stressed and unsure during the task. I realised I was not very organised.",
+      "learning": "I learned that communication can affect project outcomes."
+    },
+    {
+      "id": 50,
+      "grade": 4.0,
+      "topic": "Perseverance and flexibility",
+      "situation": "Our group had to complete a short engineering activity during class. The reflection focused on perseverance and flexibility.",
+      "task_action": "I tried to finish the work quickly without much planning.",
+      "result": "The work was completed but several parts were rushed and unclear.",
+      "pfr": "I thought the task was harder than expected and I struggled to manage it.",
+      "learning": "I learned that teamwork and preparation are important."
+    },
+    {
+      "id": 51,
+      "grade": 5.0,
+      "topic": "Hardware software integration",
+      "situation": "Our team needed to explain a technical concept to classmates during a workshop. The reflection focused on hardware software integration.",
+      "task_action": "I organised my tasks more clearly and asked teammates for clarification when problems appeared.",
+      "result": "Communication improved slightly and the team became more organised.",
+      "pfr": "I noticed that planning ahead reduced some of the stress during the assignment.",
+      "learning": "I learned that adapting to problems is important during projects."
+    },
+    {
+      "id": 52,
+      "grade": 6.0,
+      "topic": "Sustainability",
+      "situation": "In a laboratory exercise, I had difficulty applying the software tools correctly. The reflection focused on sustainability.",
+      "task_action": "I organised my tasks more clearly and asked teammates for clarification when problems appeared.",
+      "result": "The final submission met the requirements and received reasonable feedback.",
+      "pfr": "I noticed that planning ahead reduced some of the stress during the assignment.",
+      "learning": "I learned that reviewing work carefully helps reduce mistakes."
+    },
+    {
+      "id": 53,
+      "grade": 6.0,
+      "topic": "Oral presentation",
+      "situation": "In a laboratory exercise, I had difficulty applying the software tools correctly. The reflection focused on oral presentation.",
+      "task_action": "I organised my tasks more clearly and asked teammates for clarification when problems appeared.",
+      "result": "The final submission met the requirements and received reasonable feedback.",
+      "pfr": "I noticed that planning ahead reduced some of the stress during the assignment.",
+      "learning": "I learned that reviewing work carefully helps reduce mistakes."
+    },
+    {
+      "id": 54,
+      "grade": 6.0,
+      "topic": "Visual communication",
+      "situation": "During a design project, our team experienced delays because tasks were not clearly organised. The reflection focused on visual communication.",
+      "task_action": "I organised my tasks more clearly and asked teammates for clarification when problems appeared.",
+      "result": "Communication improved slightly and the team became more organised.",
+      "pfr": "I noticed that planning ahead reduced some of the stress during the assignment.",
+      "learning": "I learned that adapting to problems is important during projects."
+    },
+    {
+      "id": 55,
+      "grade": 5.0,
+      "topic": "Self-awareness and metacognition",
+      "situation": "Our team needed to explain a technical concept to classmates during a workshop. The reflection focused on self-awareness and metacognition.",
+      "task_action": "I organised my tasks more clearly and asked teammates for clarification when problems appeared.",
+      "result": "The final submission met the requirements and received reasonable feedback.",
+      "pfr": "I felt more confident after solving some of the issues, although I still found parts challenging.",
+      "learning": "I learned that planning and communication can improve engineering teamwork."
+    },
+    {
+      "id": 56,
+      "grade": 5.0,
+      "topic": "Creating new solution concepts",
+      "situation": "During a design project, our team experienced delays because tasks were not clearly organised. The reflection focused on creating new solution concepts.",
+      "task_action": "I reviewed the instructions again and made small adjustments to how I approached the task.",
+      "result": "Communication improved slightly and the team became more organised.",
+      "pfr": "I realised I needed to improve my preparation and communication during projects.",
+      "learning": "I learned that reviewing work carefully helps reduce mistakes."
+    },
+    {
+      "id": 57,
+      "grade": 6.0,
+      "topic": "Systems engineering",
+      "situation": "Our team needed to explain a technical concept to classmates during a workshop. The reflection focused on systems engineering.",
+      "task_action": "I communicated updates to the group and contributed to completing the required work.",
+      "result": "The final submission met the requirements and received reasonable feedback.",
+      "pfr": "I realised I needed to improve my preparation and communication during projects.",
+      "learning": "I learned that adapting to problems is important during projects."
+    },
+    {
+      "id": 58,
+      "grade": 6.0,
+      "topic": "Project management",
+      "situation": "Our team needed to explain a technical concept to classmates during a workshop. The reflection focused on project management.",
+      "task_action": "I organised my tasks more clearly and asked teammates for clarification when problems appeared.",
+      "result": "The project was completed successfully, although there were still areas that could have been improved.",
+      "pfr": "I felt more confident after solving some of the issues, although I still found parts challenging.",
+      "learning": "I learned that planning and communication can improve engineering teamwork."
+    },
+    {
+      "id": 59,
+      "grade": 5.5,
+      "topic": "Self-awareness and metacognition",
+      "situation": "In a laboratory exercise, I had difficulty applying the software tools correctly. The reflection focused on self-awareness and metacognition.",
+      "task_action": "I reviewed the instructions again and made small adjustments to how I approached the task.",
+      "result": "The final submission met the requirements and received reasonable feedback.",
+      "pfr": "I realised I needed to improve my preparation and communication during projects.",
+      "learning": "I learned that adapting to problems is important during projects."
+    },
+    {
+      "id": 60,
+      "grade": 5.5,
+      "topic": "Defining solutions",
+      "situation": "Our team needed to explain a technical concept to classmates during a workshop. The reflection focused on defining solutions.",
+      "task_action": "I communicated updates to the group and contributed to completing the required work.",
+      "result": "Communication improved slightly and the team became more organised.",
+      "pfr": "I noticed that planning ahead reduced some of the stress during the assignment.",
+      "learning": "I learned that reviewing work carefully helps reduce mistakes."
+    },
+    {
+      "id": 61,
+      "grade": 5.0,
+      "topic": "Advocacy",
+      "situation": "During a design project, our team experienced delays because tasks were not clearly organised. The reflection focused on advocacy.",
+      "task_action": "I communicated updates to the group and contributed to completing the required work.",
+      "result": "Communication improved slightly and the team became more organised.",
+      "pfr": "I felt more confident after solving some of the issues, although I still found parts challenging.",
+      "learning": "I learned that planning and communication can improve engineering teamwork."
+    },
+    {
+      "id": 62,
+      "grade": 6.0,
+      "topic": "Experimental inquiry",
+      "situation": "During a design project, our team experienced delays because tasks were not clearly organised. The reflection focused on experimental inquiry.",
+      "task_action": "I communicated updates to the group and contributed to completing the required work.",
+      "result": "Communication improved slightly and the team became more organised.",
+      "pfr": "I realised I needed to improve my preparation and communication during projects.",
+      "learning": "I learned that adapting to problems is important during projects."
+    },
+    {
+      "id": 63,
+      "grade": 6.3,
+      "topic": "Accountability in teamwork",
+      "situation": "Our team needed to explain a technical concept to classmates during a workshop. The reflection focused on accountability in teamwork.",
+      "task_action": "I organised my tasks more clearly and asked teammates for clarification when problems appeared.",
+      "result": "The project was completed successfully, although there were still areas that could have been improved.",
+      "pfr": "I realised I needed to improve my preparation and communication during projects.",
+      "learning": "I learned that adapting to problems is important during projects."
+    },
+    {
+      "id": 64,
+      "grade": 5.0,
+      "topic": "Ethics and social responsibility",
+      "situation": "In a laboratory exercise, I had difficulty applying the software tools correctly. The reflection focused on ethics and social responsibility.",
+      "task_action": "I communicated updates to the group and contributed to completing the required work.",
+      "result": "The final submission met the requirements and received reasonable feedback.",
+      "pfr": "I realised I needed to improve my preparation and communication during projects.",
+      "learning": "I learned that reviewing work carefully helps reduce mistakes."
+    },
+    {
+      "id": 65,
+      "grade": 5.0,
+      "topic": "Time and resource management",
+      "situation": "In a laboratory exercise, I had difficulty applying the software tools correctly. The reflection focused on time and resource management.",
+      "task_action": "I reviewed the instructions again and made small adjustments to how I approached the task.",
+      "result": "The project was completed successfully, although there were still areas that could have been improved.",
+      "pfr": "I felt more confident after solving some of the issues, although I still found parts challenging.",
+      "learning": "I learned that planning and communication can improve engineering teamwork."
+    },
+    {
+      "id": 66,
+      "grade": 5.0,
+      "topic": "Oral presentation",
+      "situation": "In a laboratory exercise, I had difficulty applying the software tools correctly. The reflection focused on oral presentation.",
+      "task_action": "I communicated updates to the group and contributed to completing the required work.",
+      "result": "Communication improved slightly and the team became more organised.",
+      "pfr": "I noticed that planning ahead reduced some of the stress during the assignment.",
+      "learning": "I learned that adapting to problems is important during projects."
+    },
+    {
+      "id": 67,
+      "grade": 5.5,
+      "topic": "Ethics and social responsibility",
+      "situation": "During a design project, our team experienced delays because tasks were not clearly organised. The reflection focused on ethics and social responsibility.",
+      "task_action": "I organised my tasks more clearly and asked teammates for clarification when problems appeared.",
+      "result": "Communication improved slightly and the team became more organised.",
+      "pfr": "I realised I needed to improve my preparation and communication during projects.",
+      "learning": "I learned that planning and communication can improve engineering teamwork."
+    },
+    {
+      "id": 68,
+      "grade": 6.3,
+      "topic": "Defining solutions",
+      "situation": "Our team needed to explain a technical concept to classmates during a workshop. The reflection focused on defining solutions.",
+      "task_action": "I communicated updates to the group and contributed to completing the required work.",
+      "result": "The project was completed successfully, although there were still areas that could have been improved.",
+      "pfr": "I felt more confident after solving some of the issues, although I still found parts challenging.",
+      "learning": "I learned that planning and communication can improve engineering teamwork."
+    },
+    {
+      "id": 69,
+      "grade": 6.3,
+      "topic": "Self-awareness and metacognition",
+      "situation": "During a design project, our team experienced delays because tasks were not clearly organised. The reflection focused on self-awareness and metacognition.",
+      "task_action": "I reviewed the instructions again and made small adjustments to how I approached the task.",
+      "result": "The project was completed successfully, although there were still areas that could have been improved.",
+      "pfr": "I realised I needed to improve my preparation and communication during projects.",
+      "learning": "I learned that reviewing work carefully helps reduce mistakes."
+    },
+    {
+      "id": 70,
+      "grade": 6.0,
+      "topic": "Creating new solution concepts",
+      "situation": "During a design project, our team experienced delays because tasks were not clearly organised. The reflection focused on creating new solution concepts.",
+      "task_action": "I organised my tasks more clearly and asked teammates for clarification when problems appeared.",
+      "result": "The project was completed successfully, although there were still areas that could have been improved.",
+      "pfr": "I noticed that planning ahead reduced some of the stress during the assignment.",
+      "learning": "I learned that planning and communication can improve engineering teamwork."
+    },
+    {
+      "id": 71,
+      "grade": 6.0,
+      "topic": "Data driven decision making",
+      "situation": "In a laboratory exercise, I had difficulty applying the software tools correctly. The reflection focused on data driven decision making.",
+      "task_action": "I organised my tasks more clearly and asked teammates for clarification when problems appeared.",
+      "result": "Communication improved slightly and the team became more organised.",
+      "pfr": "I felt more confident after solving some of the issues, although I still found parts challenging.",
+      "learning": "I learned that adapting to problems is important during projects."
+    },
+    {
+      "id": 72,
+      "grade": 6.3,
+      "topic": "Design process",
+      "situation": "Our team needed to explain a technical concept to classmates during a workshop. The reflection focused on design process.",
+      "task_action": "I communicated updates to the group and contributed to completing the required work.",
+      "result": "Communication improved slightly and the team became more organised.",
+      "pfr": "I realised I needed to improve my preparation and communication during projects.",
+      "learning": "I learned that planning and communication can improve engineering teamwork."
+    },
+    {
+      "id": 73,
+      "grade": 5.5,
+      "topic": "Advocacy",
+      "situation": "Our team needed to explain a technical concept to classmates during a workshop. The reflection focused on advocacy.",
+      "task_action": "I reviewed the instructions again and made small adjustments to how I approached the task.",
+      "result": "The project was completed successfully, although there were still areas that could have been improved.",
+      "pfr": "I realised I needed to improve my preparation and communication during projects.",
+      "learning": "I learned that adapting to problems is important during projects."
+    },
+    {
+      "id": 74,
+      "grade": 6.0,
+      "topic": "Forming effective teams",
+      "situation": "Our team needed to explain a technical concept to classmates during a workshop. The reflection focused on forming effective teams.",
+      "task_action": "I reviewed the instructions again and made small adjustments to how I approached the task.",
+      "result": "Communication improved slightly and the team became more organised.",
+      "pfr": "I noticed that planning ahead reduced some of the stress during the assignment.",
+      "learning": "I learned that adapting to problems is important during projects."
+    },
+    {
+      "id": 75,
+      "grade": 6.3,
+      "topic": "Lifelong learning",
+      "situation": "Our team needed to explain a technical concept to classmates during a workshop. The reflection focused on lifelong learning.",
+      "task_action": "I organised my tasks more clearly and asked teammates for clarification when problems appeared.",
+      "result": "Communication improved slightly and the team became more organised.",
+      "pfr": "I realised I needed to improve my preparation and communication during projects.",
+      "learning": "I learned that adapting to problems is important during projects."
+    },
+    {
+      "id": 76,
+      "grade": 5.0,
+      "topic": "Forming effective teams",
+      "situation": "Our team needed to explain a technical concept to classmates during a workshop. The reflection focused on forming effective teams.",
+      "task_action": "I communicated updates to the group and contributed to completing the required work.",
+      "result": "The final submission met the requirements and received reasonable feedback.",
+      "pfr": "I noticed that planning ahead reduced some of the stress during the assignment.",
+      "learning": "I learned that adapting to problems is important during projects."
+    },
+    {
+      "id": 77,
+      "grade": 6.0,
+      "topic": "Communications",
+      "situation": "In a laboratory exercise, I had difficulty applying the software tools correctly. The reflection focused on communications.",
+      "task_action": "I organised my tasks more clearly and asked teammates for clarification when problems appeared.",
+      "result": "The final submission met the requirements and received reasonable feedback.",
+      "pfr": "I felt more confident after solving some of the issues, although I still found parts challenging.",
+      "learning": "I learned that adapting to problems is important during projects."
+    },
+    {
+      "id": 78,
+      "grade": 5.0,
+      "topic": "Thinking creatively",
+      "situation": "Our team needed to explain a technical concept to classmates during a workshop. The reflection focused on thinking creatively.",
+      "task_action": "I reviewed the instructions again and made small adjustments to how I approached the task.",
+      "result": "The final submission met the requirements and received reasonable feedback.",
+      "pfr": "I felt more confident after solving some of the issues, although I still found parts challenging.",
+      "learning": "I learned that adapting to problems is important during projects."
+    },
+    {
+      "id": 79,
+      "grade": 6.0,
+      "topic": "Trade-offs and judgement",
+      "situation": "In a laboratory exercise, I had difficulty applying the software tools correctly. The reflection focused on trade-offs and judgement.",
+      "task_action": "I communicated updates to the group and contributed to completing the required work.",
+      "result": "Communication improved slightly and the team became more organised.",
+      "pfr": "I noticed that planning ahead reduced some of the stress during the assignment.",
+      "learning": "I learned that planning and communication can improve engineering teamwork."
+    },
+    {
+      "id": 80,
+      "grade": 6.3,
+      "topic": "Communications",
+      "situation": "Our team needed to explain a technical concept to classmates during a workshop. The reflection focused on communications.",
+      "task_action": "I reviewed the instructions again and made small adjustments to how I approached the task.",
+      "result": "The final submission met the requirements and received reasonable feedback.",
+      "pfr": "I noticed that planning ahead reduced some of the stress during the assignment.",
+      "learning": "I learned that planning and communication can improve engineering teamwork."
+    },
+    {
+      "id": 81,
+      "grade": 6.0,
+      "topic": "Adaptability",
+      "situation": "In a laboratory exercise, I had difficulty applying the software tools correctly. The reflection focused on adaptability.",
+      "task_action": "I communicated updates to the group and contributed to completing the required work.",
+      "result": "The project was completed successfully, although there were still areas that could have been improved.",
+      "pfr": "I felt more confident after solving some of the issues, although I still found parts challenging.",
+      "learning": "I learned that reviewing work carefully helps reduce mistakes."
+    },
+    {
+      "id": 82,
+      "grade": 6.3,
+      "topic": "Communications strategy",
+      "situation": "Our team needed to explain a technical concept to classmates during a workshop. The reflection focused on communications strategy.",
+      "task_action": "I communicated updates to the group and contributed to completing the required work.",
+      "result": "The final submission met the requirements and received reasonable feedback.",
+      "pfr": "I felt more confident after solving some of the issues, although I still found parts challenging.",
+      "learning": "I learned that reviewing work carefully helps reduce mistakes."
+    },
+    {
+      "id": 83,
+      "grade": 6.3,
+      "topic": "Accountability in teamwork",
+      "situation": "Our team needed to explain a technical concept to classmates during a workshop. The reflection focused on accountability in teamwork.",
+      "task_action": "I organised my tasks more clearly and asked teammates for clarification when problems appeared.",
+      "result": "The final submission met the requirements and received reasonable feedback.",
+      "pfr": "I felt more confident after solving some of the issues, although I still found parts challenging.",
+      "learning": "I learned that adapting to problems is important during projects."
+    },
+    {
+      "id": 84,
+      "grade": 5.0,
+      "topic": "Professional behaviour",
+      "situation": "In a laboratory exercise, I had difficulty applying the software tools correctly. The reflection focused on professional behaviour.",
+      "task_action": "I communicated updates to the group and contributed to completing the required work.",
+      "result": "The final submission met the requirements and received reasonable feedback.",
+      "pfr": "I noticed that planning ahead reduced some of the stress during the assignment.",
+      "learning": "I learned that adapting to problems is important during projects."
+    },
+    {
+      "id": 85,
+      "grade": 5.0,
+      "topic": "Defining solutions",
+      "situation": "During a design project, our team experienced delays because tasks were not clearly organised. The reflection focused on defining solutions.",
+      "task_action": "I communicated updates to the group and contributed to completing the required work.",
+      "result": "Communication improved slightly and the team became more organised.",
+      "pfr": "I realised I needed to improve my preparation and communication during projects.",
+      "learning": "I learned that planning and communication can improve engineering teamwork."
+    },
+    {
+      "id": 86,
+      "grade": 5.0,
+      "topic": "Ethics and social responsibility",
+      "situation": "During a design project, our team experienced delays because tasks were not clearly organised. The reflection focused on ethics and social responsibility.",
+      "task_action": "I organised my tasks more clearly and asked teammates for clarification when problems appeared.",
+      "result": "Communication improved slightly and the team became more organised.",
+      "pfr": "I noticed that planning ahead reduced some of the stress during the assignment.",
+      "learning": "I learned that planning and communication can improve engineering teamwork."
+    },
+    {
+      "id": 87,
+      "grade": 6.3,
+      "topic": "Visual communication",
+      "situation": "Our team needed to explain a technical concept to classmates during a workshop. The reflection focused on visual communication.",
+      "task_action": "I communicated updates to the group and contributed to completing the required work.",
+      "result": "The project was completed successfully, although there were still areas that could have been improved.",
+      "pfr": "I noticed that planning ahead reduced some of the stress during the assignment.",
+      "learning": "I learned that adapting to problems is important during projects."
+    },
+    {
+      "id": 88,
+      "grade": 6.3,
+      "topic": "Reproducibility",
+      "situation": "In a laboratory exercise, I had difficulty applying the software tools correctly. The reflection focused on reproducibility.",
+      "task_action": "I organised my tasks more clearly and asked teammates for clarification when problems appeared.",
+      "result": "The project was completed successfully, although there were still areas that could have been improved.",
+      "pfr": "I noticed that planning ahead reduced some of the stress during the assignment.",
+      "learning": "I learned that adapting to problems is important during projects."
+    },
+    {
+      "id": 89,
+      "grade": 5.0,
+      "topic": "Experimental inquiry",
+      "situation": "In a laboratory exercise, I had difficulty applying the software tools correctly. The reflection focused on experimental inquiry.",
+      "task_action": "I organised my tasks more clearly and asked teammates for clarification when problems appeared.",
+      "result": "The project was completed successfully, although there were still areas that could have been improved.",
+      "pfr": "I noticed that planning ahead reduced some of the stress during the assignment.",
+      "learning": "I learned that adapting to problems is important during projects."
+    },
+    {
+      "id": 90,
+      "grade": 5.0,
+      "topic": "Visual communication",
+      "situation": "Our team needed to explain a technical concept to classmates during a workshop. The reflection focused on visual communication.",
+      "task_action": "I organised my tasks more clearly and asked teammates for clarification when problems appeared.",
+      "result": "The project was completed successfully, although there were still areas that could have been improved.",
+      "pfr": "I felt more confident after solving some of the issues, although I still found parts challenging.",
+      "learning": "I learned that planning and communication can improve engineering teamwork."
+    },
+    {
+      "id": 91,
+      "grade": 6.0,
+      "topic": "Visual communication",
+      "situation": "In a laboratory exercise, I had difficulty applying the software tools correctly. The reflection focused on visual communication.",
+      "task_action": "I communicated updates to the group and contributed to completing the required work.",
+      "result": "The final submission met the requirements and received reasonable feedback.",
+      "pfr": "I noticed that planning ahead reduced some of the stress during the assignment.",
+      "learning": "I learned that reviewing work carefully helps reduce mistakes."
+    },
+    {
+      "id": 92,
+      "grade": 6.3,
+      "topic": "Project management",
+      "situation": "During a design project, our team experienced delays because tasks were not clearly organised. The reflection focused on project management.",
+      "task_action": "I communicated updates to the group and contributed to completing the required work.",
+      "result": "Communication improved slightly and the team became more organised.",
+      "pfr": "I felt more confident after solving some of the issues, although I still found parts challenging.",
+      "learning": "I learned that reviewing work carefully helps reduce mistakes."
+    },
+    {
+      "id": 93,
+      "grade": 6.0,
+      "topic": "Oral presentation",
+      "situation": "Our team needed to explain a technical concept to classmates during a workshop. The reflection focused on oral presentation.",
+      "task_action": "I reviewed the instructions again and made small adjustments to how I approached the task.",
+      "result": "The final submission met the requirements and received reasonable feedback.",
+      "pfr": "I realised I needed to improve my preparation and communication during projects.",
+      "learning": "I learned that reviewing work carefully helps reduce mistakes."
+    },
+    {
+      "id": 94,
+      "grade": 5.0,
+      "topic": "Accountability in teamwork",
+      "situation": "Our team needed to explain a technical concept to classmates during a workshop. The reflection focused on accountability in teamwork.",
+      "task_action": "I reviewed the instructions again and made small adjustments to how I approached the task.",
+      "result": "The project was completed successfully, although there were still areas that could have been improved.",
+      "pfr": "I felt more confident after solving some of the issues, although I still found parts challenging.",
+      "learning": "I learned that reviewing work carefully helps reduce mistakes."
+    },
+    {
+      "id": 95,
+      "grade": 5.0,
+      "topic": "Thinking creatively",
+      "situation": "During a design project, our team experienced delays because tasks were not clearly organised. The reflection focused on thinking creatively.",
+      "task_action": "I organised my tasks more clearly and asked teammates for clarification when problems appeared.",
+      "result": "The project was completed successfully, although there were still areas that could have been improved.",
+      "pfr": "I felt more confident after solving some of the issues, although I still found parts challenging.",
+      "learning": "I learned that adapting to problems is important during projects."
+    },
+    {
+      "id": 96,
+      "grade": 5.5,
+      "topic": "Ethics and social responsibility",
+      "situation": "During a design project, our team experienced delays because tasks were not clearly organised. The reflection focused on ethics and social responsibility.",
+      "task_action": "I reviewed the instructions again and made small adjustments to how I approached the task.",
+      "result": "Communication improved slightly and the team became more organised.",
+      "pfr": "I felt more confident after solving some of the issues, although I still found parts challenging.",
+      "learning": "I learned that adapting to problems is important during projects."
+    },
+    {
+      "id": 97,
+      "grade": 6.3,
+      "topic": "Visual communication",
+      "situation": "During a design project, our team experienced delays because tasks were not clearly organised. The reflection focused on visual communication.",
+      "task_action": "I organised my tasks more clearly and asked teammates for clarification when problems appeared.",
+      "result": "Communication improved slightly and the team became more organised.",
+      "pfr": "I felt more confident after solving some of the issues, although I still found parts challenging.",
+      "learning": "I learned that adapting to problems is important during projects."
+    },
+    {
+      "id": 98,
+      "grade": 6.3,
+      "topic": "Prioritization and focus",
+      "situation": "In a laboratory exercise, I had difficulty applying the software tools correctly. The reflection focused on prioritization and focus.",
+      "task_action": "I organised my tasks more clearly and asked teammates for clarification when problems appeared.",
+      "result": "Communication improved slightly and the team became more organised.",
+      "pfr": "I felt more confident after solving some of the issues, although I still found parts challenging.",
+      "learning": "I learned that reviewing work carefully helps reduce mistakes."
+    },
+    {
+      "id": 99,
+      "grade": 5.5,
+      "topic": "Trade-offs and judgement",
+      "situation": "In a laboratory exercise, I had difficulty applying the software tools correctly. The reflection focused on trade-offs and judgement.",
+      "task_action": "I organised my tasks more clearly and asked teammates for clarification when problems appeared.",
+      "result": "Communication improved slightly and the team became more organised.",
+      "pfr": "I felt more confident after solving some of the issues, although I still found parts challenging.",
+      "learning": "I learned that reviewing work carefully helps reduce mistakes."
+    },
+    {
+      "id": 100,
+      "grade": 6.3,
+      "topic": "Prioritization and focus",
+      "situation": "In a laboratory exercise, I had difficulty applying the software tools correctly. The reflection focused on prioritization and focus.",
+      "task_action": "I communicated updates to the group and contributed to completing the required work.",
+      "result": "The final submission met the requirements and received reasonable feedback.",
+      "pfr": "I felt more confident after solving some of the issues, although I still found parts challenging.",
+      "learning": "I learned that adapting to problems is important during projects."
+    },
+    {
+      "id": 101,
+      "grade": 7.2,
+      "topic": "Professional behaviour",
+      "situation": "During a semester project, the team encountered coordination problems that affected progress and communication. The reflection focused on professional behaviour.",
+      "task_action": "I divided the task into smaller stages and documented decisions to reduce confusion within the group.",
+      "result": "The project became more organised and communication between members improved noticeably.",
+      "pfr": "I recognised that my original assumptions about the task were too narrow and limited the effectiveness of the project workflow.",
+      "learning": "I learned that effective problem solving requires considering both technical and organisational factors."
+    },
+    {
+      "id": 102,
+      "grade": 7.4,
+      "topic": "Hardware software integration",
+      "situation": "Our project required balancing technical requirements with time and resource constraints. The reflection focused on hardware software integration.",
+      "task_action": "I reviewed the project requirements in more detail and introduced clearer task coordination and progress tracking.",
+      "result": "The revised approach improved coordination and reduced repeated mistakes during the project.",
+      "pfr": "I became more aware of how structured planning and feedback influenced the quality of the final outcome.",
+      "learning": "I learned that effective problem solving requires considering both technical and organisational factors."
+    },
+    {
+      "id": 103,
+      "grade": 7.2,
+      "topic": "Time and resource management",
+      "situation": "During a semester project, the team encountered coordination problems that affected progress and communication. The reflection focused on time and resource management.",
+      "task_action": "I reviewed the project requirements in more detail and introduced clearer task coordination and progress tracking.",
+      "result": "The team completed the work more efficiently and produced a stronger final outcome.",
+      "pfr": "Through reflection, I realised that communication and coordination were as important as technical ability during engineering projects.",
+      "learning": "I learned that effective problem solving requires considering both technical and organisational factors."
+    },
+    {
+      "id": 104,
+      "grade": 7.2,
+      "topic": "Communications strategy",
+      "situation": "While completing an engineering analysis task, I realised our original approach was not producing reliable outcomes. The reflection focused on communications strategy.",
+      "task_action": "I compared alternative approaches, gathered feedback from teammates, and adjusted the workflow based on the results.",
+      "result": "The team completed the work more efficiently and produced a stronger final outcome.",
+      "pfr": "Through reflection, I realised that communication and coordination were as important as technical ability during engineering projects.",
+      "learning": "I learned that effective problem solving requires considering both technical and organisational factors."
+    },
+    {
+      "id": 105,
+      "grade": 6.5,
+      "topic": "Advocacy",
+      "situation": "While completing an engineering analysis task, I realised our original approach was not producing reliable outcomes. The reflection focused on advocacy.",
+      "task_action": "I reviewed the project requirements in more detail and introduced clearer task coordination and progress tracking.",
+      "result": "The project became more organised and communication between members improved noticeably.",
+      "pfr": "I became more aware of how structured planning and feedback influenced the quality of the final outcome.",
+      "learning": "I learned that engineering projects benefit from structured coordination, feedback, and clear communication processes."
+    },
+    {
+      "id": 106,
+      "grade": 6.8,
+      "topic": "Creating new solution concepts",
+      "situation": "Our project required balancing technical requirements with time and resource constraints. The reflection focused on creating new solution concepts.",
+      "task_action": "I reviewed the project requirements in more detail and introduced clearer task coordination and progress tracking.",
+      "result": "The project became more organised and communication between members improved noticeably.",
+      "pfr": "I recognised that my original assumptions about the task were too narrow and limited the effectiveness of the project workflow.",
+      "learning": "I learned that engineering projects benefit from structured coordination, feedback, and clear communication processes."
+    },
+    {
+      "id": 107,
+      "grade": 6.8,
+      "topic": "Oral presentation",
+      "situation": "During a semester project, the team encountered coordination problems that affected progress and communication. The reflection focused on oral presentation.",
+      "task_action": "I divided the task into smaller stages and documented decisions to reduce confusion within the group.",
+      "result": "The revised approach improved coordination and reduced repeated mistakes during the project.",
+      "pfr": "I recognised that my original assumptions about the task were too narrow and limited the effectiveness of the project workflow.",
+      "learning": "I learned that engineering projects benefit from structured coordination, feedback, and clear communication processes."
+    },
+    {
+      "id": 108,
+      "grade": 6.5,
+      "topic": "Conflict resolution",
+      "situation": "Our project required balancing technical requirements with time and resource constraints. The reflection focused on conflict resolution.",
+      "task_action": "I reviewed the project requirements in more detail and introduced clearer task coordination and progress tracking.",
+      "result": "The team completed the work more efficiently and produced a stronger final outcome.",
+      "pfr": "I became more aware of how structured planning and feedback influenced the quality of the final outcome.",
+      "learning": "I learned that effective problem solving requires considering both technical and organisational factors."
+    },
+    {
+      "id": 109,
+      "grade": 6.8,
+      "topic": "Thinking holistically",
+      "situation": "Our project required balancing technical requirements with time and resource constraints. The reflection focused on thinking holistically.",
+      "task_action": "I divided the task into smaller stages and documented decisions to reduce confusion within the group.",
+      "result": "The project became more organised and communication between members improved noticeably.",
+      "pfr": "I became more aware of how structured planning and feedback influenced the quality of the final outcome.",
+      "learning": "I learned that engineering projects benefit from structured coordination, feedback, and clear communication processes."
+    },
+    {
+      "id": 110,
+      "grade": 7.0,
+      "topic": "Professional behaviour",
+      "situation": "During a semester project, the team encountered coordination problems that affected progress and communication. The reflection focused on professional behaviour.",
+      "task_action": "I divided the task into smaller stages and documented decisions to reduce confusion within the group.",
+      "result": "The revised approach improved coordination and reduced repeated mistakes during the project.",
+      "pfr": "Through reflection, I realised that communication and coordination were as important as technical ability during engineering projects.",
+      "learning": "I learned that reflective evaluation can improve future decision-making and project performance."
+    },
+    {
+      "id": 111,
+      "grade": 7.2,
+      "topic": "Reproducibility",
+      "situation": "Our project required balancing technical requirements with time and resource constraints. The reflection focused on reproducibility.",
+      "task_action": "I reviewed the project requirements in more detail and introduced clearer task coordination and progress tracking.",
+      "result": "The revised approach improved coordination and reduced repeated mistakes during the project.",
+      "pfr": "I became more aware of how structured planning and feedback influenced the quality of the final outcome.",
+      "learning": "I learned that reflective evaluation can improve future decision-making and project performance."
+    },
+    {
+      "id": 112,
+      "grade": 6.5,
+      "topic": "Oral presentation",
+      "situation": "Our project required balancing technical requirements with time and resource constraints. The reflection focused on oral presentation.",
+      "task_action": "I compared alternative approaches, gathered feedback from teammates, and adjusted the workflow based on the results.",
+      "result": "The project became more organised and communication between members improved noticeably.",
+      "pfr": "I became more aware of how structured planning and feedback influenced the quality of the final outcome.",
+      "learning": "I learned that engineering projects benefit from structured coordination, feedback, and clear communication processes."
+    },
+    {
+      "id": 113,
+      "grade": 6.5,
+      "topic": "Sustainability",
+      "situation": "While completing an engineering analysis task, I realised our original approach was not producing reliable outcomes. The reflection focused on sustainability.",
+      "task_action": "I divided the task into smaller stages and documented decisions to reduce confusion within the group.",
+      "result": "The team completed the work more efficiently and produced a stronger final outcome.",
+      "pfr": "I became more aware of how structured planning and feedback influenced the quality of the final outcome.",
+      "learning": "I learned that effective problem solving requires considering both technical and organisational factors."
+    },
+    {
+      "id": 114,
+      "grade": 7.4,
+      "topic": "Perseverance and flexibility",
+      "situation": "Our project required balancing technical requirements with time and resource constraints. The reflection focused on perseverance and flexibility.",
+      "task_action": "I compared alternative approaches, gathered feedback from teammates, and adjusted the workflow based on the results.",
+      "result": "The revised approach improved coordination and reduced repeated mistakes during the project.",
+      "pfr": "Through reflection, I realised that communication and coordination were as important as technical ability during engineering projects.",
+      "learning": "I learned that effective problem solving requires considering both technical and organisational factors."
+    },
+    {
+      "id": 115,
+      "grade": 7.2,
+      "topic": "Self-awareness and metacognition",
+      "situation": "While completing an engineering analysis task, I realised our original approach was not producing reliable outcomes. The reflection focused on self-awareness and metacognition.",
+      "task_action": "I divided the task into smaller stages and documented decisions to reduce confusion within the group.",
+      "result": "The team completed the work more efficiently and produced a stronger final outcome.",
+      "pfr": "I became more aware of how structured planning and feedback influenced the quality of the final outcome.",
+      "learning": "I learned that engineering projects benefit from structured coordination, feedback, and clear communication processes."
+    },
+    {
+      "id": 116,
+      "grade": 6.8,
+      "topic": "Forming effective teams",
+      "situation": "Our project required balancing technical requirements with time and resource constraints. The reflection focused on forming effective teams.",
+      "task_action": "I divided the task into smaller stages and documented decisions to reduce confusion within the group.",
+      "result": "The project became more organised and communication between members improved noticeably.",
+      "pfr": "Through reflection, I realised that communication and coordination were as important as technical ability during engineering projects.",
+      "learning": "I learned that reflective evaluation can improve future decision-making and project performance."
+    },
+    {
+      "id": 117,
+      "grade": 7.2,
+      "topic": "Systems engineering",
+      "situation": "While completing an engineering analysis task, I realised our original approach was not producing reliable outcomes. The reflection focused on systems engineering.",
+      "task_action": "I compared alternative approaches, gathered feedback from teammates, and adjusted the workflow based on the results.",
+      "result": "The project became more organised and communication between members improved noticeably.",
+      "pfr": "I became more aware of how structured planning and feedback influenced the quality of the final outcome.",
+      "learning": "I learned that effective problem solving requires considering both technical and organisational factors."
+    },
+    {
+      "id": 118,
+      "grade": 6.8,
+      "topic": "Thinking creatively",
+      "situation": "During a semester project, the team encountered coordination problems that affected progress and communication. The reflection focused on thinking creatively.",
+      "task_action": "I compared alternative approaches, gathered feedback from teammates, and adjusted the workflow based on the results.",
+      "result": "The team completed the work more efficiently and produced a stronger final outcome.",
+      "pfr": "I recognised that my original assumptions about the task were too narrow and limited the effectiveness of the project workflow.",
+      "learning": "I learned that effective problem solving requires considering both technical and organisational factors."
+    },
+    {
+      "id": 119,
+      "grade": 7.4,
+      "topic": "Sustainability",
+      "situation": "Our project required balancing technical requirements with time and resource constraints. The reflection focused on sustainability.",
+      "task_action": "I compared alternative approaches, gathered feedback from teammates, and adjusted the workflow based on the results.",
+      "result": "The team completed the work more efficiently and produced a stronger final outcome.",
+      "pfr": "I recognised that my original assumptions about the task were too narrow and limited the effectiveness of the project workflow.",
+      "learning": "I learned that effective problem solving requires considering both technical and organisational factors."
+    },
+    {
+      "id": 120,
+      "grade": 6.8,
+      "topic": "Thinking creatively",
+      "situation": "While completing an engineering analysis task, I realised our original approach was not producing reliable outcomes. The reflection focused on thinking creatively.",
+      "task_action": "I reviewed the project requirements in more detail and introduced clearer task coordination and progress tracking.",
+      "result": "The team completed the work more efficiently and produced a stronger final outcome.",
+      "pfr": "Through reflection, I realised that communication and coordination were as important as technical ability during engineering projects.",
+      "learning": "I learned that effective problem solving requires considering both technical and organisational factors."
+    },
+    {
+      "id": 121,
+      "grade": 7.4,
+      "topic": "Innovation process",
+      "situation": "Our project required balancing technical requirements with time and resource constraints. The reflection focused on innovation process.",
+      "task_action": "I compared alternative approaches, gathered feedback from teammates, and adjusted the workflow based on the results.",
+      "result": "The project became more organised and communication between members improved noticeably.",
+      "pfr": "I recognised that my original assumptions about the task were too narrow and limited the effectiveness of the project workflow.",
+      "learning": "I learned that reflective evaluation can improve future decision-making and project performance."
+    },
+    {
+      "id": 122,
+      "grade": 6.5,
+      "topic": "Communications",
+      "situation": "During a semester project, the team encountered coordination problems that affected progress and communication. The reflection focused on communications.",
+      "task_action": "I divided the task into smaller stages and documented decisions to reduce confusion within the group.",
+      "result": "The team completed the work more efficiently and produced a stronger final outcome.",
+      "pfr": "Through reflection, I realised that communication and coordination were as important as technical ability during engineering projects.",
+      "learning": "I learned that reflective evaluation can improve future decision-making and project performance."
+    },
+    {
+      "id": 123,
+      "grade": 7.2,
+      "topic": "Oral presentation",
+      "situation": "Our project required balancing technical requirements with time and resource constraints. The reflection focused on oral presentation.",
+      "task_action": "I divided the task into smaller stages and documented decisions to reduce confusion within the group.",
+      "result": "The team completed the work more efficiently and produced a stronger final outcome.",
+      "pfr": "Through reflection, I realised that communication and coordination were as important as technical ability during engineering projects.",
+      "learning": "I learned that engineering projects benefit from structured coordination, feedback, and clear communication processes."
+    },
+    {
+      "id": 124,
+      "grade": 7.0,
+      "topic": "Critical thinking",
+      "situation": "During a semester project, the team encountered coordination problems that affected progress and communication. The reflection focused on critical thinking.",
+      "task_action": "I compared alternative approaches, gathered feedback from teammates, and adjusted the workflow based on the results.",
+      "result": "The project became more organised and communication between members improved noticeably.",
+      "pfr": "I recognised that my original assumptions about the task were too narrow and limited the effectiveness of the project workflow.",
+      "learning": "I learned that effective problem solving requires considering both technical and organisational factors."
+    },
+    {
+      "id": 125,
+      "grade": 7.0,
+      "topic": "Hardware software integration",
+      "situation": "While completing an engineering analysis task, I realised our original approach was not producing reliable outcomes. The reflection focused on hardware software integration.",
+      "task_action": "I divided the task into smaller stages and documented decisions to reduce confusion within the group.",
+      "result": "The project became more organised and communication between members improved noticeably.",
+      "pfr": "Through reflection, I realised that communication and coordination were as important as technical ability during engineering projects.",
+      "learning": "I learned that effective problem solving requires considering both technical and organisational factors."
+    },
+    {
+      "id": 126,
+      "grade": 7.0,
+      "topic": "Project management",
+      "situation": "While completing an engineering analysis task, I realised our original approach was not producing reliable outcomes. The reflection focused on project management.",
+      "task_action": "I divided the task into smaller stages and documented decisions to reduce confusion within the group.",
+      "result": "The team completed the work more efficiently and produced a stronger final outcome.",
+      "pfr": "Through reflection, I realised that communication and coordination were as important as technical ability during engineering projects.",
+      "learning": "I learned that effective problem solving requires considering both technical and organisational factors."
+    },
+    {
+      "id": 127,
+      "grade": 6.8,
+      "topic": "Advocacy",
+      "situation": "During a semester project, the team encountered coordination problems that affected progress and communication. The reflection focused on advocacy.",
+      "task_action": "I divided the task into smaller stages and documented decisions to reduce confusion within the group.",
+      "result": "The revised approach improved coordination and reduced repeated mistakes during the project.",
+      "pfr": "Through reflection, I realised that communication and coordination were as important as technical ability during engineering projects.",
+      "learning": "I learned that engineering projects benefit from structured coordination, feedback, and clear communication processes."
+    },
+    {
+      "id": 128,
+      "grade": 6.8,
+      "topic": "Systems engineering",
+      "situation": "During a semester project, the team encountered coordination problems that affected progress and communication. The reflection focused on systems engineering.",
+      "task_action": "I reviewed the project requirements in more detail and introduced clearer task coordination and progress tracking.",
+      "result": "The project became more organised and communication between members improved noticeably.",
+      "pfr": "Through reflection, I realised that communication and coordination were as important as technical ability during engineering projects.",
+      "learning": "I learned that effective problem solving requires considering both technical and organisational factors."
+    },
+    {
+      "id": 129,
+      "grade": 7.4,
+      "topic": "Hardware software integration",
+      "situation": "Our project required balancing technical requirements with time and resource constraints. The reflection focused on hardware software integration.",
+      "task_action": "I compared alternative approaches, gathered feedback from teammates, and adjusted the workflow based on the results.",
+      "result": "The revised approach improved coordination and reduced repeated mistakes during the project.",
+      "pfr": "I recognised that my original assumptions about the task were too narrow and limited the effectiveness of the project workflow.",
+      "learning": "I learned that effective problem solving requires considering both technical and organisational factors."
+    },
+    {
+      "id": 130,
+      "grade": 7.0,
+      "topic": "Written communication",
+      "situation": "During a semester project, the team encountered coordination problems that affected progress and communication. The reflection focused on written communication.",
+      "task_action": "I compared alternative approaches, gathered feedback from teammates, and adjusted the workflow based on the results.",
+      "result": "The revised approach improved coordination and reduced repeated mistakes during the project.",
+      "pfr": "I became more aware of how structured planning and feedback influenced the quality of the final outcome.",
+      "learning": "I learned that reflective evaluation can improve future decision-making and project performance."
+    },
+    {
+      "id": 131,
+      "grade": 7.0,
+      "topic": "Time and resource management",
+      "situation": "During a semester project, the team encountered coordination problems that affected progress and communication. The reflection focused on time and resource management.",
+      "task_action": "I reviewed the project requirements in more detail and introduced clearer task coordination and progress tracking.",
+      "result": "The project became more organised and communication between members improved noticeably.",
+      "pfr": "Through reflection, I realised that communication and coordination were as important as technical ability during engineering projects.",
+      "learning": "I learned that reflective evaluation can improve future decision-making and project performance."
+    },
+    {
+      "id": 132,
+      "grade": 7.2,
+      "topic": "Time and resource management",
+      "situation": "During a semester project, the team encountered coordination problems that affected progress and communication. The reflection focused on time and resource management.",
+      "task_action": "I reviewed the project requirements in more detail and introduced clearer task coordination and progress tracking.",
+      "result": "The project became more organised and communication between members improved noticeably.",
+      "pfr": "Through reflection, I realised that communication and coordination were as important as technical ability during engineering projects.",
+      "learning": "I learned that effective problem solving requires considering both technical and organisational factors."
+    },
+    {
+      "id": 133,
+      "grade": 7.2,
+      "topic": "Conflict resolution",
+      "situation": "While completing an engineering analysis task, I realised our original approach was not producing reliable outcomes. The reflection focused on conflict resolution.",
+      "task_action": "I reviewed the project requirements in more detail and introduced clearer task coordination and progress tracking.",
+      "result": "The revised approach improved coordination and reduced repeated mistakes during the project.",
+      "pfr": "Through reflection, I realised that communication and coordination were as important as technical ability during engineering projects.",
+      "learning": "I learned that effective problem solving requires considering both technical and organisational factors."
+    },
+    {
+      "id": 134,
+      "grade": 6.5,
+      "topic": "Lifelong learning",
+      "situation": "While completing an engineering analysis task, I realised our original approach was not producing reliable outcomes. The reflection focused on lifelong learning.",
+      "task_action": "I compared alternative approaches, gathered feedback from teammates, and adjusted the workflow based on the results.",
+      "result": "The revised approach improved coordination and reduced repeated mistakes during the project.",
+      "pfr": "I became more aware of how structured planning and feedback influenced the quality of the final outcome.",
+      "learning": "I learned that reflective evaluation can improve future decision-making and project performance."
+    },
+    {
+      "id": 135,
+      "grade": 6.8,
+      "topic": "Initiative under uncertainty",
+      "situation": "During a semester project, the team encountered coordination problems that affected progress and communication. The reflection focused on initiative under uncertainty.",
+      "task_action": "I divided the task into smaller stages and documented decisions to reduce confusion within the group.",
+      "result": "The team completed the work more efficiently and produced a stronger final outcome.",
+      "pfr": "I recognised that my original assumptions about the task were too narrow and limited the effectiveness of the project workflow.",
+      "learning": "I learned that engineering projects benefit from structured coordination, feedback, and clear communication processes."
+    },
+    {
+      "id": 136,
+      "grade": 7.4,
+      "topic": "Lifelong learning",
+      "situation": "While completing an engineering analysis task, I realised our original approach was not producing reliable outcomes. The reflection focused on lifelong learning.",
+      "task_action": "I divided the task into smaller stages and documented decisions to reduce confusion within the group.",
+      "result": "The project became more organised and communication between members improved noticeably.",
+      "pfr": "I became more aware of how structured planning and feedback influenced the quality of the final outcome.",
+      "learning": "I learned that engineering projects benefit from structured coordination, feedback, and clear communication processes."
+    },
+    {
+      "id": 137,
+      "grade": 7.2,
+      "topic": "Implementation management",
+      "situation": "While completing an engineering analysis task, I realised our original approach was not producing reliable outcomes. The reflection focused on implementation management.",
+      "task_action": "I compared alternative approaches, gathered feedback from teammates, and adjusted the workflow based on the results.",
+      "result": "The team completed the work more efficiently and produced a stronger final outcome.",
+      "pfr": "I became more aware of how structured planning and feedback influenced the quality of the final outcome.",
+      "learning": "I learned that effective problem solving requires considering both technical and organisational factors."
+    },
+    {
+      "id": 138,
+      "grade": 7.4,
+      "topic": "Impact of engineering on society",
+      "situation": "Our project required balancing technical requirements with time and resource constraints. The reflection focused on impact of engineering on society.",
+      "task_action": "I reviewed the project requirements in more detail and introduced clearer task coordination and progress tracking.",
+      "result": "The project became more organised and communication between members improved noticeably.",
+      "pfr": "I became more aware of how structured planning and feedback influenced the quality of the final outcome.",
+      "learning": "I learned that engineering projects benefit from structured coordination, feedback, and clear communication processes."
+    },
+    {
+      "id": 139,
+      "grade": 6.8,
+      "topic": "Communications strategy",
+      "situation": "While completing an engineering analysis task, I realised our original approach was not producing reliable outcomes. The reflection focused on communications strategy.",
+      "task_action": "I divided the task into smaller stages and documented decisions to reduce confusion within the group.",
+      "result": "The revised approach improved coordination and reduced repeated mistakes during the project.",
+      "pfr": "I recognised that my original assumptions about the task were too narrow and limited the effectiveness of the project workflow.",
+      "learning": "I learned that engineering projects benefit from structured coordination, feedback, and clear communication processes."
+    },
+    {
+      "id": 140,
+      "grade": 7.4,
+      "topic": "Equity and diversity",
+      "situation": "During a semester project, the team encountered coordination problems that affected progress and communication. The reflection focused on equity and diversity.",
+      "task_action": "I reviewed the project requirements in more detail and introduced clearer task coordination and progress tracking.",
+      "result": "The revised approach improved coordination and reduced repeated mistakes during the project.",
+      "pfr": "Through reflection, I realised that communication and coordination were as important as technical ability during engineering projects.",
+      "learning": "I learned that effective problem solving requires considering both technical and organisational factors."
+    },
+    {
+      "id": 141,
+      "grade": 7.2,
+      "topic": "Leadership",
+      "situation": "While completing an engineering analysis task, I realised our original approach was not producing reliable outcomes. The reflection focused on leadership.",
+      "task_action": "I reviewed the project requirements in more detail and introduced clearer task coordination and progress tracking.",
+      "result": "The revised approach improved coordination and reduced repeated mistakes during the project.",
+      "pfr": "Through reflection, I realised that communication and coordination were as important as technical ability during engineering projects.",
+      "learning": "I learned that reflective evaluation can improve future decision-making and project performance."
+    },
+    {
+      "id": 142,
+      "grade": 7.2,
+      "topic": "Roles and responsibility of engineers",
+      "situation": "During a semester project, the team encountered coordination problems that affected progress and communication. The reflection focused on roles and responsibility of engineers.",
+      "task_action": "I divided the task into smaller stages and documented decisions to reduce confusion within the group.",
+      "result": "The revised approach improved coordination and reduced repeated mistakes during the project.",
+      "pfr": "Through reflection, I realised that communication and coordination were as important as technical ability during engineering projects.",
+      "learning": "I learned that reflective evaluation can improve future decision-making and project performance."
+    },
+    {
+      "id": 143,
+      "grade": 6.8,
+      "topic": "Hardware software integration",
+      "situation": "While completing an engineering analysis task, I realised our original approach was not producing reliable outcomes. The reflection focused on hardware software integration.",
+      "task_action": "I reviewed the project requirements in more detail and introduced clearer task coordination and progress tracking.",
+      "result": "The project became more organised and communication between members improved noticeably.",
+      "pfr": "I recognised that my original assumptions about the task were too narrow and limited the effectiveness of the project workflow.",
+      "learning": "I learned that reflective evaluation can improve future decision-making and project performance."
+    },
+    {
+      "id": 144,
+      "grade": 7.0,
+      "topic": "Ethics and social responsibility",
+      "situation": "During a semester project, the team encountered coordination problems that affected progress and communication. The reflection focused on ethics and social responsibility.",
+      "task_action": "I reviewed the project requirements in more detail and introduced clearer task coordination and progress tracking.",
+      "result": "The revised approach improved coordination and reduced repeated mistakes during the project.",
+      "pfr": "I recognised that my original assumptions about the task were too narrow and limited the effectiveness of the project workflow.",
+      "learning": "I learned that effective problem solving requires considering both technical and organisational factors."
+    },
+    {
+      "id": 145,
+      "grade": 7.4,
+      "topic": "Leadership",
+      "situation": "While completing an engineering analysis task, I realised our original approach was not producing reliable outcomes. The reflection focused on leadership.",
+      "task_action": "I compared alternative approaches, gathered feedback from teammates, and adjusted the workflow based on the results.",
+      "result": "The revised approach improved coordination and reduced repeated mistakes during the project.",
+      "pfr": "Through reflection, I realised that communication and coordination were as important as technical ability during engineering projects.",
+      "learning": "I learned that reflective evaluation can improve future decision-making and project performance."
+    },
+    {
+      "id": 146,
+      "grade": 7.2,
+      "topic": "Impact of engineering on society",
+      "situation": "While completing an engineering analysis task, I realised our original approach was not producing reliable outcomes. The reflection focused on impact of engineering on society.",
+      "task_action": "I divided the task into smaller stages and documented decisions to reduce confusion within the group.",
+      "result": "The project became more organised and communication between members improved noticeably.",
+      "pfr": "Through reflection, I realised that communication and coordination were as important as technical ability during engineering projects.",
+      "learning": "I learned that effective problem solving requires considering both technical and organisational factors."
+    },
+    {
+      "id": 147,
+      "grade": 7.4,
+      "topic": "Critical thinking",
+      "situation": "During a semester project, the team encountered coordination problems that affected progress and communication. The reflection focused on critical thinking.",
+      "task_action": "I compared alternative approaches, gathered feedback from teammates, and adjusted the workflow based on the results.",
+      "result": "The project became more organised and communication between members improved noticeably.",
+      "pfr": "Through reflection, I realised that communication and coordination were as important as technical ability during engineering projects.",
+      "learning": "I learned that reflective evaluation can improve future decision-making and project performance."
+    },
+    {
+      "id": 148,
+      "grade": 6.5,
+      "topic": "Advocacy",
+      "situation": "During a semester project, the team encountered coordination problems that affected progress and communication. The reflection focused on advocacy.",
+      "task_action": "I reviewed the project requirements in more detail and introduced clearer task coordination and progress tracking.",
+      "result": "The project became more organised and communication between members improved noticeably.",
+      "pfr": "I became more aware of how structured planning and feedback influenced the quality of the final outcome.",
+      "learning": "I learned that reflective evaluation can improve future decision-making and project performance."
+    },
+    {
+      "id": 149,
+      "grade": 7.0,
+      "topic": "Prioritization and focus",
+      "situation": "Our project required balancing technical requirements with time and resource constraints. The reflection focused on prioritization and focus.",
+      "task_action": "I reviewed the project requirements in more detail and introduced clearer task coordination and progress tracking.",
+      "result": "The revised approach improved coordination and reduced repeated mistakes during the project.",
+      "pfr": "Through reflection, I realised that communication and coordination were as important as technical ability during engineering projects.",
+      "learning": "I learned that reflective evaluation can improve future decision-making and project performance."
+    },
+    {
+      "id": 150,
+      "grade": 7.0,
+      "topic": "Accountability in teamwork",
+      "situation": "During a semester project, the team encountered coordination problems that affected progress and communication. The reflection focused on accountability in teamwork.",
+      "task_action": "I divided the task into smaller stages and documented decisions to reduce confusion within the group.",
+      "result": "The team completed the work more efficiently and produced a stronger final outcome.",
+      "pfr": "I became more aware of how structured planning and feedback influenced the quality of the final outcome.",
+      "learning": "I learned that effective problem solving requires considering both technical and organisational factors."
+    },
+    {
+      "id": 151,
+      "grade": 8.2,
+      "topic": "Critical thinking",
+      "situation": "While testing our prototype, unexpected system interactions caused performance issues that were difficult to isolate. The reflection focused on critical thinking.",
+      "task_action": "I redesigned part of the workflow to improve collaboration between technical areas and reduce repeated errors.",
+      "result": "The revised workflow produced more reliable results and improved the quality of team discussions.",
+      "pfr": "Reflecting on the experience, I recognised that many recurring problems emerged from hidden assumptions within the workflow rather than isolated technical mistakes.",
+      "learning": "I learned that engineering effectiveness often depends on designing processes that support collaboration and continuous feedback."
+    },
+    {
+      "id": 152,
+      "grade": 7.8,
+      "topic": "Self-awareness and metacognition",
+      "situation": "While testing our prototype, unexpected system interactions caused performance issues that were difficult to isolate. The reflection focused on self-awareness and metacognition.",
+      "task_action": "I redesigned part of the workflow to improve collaboration between technical areas and reduce repeated errors.",
+      "result": "Stakeholder feedback became more positive after the team adapted its communication and design process.",
+      "pfr": "Reflecting on the experience, I recognised that many recurring problems emerged from hidden assumptions within the workflow rather than isolated technical mistakes.",
+      "learning": "I learned that identifying assumptions early can reduce repeated problems and improve project integration."
+    },
+    {
+      "id": 153,
+      "grade": 8.4,
+      "topic": "Data driven decision making",
+      "situation": "During a multidisciplinary engineering project, conflicting priorities created repeated communication and integration challenges. The reflection focused on data driven decision making.",
+      "task_action": "I redesigned part of the workflow to improve collaboration between technical areas and reduce repeated errors.",
+      "result": "The changes improved integration between different project components and reduced delays during implementation.",
+      "pfr": "Reflecting on the experience, I recognised that many recurring problems emerged from hidden assumptions within the workflow rather than isolated technical mistakes.",
+      "learning": "I learned that identifying assumptions early can reduce repeated problems and improve project integration."
+    },
+    {
+      "id": 154,
+      "grade": 7.5,
+      "topic": "Thinking creatively",
+      "situation": "While testing our prototype, unexpected system interactions caused performance issues that were difficult to isolate. The reflection focused on thinking creatively.",
+      "task_action": "I deliberately tested assumptions behind our design decisions and incorporated iterative feedback into the development process.",
+      "result": "The changes improved integration between different project components and reduced delays during implementation.",
+      "pfr": "I realised that effective engineering practice depends on continuously reassessing assumptions and adapting processes as new information emerges.",
+      "learning": "I learned that engineering effectiveness often depends on designing processes that support collaboration and continuous feedback."
+    },
+    {
+      "id": 155,
+      "grade": 8.2,
+      "topic": "Visual communication",
+      "situation": "During a multidisciplinary engineering project, conflicting priorities created repeated communication and integration challenges. The reflection focused on visual communication.",
+      "task_action": "I analysed how communication patterns and process assumptions were affecting the project and introduced structured review checkpoints.",
+      "result": "Stakeholder feedback became more positive after the team adapted its communication and design process.",
+      "pfr": "Reflecting on the experience, I recognised that many recurring problems emerged from hidden assumptions within the workflow rather than isolated technical mistakes.",
+      "learning": "I learned that engineering effectiveness often depends on designing processes that support collaboration and continuous feedback."
+    },
+    {
+      "id": 156,
+      "grade": 8.2,
+      "topic": "Understanding needs and goals",
+      "situation": "During a multidisciplinary engineering project, conflicting priorities created repeated communication and integration challenges. The reflection focused on understanding needs and goals.",
+      "task_action": "I analysed how communication patterns and process assumptions were affecting the project and introduced structured review checkpoints.",
+      "result": "The revised workflow produced more reliable results and improved the quality of team discussions.",
+      "pfr": "I realised that effective engineering practice depends on continuously reassessing assumptions and adapting processes as new information emerges.",
+      "learning": "I learned that successful engineering practice depends on balancing technical reasoning with communication, coordination, and adaptability."
+    },
+    {
+      "id": 157,
+      "grade": 8.2,
+      "topic": "Roles and responsibility of engineers",
+      "situation": "Our engineering team had to revise major design assumptions after receiving stakeholder feedback midway through the project. The reflection focused on roles and responsibility of engineers.",
+      "task_action": "I redesigned part of the workflow to improve collaboration between technical areas and reduce repeated errors.",
+      "result": "The changes improved integration between different project components and reduced delays during implementation.",
+      "pfr": "I initially assumed that technical competence alone would ensure project success, but the experience showed that system interactions and communication strongly influenced outcomes.",
+      "learning": "I learned that engineering effectiveness often depends on designing processes that support collaboration and continuous feedback."
+    },
+    {
+      "id": 158,
+      "grade": 7.8,
+      "topic": "Leadership",
+      "situation": "Our engineering team had to revise major design assumptions after receiving stakeholder feedback midway through the project. The reflection focused on leadership.",
+      "task_action": "I analysed how communication patterns and process assumptions were affecting the project and introduced structured review checkpoints.",
+      "result": "The revised workflow produced more reliable results and improved the quality of team discussions.",
+      "pfr": "I realised that effective engineering practice depends on continuously reassessing assumptions and adapting processes as new information emerges.",
+      "learning": "I learned that successful engineering practice depends on balancing technical reasoning with communication, coordination, and adaptability."
+    },
+    {
+      "id": 159,
+      "grade": 8.2,
+      "topic": "Project management",
+      "situation": "During a multidisciplinary engineering project, conflicting priorities created repeated communication and integration challenges. The reflection focused on project management.",
+      "task_action": "I analysed how communication patterns and process assumptions were affecting the project and introduced structured review checkpoints.",
+      "result": "The changes improved integration between different project components and reduced delays during implementation.",
+      "pfr": "Reflecting on the experience, I recognised that many recurring problems emerged from hidden assumptions within the workflow rather than isolated technical mistakes.",
+      "learning": "I learned that successful engineering practice depends on balancing technical reasoning with communication, coordination, and adaptability."
+    },
+    {
+      "id": 160,
+      "grade": 8.2,
+      "topic": "Ethics and social responsibility",
+      "situation": "Our engineering team had to revise major design assumptions after receiving stakeholder feedback midway through the project. The reflection focused on ethics and social responsibility.",
+      "task_action": "I redesigned part of the workflow to improve collaboration between technical areas and reduce repeated errors.",
+      "result": "Stakeholder feedback became more positive after the team adapted its communication and design process.",
+      "pfr": "I realised that effective engineering practice depends on continuously reassessing assumptions and adapting processes as new information emerges.",
+      "learning": "I learned that identifying assumptions early can reduce repeated problems and improve project integration."
+    },
+    {
+      "id": 161,
+      "grade": 8.2,
+      "topic": "Trade-offs and judgement",
+      "situation": "While testing our prototype, unexpected system interactions caused performance issues that were difficult to isolate. The reflection focused on trade-offs and judgement.",
+      "task_action": "I analysed how communication patterns and process assumptions were affecting the project and introduced structured review checkpoints.",
+      "result": "The revised workflow produced more reliable results and improved the quality of team discussions.",
+      "pfr": "I realised that effective engineering practice depends on continuously reassessing assumptions and adapting processes as new information emerges.",
+      "learning": "I learned that successful engineering practice depends on balancing technical reasoning with communication, coordination, and adaptability."
+    },
+    {
+      "id": 162,
+      "grade": 7.8,
+      "topic": "Reproducibility",
+      "situation": "Our engineering team had to revise major design assumptions after receiving stakeholder feedback midway through the project. The reflection focused on reproducibility.",
+      "task_action": "I deliberately tested assumptions behind our design decisions and incorporated iterative feedback into the development process.",
+      "result": "Stakeholder feedback became more positive after the team adapted its communication and design process.",
+      "pfr": "I initially assumed that technical competence alone would ensure project success, but the experience showed that system interactions and communication strongly influenced outcomes.",
+      "learning": "I learned that successful engineering practice depends on balancing technical reasoning with communication, coordination, and adaptability."
+    },
+    {
+      "id": 163,
+      "grade": 8.2,
+      "topic": "Innovation process",
+      "situation": "While testing our prototype, unexpected system interactions caused performance issues that were difficult to isolate. The reflection focused on innovation process.",
+      "task_action": "I deliberately tested assumptions behind our design decisions and incorporated iterative feedback into the development process.",
+      "result": "The revised workflow produced more reliable results and improved the quality of team discussions.",
+      "pfr": "I initially assumed that technical competence alone would ensure project success, but the experience showed that system interactions and communication strongly influenced outcomes.",
+      "learning": "I learned that identifying assumptions early can reduce repeated problems and improve project integration."
+    },
+    {
+      "id": 164,
+      "grade": 8.4,
+      "topic": "Impact of engineering on society",
+      "situation": "Our engineering team had to revise major design assumptions after receiving stakeholder feedback midway through the project. The reflection focused on impact of engineering on society.",
+      "task_action": "I deliberately tested assumptions behind our design decisions and incorporated iterative feedback into the development process.",
+      "result": "The revised workflow produced more reliable results and improved the quality of team discussions.",
+      "pfr": "I initially assumed that technical competence alone would ensure project success, but the experience showed that system interactions and communication strongly influenced outcomes.",
+      "learning": "I learned that identifying assumptions early can reduce repeated problems and improve project integration."
+    },
+    {
+      "id": 165,
+      "grade": 8.2,
+      "topic": "Systems engineering",
+      "situation": "While testing our prototype, unexpected system interactions caused performance issues that were difficult to isolate. The reflection focused on systems engineering.",
+      "task_action": "I redesigned part of the workflow to improve collaboration between technical areas and reduce repeated errors.",
+      "result": "Stakeholder feedback became more positive after the team adapted its communication and design process.",
+      "pfr": "I realised that effective engineering practice depends on continuously reassessing assumptions and adapting processes as new information emerges.",
+      "learning": "I learned that identifying assumptions early can reduce repeated problems and improve project integration."
+    },
+    {
+      "id": 166,
+      "grade": 8.0,
+      "topic": "Visual communication",
+      "situation": "During a multidisciplinary engineering project, conflicting priorities created repeated communication and integration challenges. The reflection focused on visual communication.",
+      "task_action": "I deliberately tested assumptions behind our design decisions and incorporated iterative feedback into the development process.",
+      "result": "The changes improved integration between different project components and reduced delays during implementation.",
+      "pfr": "I realised that effective engineering practice depends on continuously reassessing assumptions and adapting processes as new information emerges.",
+      "learning": "I learned that identifying assumptions early can reduce repeated problems and improve project integration."
+    },
+    {
+      "id": 167,
+      "grade": 8.2,
+      "topic": "Written communication",
+      "situation": "During a multidisciplinary engineering project, conflicting priorities created repeated communication and integration challenges. The reflection focused on written communication.",
+      "task_action": "I redesigned part of the workflow to improve collaboration between technical areas and reduce repeated errors.",
+      "result": "Stakeholder feedback became more positive after the team adapted its communication and design process.",
+      "pfr": "Reflecting on the experience, I recognised that many recurring problems emerged from hidden assumptions within the workflow rather than isolated technical mistakes.",
+      "learning": "I learned that engineering effectiveness often depends on designing processes that support collaboration and continuous feedback."
+    },
+    {
+      "id": 168,
+      "grade": 8.2,
+      "topic": "Reproducibility",
+      "situation": "Our engineering team had to revise major design assumptions after receiving stakeholder feedback midway through the project. The reflection focused on reproducibility.",
+      "task_action": "I deliberately tested assumptions behind our design decisions and incorporated iterative feedback into the development process.",
+      "result": "The changes improved integration between different project components and reduced delays during implementation.",
+      "pfr": "Reflecting on the experience, I recognised that many recurring problems emerged from hidden assumptions within the workflow rather than isolated technical mistakes.",
+      "learning": "I learned that successful engineering practice depends on balancing technical reasoning with communication, coordination, and adaptability."
+    },
+    {
+      "id": 169,
+      "grade": 8.4,
+      "topic": "Time and resource management",
+      "situation": "Our engineering team had to revise major design assumptions after receiving stakeholder feedback midway through the project. The reflection focused on time and resource management.",
+      "task_action": "I redesigned part of the workflow to improve collaboration between technical areas and reduce repeated errors.",
+      "result": "The changes improved integration between different project components and reduced delays during implementation.",
+      "pfr": "Reflecting on the experience, I recognised that many recurring problems emerged from hidden assumptions within the workflow rather than isolated technical mistakes.",
+      "learning": "I learned that successful engineering practice depends on balancing technical reasoning with communication, coordination, and adaptability."
+    },
+    {
+      "id": 170,
+      "grade": 8.2,
+      "topic": "Implementation management",
+      "situation": "During a multidisciplinary engineering project, conflicting priorities created repeated communication and integration challenges. The reflection focused on implementation management.",
+      "task_action": "I deliberately tested assumptions behind our design decisions and incorporated iterative feedback into the development process.",
+      "result": "The changes improved integration between different project components and reduced delays during implementation.",
+      "pfr": "Reflecting on the experience, I recognised that many recurring problems emerged from hidden assumptions within the workflow rather than isolated technical mistakes.",
+      "learning": "I learned that engineering effectiveness often depends on designing processes that support collaboration and continuous feedback."
+    },
+    {
+      "id": 171,
+      "grade": 7.5,
+      "topic": "Ethics and social responsibility",
+      "situation": "While testing our prototype, unexpected system interactions caused performance issues that were difficult to isolate. The reflection focused on ethics and social responsibility.",
+      "task_action": "I redesigned part of the workflow to improve collaboration between technical areas and reduce repeated errors.",
+      "result": "The revised workflow produced more reliable results and improved the quality of team discussions.",
+      "pfr": "I realised that effective engineering practice depends on continuously reassessing assumptions and adapting processes as new information emerges.",
+      "learning": "I learned that engineering effectiveness often depends on designing processes that support collaboration and continuous feedback."
+    },
+    {
+      "id": 172,
+      "grade": 7.5,
+      "topic": "Data driven decision making",
+      "situation": "While testing our prototype, unexpected system interactions caused performance issues that were difficult to isolate. The reflection focused on data driven decision making.",
+      "task_action": "I deliberately tested assumptions behind our design decisions and incorporated iterative feedback into the development process.",
+      "result": "Stakeholder feedback became more positive after the team adapted its communication and design process.",
+      "pfr": "Reflecting on the experience, I recognised that many recurring problems emerged from hidden assumptions within the workflow rather than isolated technical mistakes.",
+      "learning": "I learned that identifying assumptions early can reduce repeated problems and improve project integration."
+    },
+    {
+      "id": 173,
+      "grade": 8.4,
+      "topic": "Understanding needs and goals",
+      "situation": "During a multidisciplinary engineering project, conflicting priorities created repeated communication and integration challenges. The reflection focused on understanding needs and goals.",
+      "task_action": "I deliberately tested assumptions behind our design decisions and incorporated iterative feedback into the development process.",
+      "result": "The changes improved integration between different project components and reduced delays during implementation.",
+      "pfr": "I initially assumed that technical competence alone would ensure project success, but the experience showed that system interactions and communication strongly influenced outcomes.",
+      "learning": "I learned that engineering effectiveness often depends on designing processes that support collaboration and continuous feedback."
+    },
+    {
+      "id": 174,
+      "grade": 7.8,
+      "topic": "Roles and responsibility of engineers",
+      "situation": "Our engineering team had to revise major design assumptions after receiving stakeholder feedback midway through the project. The reflection focused on roles and responsibility of engineers.",
+      "task_action": "I analysed how communication patterns and process assumptions were affecting the project and introduced structured review checkpoints.",
+      "result": "The revised workflow produced more reliable results and improved the quality of team discussions.",
+      "pfr": "I initially assumed that technical competence alone would ensure project success, but the experience showed that system interactions and communication strongly influenced outcomes.",
+      "learning": "I learned that engineering effectiveness often depends on designing processes that support collaboration and continuous feedback."
+    },
+    {
+      "id": 175,
+      "grade": 8.2,
+      "topic": "Self-awareness and metacognition",
+      "situation": "During a multidisciplinary engineering project, conflicting priorities created repeated communication and integration challenges. The reflection focused on self-awareness and metacognition.",
+      "task_action": "I deliberately tested assumptions behind our design decisions and incorporated iterative feedback into the development process.",
+      "result": "The revised workflow produced more reliable results and improved the quality of team discussions.",
+      "pfr": "I initially assumed that technical competence alone would ensure project success, but the experience showed that system interactions and communication strongly influenced outcomes.",
+      "learning": "I learned that successful engineering practice depends on balancing technical reasoning with communication, coordination, and adaptability."
+    },
+    {
+      "id": 176,
+      "grade": 7.5,
+      "topic": "Thinking creatively",
+      "situation": "While testing our prototype, unexpected system interactions caused performance issues that were difficult to isolate. The reflection focused on thinking creatively.",
+      "task_action": "I redesigned part of the workflow to improve collaboration between technical areas and reduce repeated errors.",
+      "result": "The revised workflow produced more reliable results and improved the quality of team discussions.",
+      "pfr": "Reflecting on the experience, I recognised that many recurring problems emerged from hidden assumptions within the workflow rather than isolated technical mistakes.",
+      "learning": "I learned that successful engineering practice depends on balancing technical reasoning with communication, coordination, and adaptability."
+    },
+    {
+      "id": 177,
+      "grade": 8.4,
+      "topic": "Oral presentation",
+      "situation": "While testing our prototype, unexpected system interactions caused performance issues that were difficult to isolate. The reflection focused on oral presentation.",
+      "task_action": "I deliberately tested assumptions behind our design decisions and incorporated iterative feedback into the development process.",
+      "result": "Stakeholder feedback became more positive after the team adapted its communication and design process.",
+      "pfr": "I initially assumed that technical competence alone would ensure project success, but the experience showed that system interactions and communication strongly influenced outcomes.",
+      "learning": "I learned that successful engineering practice depends on balancing technical reasoning with communication, coordination, and adaptability."
+    },
+    {
+      "id": 178,
+      "grade": 7.5,
+      "topic": "Equity and diversity",
+      "situation": "Our engineering team had to revise major design assumptions after receiving stakeholder feedback midway through the project. The reflection focused on equity and diversity.",
+      "task_action": "I redesigned part of the workflow to improve collaboration between technical areas and reduce repeated errors.",
+      "result": "Stakeholder feedback became more positive after the team adapted its communication and design process.",
+      "pfr": "I realised that effective engineering practice depends on continuously reassessing assumptions and adapting processes as new information emerges.",
+      "learning": "I learned that successful engineering practice depends on balancing technical reasoning with communication, coordination, and adaptability."
+    },
+    {
+      "id": 179,
+      "grade": 8.4,
+      "topic": "Understanding needs and goals",
+      "situation": "During a multidisciplinary engineering project, conflicting priorities created repeated communication and integration challenges. The reflection focused on understanding needs and goals.",
+      "task_action": "I analysed how communication patterns and process assumptions were affecting the project and introduced structured review checkpoints.",
+      "result": "The revised workflow produced more reliable results and improved the quality of team discussions.",
+      "pfr": "I realised that effective engineering practice depends on continuously reassessing assumptions and adapting processes as new information emerges.",
+      "learning": "I learned that identifying assumptions early can reduce repeated problems and improve project integration."
+    },
+    {
+      "id": 180,
+      "grade": 8.0,
+      "topic": "Visual communication",
+      "situation": "Our engineering team had to revise major design assumptions after receiving stakeholder feedback midway through the project. The reflection focused on visual communication.",
+      "task_action": "I analysed how communication patterns and process assumptions were affecting the project and introduced structured review checkpoints.",
+      "result": "The revised workflow produced more reliable results and improved the quality of team discussions.",
+      "pfr": "Reflecting on the experience, I recognised that many recurring problems emerged from hidden assumptions within the workflow rather than isolated technical mistakes.",
+      "learning": "I learned that engineering effectiveness often depends on designing processes that support collaboration and continuous feedback."
+    },
+    {
+      "id": 181,
+      "grade": 7.8,
+      "topic": "Systems engineering",
+      "situation": "During a multidisciplinary engineering project, conflicting priorities created repeated communication and integration challenges. The reflection focused on systems engineering.",
+      "task_action": "I redesigned part of the workflow to improve collaboration between technical areas and reduce repeated errors.",
+      "result": "The revised workflow produced more reliable results and improved the quality of team discussions.",
+      "pfr": "I realised that effective engineering practice depends on continuously reassessing assumptions and adapting processes as new information emerges.",
+      "learning": "I learned that identifying assumptions early can reduce repeated problems and improve project integration."
+    },
+    {
+      "id": 182,
+      "grade": 8.0,
+      "topic": "Forming effective teams",
+      "situation": "While testing our prototype, unexpected system interactions caused performance issues that were difficult to isolate. The reflection focused on forming effective teams.",
+      "task_action": "I redesigned part of the workflow to improve collaboration between technical areas and reduce repeated errors.",
+      "result": "The changes improved integration between different project components and reduced delays during implementation.",
+      "pfr": "Reflecting on the experience, I recognised that many recurring problems emerged from hidden assumptions within the workflow rather than isolated technical mistakes.",
+      "learning": "I learned that identifying assumptions early can reduce repeated problems and improve project integration."
+    },
+    {
+      "id": 183,
+      "grade": 7.8,
+      "topic": "Self-awareness and metacognition",
+      "situation": "While testing our prototype, unexpected system interactions caused performance issues that were difficult to isolate. The reflection focused on self-awareness and metacognition.",
+      "task_action": "I deliberately tested assumptions behind our design decisions and incorporated iterative feedback into the development process.",
+      "result": "The revised workflow produced more reliable results and improved the quality of team discussions.",
+      "pfr": "I realised that effective engineering practice depends on continuously reassessing assumptions and adapting processes as new information emerges.",
+      "learning": "I learned that identifying assumptions early can reduce repeated problems and improve project integration."
+    },
+    {
+      "id": 184,
+      "grade": 7.5,
+      "topic": "Roles and responsibility of engineers",
+      "situation": "Our engineering team had to revise major design assumptions after receiving stakeholder feedback midway through the project. The reflection focused on roles and responsibility of engineers.",
+      "task_action": "I redesigned part of the workflow to improve collaboration between technical areas and reduce repeated errors.",
+      "result": "The revised workflow produced more reliable results and improved the quality of team discussions.",
+      "pfr": "I initially assumed that technical competence alone would ensure project success, but the experience showed that system interactions and communication strongly influenced outcomes.",
+      "learning": "I learned that engineering effectiveness often depends on designing processes that support collaboration and continuous feedback."
+    },
+    {
+      "id": 185,
+      "grade": 8.4,
+      "topic": "Initiative under uncertainty",
+      "situation": "Our engineering team had to revise major design assumptions after receiving stakeholder feedback midway through the project. The reflection focused on initiative under uncertainty.",
+      "task_action": "I redesigned part of the workflow to improve collaboration between technical areas and reduce repeated errors.",
+      "result": "The revised workflow produced more reliable results and improved the quality of team discussions.",
+      "pfr": "I initially assumed that technical competence alone would ensure project success, but the experience showed that system interactions and communication strongly influenced outcomes.",
+      "learning": "I learned that engineering effectiveness often depends on designing processes that support collaboration and continuous feedback."
+    },
+    {
+      "id": 186,
+      "grade": 7.8,
+      "topic": "Creating new solution concepts",
+      "situation": "Our engineering team had to revise major design assumptions after receiving stakeholder feedback midway through the project. The reflection focused on creating new solution concepts.",
+      "task_action": "I analysed how communication patterns and process assumptions were affecting the project and introduced structured review checkpoints.",
+      "result": "Stakeholder feedback became more positive after the team adapted its communication and design process.",
+      "pfr": "Reflecting on the experience, I recognised that many recurring problems emerged from hidden assumptions within the workflow rather than isolated technical mistakes.",
+      "learning": "I learned that engineering effectiveness often depends on designing processes that support collaboration and continuous feedback."
+    },
+    {
+      "id": 187,
+      "grade": 7.5,
+      "topic": "Time and resource management",
+      "situation": "Our engineering team had to revise major design assumptions after receiving stakeholder feedback midway through the project. The reflection focused on time and resource management.",
+      "task_action": "I deliberately tested assumptions behind our design decisions and incorporated iterative feedback into the development process.",
+      "result": "The changes improved integration between different project components and reduced delays during implementation.",
+      "pfr": "Reflecting on the experience, I recognised that many recurring problems emerged from hidden assumptions within the workflow rather than isolated technical mistakes.",
+      "learning": "I learned that identifying assumptions early can reduce repeated problems and improve project integration."
+    },
+    {
+      "id": 188,
+      "grade": 8.4,
+      "topic": "Attitudes, thought and learning",
+      "situation": "While testing our prototype, unexpected system interactions caused performance issues that were difficult to isolate. The reflection focused on attitudes, thought and learning.",
+      "task_action": "I deliberately tested assumptions behind our design decisions and incorporated iterative feedback into the development process.",
+      "result": "The changes improved integration between different project components and reduced delays during implementation.",
+      "pfr": "I initially assumed that technical competence alone would ensure project success, but the experience showed that system interactions and communication strongly influenced outcomes.",
+      "learning": "I learned that identifying assumptions early can reduce repeated problems and improve project integration."
+    },
+    {
+      "id": 189,
+      "grade": 8.2,
+      "topic": "Thinking creatively",
+      "situation": "During a multidisciplinary engineering project, conflicting priorities created repeated communication and integration challenges. The reflection focused on thinking creatively.",
+      "task_action": "I analysed how communication patterns and process assumptions were affecting the project and introduced structured review checkpoints.",
+      "result": "The changes improved integration between different project components and reduced delays during implementation.",
+      "pfr": "I realised that effective engineering practice depends on continuously reassessing assumptions and adapting processes as new information emerges.",
+      "learning": "I learned that identifying assumptions early can reduce repeated problems and improve project integration."
+    },
+    {
+      "id": 190,
+      "grade": 8.4,
+      "topic": "Implementation management",
+      "situation": "While testing our prototype, unexpected system interactions caused performance issues that were difficult to isolate. The reflection focused on implementation management.",
+      "task_action": "I analysed how communication patterns and process assumptions were affecting the project and introduced structured review checkpoints.",
+      "result": "The revised workflow produced more reliable results and improved the quality of team discussions.",
+      "pfr": "Reflecting on the experience, I recognised that many recurring problems emerged from hidden assumptions within the workflow rather than isolated technical mistakes.",
+      "learning": "I learned that identifying assumptions early can reduce repeated problems and improve project integration."
+    },
+    {
+      "id": 191,
+      "grade": 7.5,
+      "topic": "Defining solutions",
+      "situation": "While testing our prototype, unexpected system interactions caused performance issues that were difficult to isolate. The reflection focused on defining solutions.",
+      "task_action": "I analysed how communication patterns and process assumptions were affecting the project and introduced structured review checkpoints.",
+      "result": "The changes improved integration between different project components and reduced delays during implementation.",
+      "pfr": "I initially assumed that technical competence alone would ensure project success, but the experience showed that system interactions and communication strongly influenced outcomes.",
+      "learning": "I learned that engineering effectiveness often depends on designing processes that support collaboration and continuous feedback."
+    },
+    {
+      "id": 192,
+      "grade": 8.4,
+      "topic": "Data driven decision making",
+      "situation": "While testing our prototype, unexpected system interactions caused performance issues that were difficult to isolate. The reflection focused on data driven decision making.",
+      "task_action": "I analysed how communication patterns and process assumptions were affecting the project and introduced structured review checkpoints.",
+      "result": "The revised workflow produced more reliable results and improved the quality of team discussions.",
+      "pfr": "I initially assumed that technical competence alone would ensure project success, but the experience showed that system interactions and communication strongly influenced outcomes.",
+      "learning": "I learned that identifying assumptions early can reduce repeated problems and improve project integration."
+    },
+    {
+      "id": 193,
+      "grade": 7.5,
+      "topic": "Systems engineering",
+      "situation": "While testing our prototype, unexpected system interactions caused performance issues that were difficult to isolate. The reflection focused on systems engineering.",
+      "task_action": "I redesigned part of the workflow to improve collaboration between technical areas and reduce repeated errors.",
+      "result": "Stakeholder feedback became more positive after the team adapted its communication and design process.",
+      "pfr": "I realised that effective engineering practice depends on continuously reassessing assumptions and adapting processes as new information emerges.",
+      "learning": "I learned that engineering effectiveness often depends on designing processes that support collaboration and continuous feedback."
+    },
+    {
+      "id": 194,
+      "grade": 8.4,
+      "topic": "Advocacy",
+      "situation": "While testing our prototype, unexpected system interactions caused performance issues that were difficult to isolate. The reflection focused on advocacy.",
+      "task_action": "I deliberately tested assumptions behind our design decisions and incorporated iterative feedback into the development process.",
+      "result": "The revised workflow produced more reliable results and improved the quality of team discussions.",
+      "pfr": "I initially assumed that technical competence alone would ensure project success, but the experience showed that system interactions and communication strongly influenced outcomes.",
+      "learning": "I learned that engineering effectiveness often depends on designing processes that support collaboration and continuous feedback."
+    },
+    {
+      "id": 195,
+      "grade": 8.2,
+      "topic": "Written communication",
+      "situation": "During a multidisciplinary engineering project, conflicting priorities created repeated communication and integration challenges. The reflection focused on written communication.",
+      "task_action": "I deliberately tested assumptions behind our design decisions and incorporated iterative feedback into the development process.",
+      "result": "Stakeholder feedback became more positive after the team adapted its communication and design process.",
+      "pfr": "Reflecting on the experience, I recognised that many recurring problems emerged from hidden assumptions within the workflow rather than isolated technical mistakes.",
+      "learning": "I learned that engineering effectiveness often depends on designing processes that support collaboration and continuous feedback."
+    },
+    {
+      "id": 196,
+      "grade": 7.5,
+      "topic": "Written communication",
+      "situation": "Our engineering team had to revise major design assumptions after receiving stakeholder feedback midway through the project. The reflection focused on written communication.",
+      "task_action": "I redesigned part of the workflow to improve collaboration between technical areas and reduce repeated errors.",
+      "result": "Stakeholder feedback became more positive after the team adapted its communication and design process.",
+      "pfr": "Reflecting on the experience, I recognised that many recurring problems emerged from hidden assumptions within the workflow rather than isolated technical mistakes.",
+      "learning": "I learned that engineering effectiveness often depends on designing processes that support collaboration and continuous feedback."
+    },
+    {
+      "id": 197,
+      "grade": 7.5,
+      "topic": "Trade-offs and judgement",
+      "situation": "During a multidisciplinary engineering project, conflicting priorities created repeated communication and integration challenges. The reflection focused on trade-offs and judgement.",
+      "task_action": "I analysed how communication patterns and process assumptions were affecting the project and introduced structured review checkpoints.",
+      "result": "The changes improved integration between different project components and reduced delays during implementation.",
+      "pfr": "Reflecting on the experience, I recognised that many recurring problems emerged from hidden assumptions within the workflow rather than isolated technical mistakes.",
+      "learning": "I learned that identifying assumptions early can reduce repeated problems and improve project integration."
+    },
+    {
+      "id": 198,
+      "grade": 7.5,
+      "topic": "Lifelong learning",
+      "situation": "During a multidisciplinary engineering project, conflicting priorities created repeated communication and integration challenges. The reflection focused on lifelong learning.",
+      "task_action": "I deliberately tested assumptions behind our design decisions and incorporated iterative feedback into the development process.",
+      "result": "The changes improved integration between different project components and reduced delays during implementation.",
+      "pfr": "Reflecting on the experience, I recognised that many recurring problems emerged from hidden assumptions within the workflow rather than isolated technical mistakes.",
+      "learning": "I learned that identifying assumptions early can reduce repeated problems and improve project integration."
+    },
+    {
+      "id": 199,
+      "grade": 8.4,
+      "topic": "Thinking holistically",
+      "situation": "While testing our prototype, unexpected system interactions caused performance issues that were difficult to isolate. The reflection focused on thinking holistically.",
+      "task_action": "I deliberately tested assumptions behind our design decisions and incorporated iterative feedback into the development process.",
+      "result": "Stakeholder feedback became more positive after the team adapted its communication and design process.",
+      "pfr": "I realised that effective engineering practice depends on continuously reassessing assumptions and adapting processes as new information emerges.",
+      "learning": "I learned that successful engineering practice depends on balancing technical reasoning with communication, coordination, and adaptability."
+    },
+    {
+      "id": 200,
+      "grade": 7.5,
+      "topic": "Trade-offs and judgement",
+      "situation": "While testing our prototype, unexpected system interactions caused performance issues that were difficult to isolate. The reflection focused on trade-offs and judgement.",
+      "task_action": "I deliberately tested assumptions behind our design decisions and incorporated iterative feedback into the development process.",
+      "result": "The revised workflow produced more reliable results and improved the quality of team discussions.",
+      "pfr": "Reflecting on the experience, I recognised that many recurring problems emerged from hidden assumptions within the workflow rather than isolated technical mistakes.",
+      "learning": "I learned that successful engineering practice depends on balancing technical reasoning with communication, coordination, and adaptability."
+    },
+    {
+      "id": 201,
+      "grade": 9.0,
+      "topic": "Thinking holistically",
+      "situation": "While analysing project failures, I recognised that our technical assumptions were shaping how we interpreted evidence and limited our ability to identify root causes. The reflection focused on thinking holistically.",
+      "task_action": "I introduced feedback loops, structured reflection sessions, and shared system-level tracking so the team could identify issues before they escalated.",
+      "result": "The project became significantly more proactive and adaptive because issues were identified and addressed earlier in the workflow.",
+      "pfr": "I realised that my earlier approach focused too heavily on optimising technical outputs without understanding how communication structures shaped team behaviour and decision-making.",
+      "learning": "I learned that sustainable engineering improvement occurs when teams create systems that support reflection, shared awareness, and adaptive decision-making."
+    },
+    {
+      "id": 202,
+      "grade": 10.0,
+      "topic": "Thinking holistically",
+      "situation": "Our capstone project exposed tensions between technical optimisation, stakeholder expectations, and practical implementation constraints. The reflection focused on thinking holistically.",
+      "task_action": "I introduced feedback loops, structured reflection sessions, and shared system-level tracking so the team could identify issues before they escalated.",
+      "result": "The project became significantly more proactive and adaptive because issues were identified and addressed earlier in the workflow.",
+      "pfr": "I realised that my earlier approach focused too heavily on optimising technical outputs without understanding how communication structures shaped team behaviour and decision-making.",
+      "learning": "I learned that engineering leadership involves shaping feedback mechanisms and coordination structures rather than only solving technical issues directly."
+    },
+    {
+      "id": 203,
+      "grade": 8.5,
+      "topic": "Communications",
+      "situation": "While analysing project failures, I recognised that our technical assumptions were shaping how we interpreted evidence and limited our ability to identify root causes. The reflection focused on communications.",
+      "task_action": "I examined the underlying coordination mechanisms within the project and identified that the recurring problems were caused by fragmented decision-making rather than lack of effort.",
+      "result": "The revised processes improved collaboration, reduced systemic delays, and strengthened decision quality across the project.",
+      "pfr": "Before this experience, I believed project difficulties were mainly caused by individual performance issues. Through deeper reflection, I recognised that poorly designed coordination systems and feedback structures were the main drivers of recurring failure.",
+      "learning": "I learned that high-quality engineering outcomes emerge when assumptions, stakeholder perspectives, and system interactions are continuously examined and refined."
+    },
+    {
+      "id": 204,
+      "grade": 8.5,
+      "topic": "Leadership",
+      "situation": "During a long-term engineering project, the team repeatedly encountered systemic coordination and decision-making problems despite strong individual effort. The reflection focused on leadership.",
+      "task_action": "I introduced feedback loops, structured reflection sessions, and shared system-level tracking so the team could identify issues before they escalated.",
+      "result": "The project became significantly more proactive and adaptive because issues were identified and addressed earlier in the workflow.",
+      "pfr": "Before this experience, I believed project difficulties were mainly caused by individual performance issues. Through deeper reflection, I recognised that poorly designed coordination systems and feedback structures were the main drivers of recurring failure.",
+      "learning": "I learned that high-quality engineering outcomes emerge when assumptions, stakeholder perspectives, and system interactions are continuously examined and refined."
+    },
+    {
+      "id": 205,
+      "grade": 8.5,
+      "topic": "Communications strategy",
+      "situation": "Our capstone project exposed tensions between technical optimisation, stakeholder expectations, and practical implementation constraints. The reflection focused on communications strategy.",
+      "task_action": "I examined the underlying coordination mechanisms within the project and identified that the recurring problems were caused by fragmented decision-making rather than lack of effort.",
+      "result": "The revised processes improved collaboration, reduced systemic delays, and strengthened decision quality across the project.",
+      "pfr": "Before this experience, I believed project difficulties were mainly caused by individual performance issues. Through deeper reflection, I recognised that poorly designed coordination systems and feedback structures were the main drivers of recurring failure.",
+      "learning": "I learned that sustainable engineering improvement occurs when teams create systems that support reflection, shared awareness, and adaptive decision-making."
+    },
+    {
+      "id": 206,
+      "grade": 9.0,
+      "topic": "Defining solutions",
+      "situation": "Our capstone project exposed tensions between technical optimisation, stakeholder expectations, and practical implementation constraints. The reflection focused on defining solutions.",
+      "task_action": "I examined the underlying coordination mechanisms within the project and identified that the recurring problems were caused by fragmented decision-making rather than lack of effort.",
+      "result": "The team shifted from reactive troubleshooting toward continuous evaluation and long-term planning.",
+      "pfr": "Before this experience, I believed project difficulties were mainly caused by individual performance issues. Through deeper reflection, I recognised that poorly designed coordination systems and feedback structures were the main drivers of recurring failure.",
+      "learning": "I learned that sustainable engineering improvement occurs when teams create systems that support reflection, shared awareness, and adaptive decision-making."
+    },
+    {
+      "id": 207,
+      "grade": 9.5,
+      "topic": "Systems engineering",
+      "situation": "During a long-term engineering project, the team repeatedly encountered systemic coordination and decision-making problems despite strong individual effort. The reflection focused on systems engineering.",
+      "task_action": "I examined the underlying coordination mechanisms within the project and identified that the recurring problems were caused by fragmented decision-making rather than lack of effort.",
+      "result": "The revised processes improved collaboration, reduced systemic delays, and strengthened decision quality across the project.",
+      "pfr": "Before this experience, I believed project difficulties were mainly caused by individual performance issues. Through deeper reflection, I recognised that poorly designed coordination systems and feedback structures were the main drivers of recurring failure.",
+      "learning": "I learned that sustainable engineering improvement occurs when teams create systems that support reflection, shared awareness, and adaptive decision-making."
+    },
+    {
+      "id": 208,
+      "grade": 9.5,
+      "topic": "Experimental inquiry",
+      "situation": "During a long-term engineering project, the team repeatedly encountered systemic coordination and decision-making problems despite strong individual effort. The reflection focused on experimental inquiry.",
+      "task_action": "I reframed the problem from a purely technical failure into an interaction between stakeholder expectations, communication structures, and engineering assumptions.",
+      "result": "The team shifted from reactive troubleshooting toward continuous evaluation and long-term planning.",
+      "pfr": "Before this experience, I believed project difficulties were mainly caused by individual performance issues. Through deeper reflection, I recognised that poorly designed coordination systems and feedback structures were the main drivers of recurring failure.",
+      "learning": "I learned that sustainable engineering improvement occurs when teams create systems that support reflection, shared awareness, and adaptive decision-making."
+    },
+    {
+      "id": 209,
+      "grade": 8.5,
+      "topic": "Advocacy",
+      "situation": "During a long-term engineering project, the team repeatedly encountered systemic coordination and decision-making problems despite strong individual effort. The reflection focused on advocacy.",
+      "task_action": "I reframed the problem from a purely technical failure into an interaction between stakeholder expectations, communication structures, and engineering assumptions.",
+      "result": "The team shifted from reactive troubleshooting toward continuous evaluation and long-term planning.",
+      "pfr": "The experience reframed my understanding of engineering practice from solving isolated technical problems to managing interconnected systems involving people, uncertainty, and evolving constraints.",
+      "learning": "I learned that sustainable engineering improvement occurs when teams create systems that support reflection, shared awareness, and adaptive decision-making."
+    },
+    {
+      "id": 210,
+      "grade": 9.8,
+      "topic": "Perseverance and flexibility",
+      "situation": "While analysing project failures, I recognised that our technical assumptions were shaping how we interpreted evidence and limited our ability to identify root causes. The reflection focused on perseverance and flexibility.",
+      "task_action": "I introduced feedback loops, structured reflection sessions, and shared system-level tracking so the team could identify issues before they escalated.",
+      "result": "The revised processes improved collaboration, reduced systemic delays, and strengthened decision quality across the project.",
+      "pfr": "The experience reframed my understanding of engineering practice from solving isolated technical problems to managing interconnected systems involving people, uncertainty, and evolving constraints.",
+      "learning": "I learned that sustainable engineering improvement occurs when teams create systems that support reflection, shared awareness, and adaptive decision-making."
+    },
+    {
+      "id": 211,
+      "grade": 10.0,
+      "topic": "Accountability in teamwork",
+      "situation": "During a long-term engineering project, the team repeatedly encountered systemic coordination and decision-making problems despite strong individual effort. The reflection focused on accountability in teamwork.",
+      "task_action": "I reframed the problem from a purely technical failure into an interaction between stakeholder expectations, communication structures, and engineering assumptions.",
+      "result": "The project became significantly more proactive and adaptive because issues were identified and addressed earlier in the workflow.",
+      "pfr": "The experience reframed my understanding of engineering practice from solving isolated technical problems to managing interconnected systems involving people, uncertainty, and evolving constraints.",
+      "learning": "I learned that high-quality engineering outcomes emerge when assumptions, stakeholder perspectives, and system interactions are continuously examined and refined."
+    },
+    {
+      "id": 212,
+      "grade": 9.5,
+      "topic": "Implementation management",
+      "situation": "While analysing project failures, I recognised that our technical assumptions were shaping how we interpreted evidence and limited our ability to identify root causes. The reflection focused on implementation management.",
+      "task_action": "I reframed the problem from a purely technical failure into an interaction between stakeholder expectations, communication structures, and engineering assumptions.",
+      "result": "The project became significantly more proactive and adaptive because issues were identified and addressed earlier in the workflow.",
+      "pfr": "Before this experience, I believed project difficulties were mainly caused by individual performance issues. Through deeper reflection, I recognised that poorly designed coordination systems and feedback structures were the main drivers of recurring failure.",
+      "learning": "I learned that engineering leadership involves shaping feedback mechanisms and coordination structures rather than only solving technical issues directly."
+    },
+    {
+      "id": 213,
+      "grade": 9.8,
+      "topic": "Data driven decision making",
+      "situation": "Our capstone project exposed tensions between technical optimisation, stakeholder expectations, and practical implementation constraints. The reflection focused on data driven decision making.",
+      "task_action": "I examined the underlying coordination mechanisms within the project and identified that the recurring problems were caused by fragmented decision-making rather than lack of effort.",
+      "result": "The team shifted from reactive troubleshooting toward continuous evaluation and long-term planning.",
+      "pfr": "The experience reframed my understanding of engineering practice from solving isolated technical problems to managing interconnected systems involving people, uncertainty, and evolving constraints.",
+      "learning": "I learned that engineering leadership involves shaping feedback mechanisms and coordination structures rather than only solving technical issues directly."
+    },
+    {
+      "id": 214,
+      "grade": 8.5,
+      "topic": "Perseverance and flexibility",
+      "situation": "While analysing project failures, I recognised that our technical assumptions were shaping how we interpreted evidence and limited our ability to identify root causes. The reflection focused on perseverance and flexibility.",
+      "task_action": "I reframed the problem from a purely technical failure into an interaction between stakeholder expectations, communication structures, and engineering assumptions.",
+      "result": "The project became significantly more proactive and adaptive because issues were identified and addressed earlier in the workflow.",
+      "pfr": "Before this experience, I believed project difficulties were mainly caused by individual performance issues. Through deeper reflection, I recognised that poorly designed coordination systems and feedback structures were the main drivers of recurring failure.",
+      "learning": "I learned that sustainable engineering improvement occurs when teams create systems that support reflection, shared awareness, and adaptive decision-making."
+    },
+    {
+      "id": 215,
+      "grade": 10.0,
+      "topic": "Innovation process",
+      "situation": "Our capstone project exposed tensions between technical optimisation, stakeholder expectations, and practical implementation constraints. The reflection focused on innovation process.",
+      "task_action": "I reframed the problem from a purely technical failure into an interaction between stakeholder expectations, communication structures, and engineering assumptions.",
+      "result": "The revised processes improved collaboration, reduced systemic delays, and strengthened decision quality across the project.",
+      "pfr": "The experience reframed my understanding of engineering practice from solving isolated technical problems to managing interconnected systems involving people, uncertainty, and evolving constraints.",
+      "learning": "I learned that engineering leadership involves shaping feedback mechanisms and coordination structures rather than only solving technical issues directly."
+    },
+    {
+      "id": 216,
+      "grade": 10.0,
+      "topic": "Reproducibility",
+      "situation": "Our capstone project exposed tensions between technical optimisation, stakeholder expectations, and practical implementation constraints. The reflection focused on reproducibility.",
+      "task_action": "I introduced feedback loops, structured reflection sessions, and shared system-level tracking so the team could identify issues before they escalated.",
+      "result": "The team shifted from reactive troubleshooting toward continuous evaluation and long-term planning.",
+      "pfr": "The experience reframed my understanding of engineering practice from solving isolated technical problems to managing interconnected systems involving people, uncertainty, and evolving constraints.",
+      "learning": "I learned that high-quality engineering outcomes emerge when assumptions, stakeholder perspectives, and system interactions are continuously examined and refined."
+    },
+    {
+      "id": 217,
+      "grade": 8.5,
+      "topic": "Forming effective teams",
+      "situation": "Our capstone project exposed tensions between technical optimisation, stakeholder expectations, and practical implementation constraints. The reflection focused on forming effective teams.",
+      "task_action": "I examined the underlying coordination mechanisms within the project and identified that the recurring problems were caused by fragmented decision-making rather than lack of effort.",
+      "result": "The revised processes improved collaboration, reduced systemic delays, and strengthened decision quality across the project.",
+      "pfr": "The experience reframed my understanding of engineering practice from solving isolated technical problems to managing interconnected systems involving people, uncertainty, and evolving constraints.",
+      "learning": "I learned that high-quality engineering outcomes emerge when assumptions, stakeholder perspectives, and system interactions are continuously examined and refined."
+    },
+    {
+      "id": 218,
+      "grade": 9.8,
+      "topic": "Communications strategy",
+      "situation": "While analysing project failures, I recognised that our technical assumptions were shaping how we interpreted evidence and limited our ability to identify root causes. The reflection focused on communications strategy.",
+      "task_action": "I examined the underlying coordination mechanisms within the project and identified that the recurring problems were caused by fragmented decision-making rather than lack of effort.",
+      "result": "The team shifted from reactive troubleshooting toward continuous evaluation and long-term planning.",
+      "pfr": "I realised that my earlier approach focused too heavily on optimising technical outputs without understanding how communication structures shaped team behaviour and decision-making.",
+      "learning": "I learned that engineering leadership involves shaping feedback mechanisms and coordination structures rather than only solving technical issues directly."
+    },
+    {
+      "id": 219,
+      "grade": 9.8,
+      "topic": "Data driven decision making",
+      "situation": "Our capstone project exposed tensions between technical optimisation, stakeholder expectations, and practical implementation constraints. The reflection focused on data driven decision making.",
+      "task_action": "I examined the underlying coordination mechanisms within the project and identified that the recurring problems were caused by fragmented decision-making rather than lack of effort.",
+      "result": "The team shifted from reactive troubleshooting toward continuous evaluation and long-term planning.",
+      "pfr": "I realised that my earlier approach focused too heavily on optimising technical outputs without understanding how communication structures shaped team behaviour and decision-making.",
+      "learning": "I learned that engineering leadership involves shaping feedback mechanisms and coordination structures rather than only solving technical issues directly."
+    },
+    {
+      "id": 220,
+      "grade": 9.5,
+      "topic": "Advocacy",
+      "situation": "During a long-term engineering project, the team repeatedly encountered systemic coordination and decision-making problems despite strong individual effort. The reflection focused on advocacy.",
+      "task_action": "I reframed the problem from a purely technical failure into an interaction between stakeholder expectations, communication structures, and engineering assumptions.",
+      "result": "The team shifted from reactive troubleshooting toward continuous evaluation and long-term planning.",
+      "pfr": "Before this experience, I believed project difficulties were mainly caused by individual performance issues. Through deeper reflection, I recognised that poorly designed coordination systems and feedback structures were the main drivers of recurring failure.",
+      "learning": "I learned that sustainable engineering improvement occurs when teams create systems that support reflection, shared awareness, and adaptive decision-making."
+    },
+    {
+      "id": 221,
+      "grade": 8.5,
+      "topic": "Critical thinking",
+      "situation": "While analysing project failures, I recognised that our technical assumptions were shaping how we interpreted evidence and limited our ability to identify root causes. The reflection focused on critical thinking.",
+      "task_action": "I examined the underlying coordination mechanisms within the project and identified that the recurring problems were caused by fragmented decision-making rather than lack of effort.",
+      "result": "The revised processes improved collaboration, reduced systemic delays, and strengthened decision quality across the project.",
+      "pfr": "The experience reframed my understanding of engineering practice from solving isolated technical problems to managing interconnected systems involving people, uncertainty, and evolving constraints.",
+      "learning": "I learned that engineering leadership involves shaping feedback mechanisms and coordination structures rather than only solving technical issues directly."
+    },
+    {
+      "id": 222,
+      "grade": 10.0,
+      "topic": "Time and resource management",
+      "situation": "During a long-term engineering project, the team repeatedly encountered systemic coordination and decision-making problems despite strong individual effort. The reflection focused on time and resource management.",
+      "task_action": "I reframed the problem from a purely technical failure into an interaction between stakeholder expectations, communication structures, and engineering assumptions.",
+      "result": "The revised processes improved collaboration, reduced systemic delays, and strengthened decision quality across the project.",
+      "pfr": "The experience reframed my understanding of engineering practice from solving isolated technical problems to managing interconnected systems involving people, uncertainty, and evolving constraints.",
+      "learning": "I learned that engineering leadership involves shaping feedback mechanisms and coordination structures rather than only solving technical issues directly."
+    },
+    {
+      "id": 223,
+      "grade": 9.8,
+      "topic": "Lifelong learning",
+      "situation": "While analysing project failures, I recognised that our technical assumptions were shaping how we interpreted evidence and limited our ability to identify root causes. The reflection focused on lifelong learning.",
+      "task_action": "I reframed the problem from a purely technical failure into an interaction between stakeholder expectations, communication structures, and engineering assumptions.",
+      "result": "The team shifted from reactive troubleshooting toward continuous evaluation and long-term planning.",
+      "pfr": "The experience reframed my understanding of engineering practice from solving isolated technical problems to managing interconnected systems involving people, uncertainty, and evolving constraints.",
+      "learning": "I learned that sustainable engineering improvement occurs when teams create systems that support reflection, shared awareness, and adaptive decision-making."
+    },
+    {
+      "id": 224,
+      "grade": 10.0,
+      "topic": "Roles and responsibility of engineers",
+      "situation": "While analysing project failures, I recognised that our technical assumptions were shaping how we interpreted evidence and limited our ability to identify root causes. The reflection focused on roles and responsibility of engineers.",
+      "task_action": "I introduced feedback loops, structured reflection sessions, and shared system-level tracking so the team could identify issues before they escalated.",
+      "result": "The project became significantly more proactive and adaptive because issues were identified and addressed earlier in the workflow.",
+      "pfr": "The experience reframed my understanding of engineering practice from solving isolated technical problems to managing interconnected systems involving people, uncertainty, and evolving constraints.",
+      "learning": "I learned that high-quality engineering outcomes emerge when assumptions, stakeholder perspectives, and system interactions are continuously examined and refined."
+    },
+    {
+      "id": 225,
+      "grade": 9.0,
+      "topic": "Communications strategy",
+      "situation": "Our capstone project exposed tensions between technical optimisation, stakeholder expectations, and practical implementation constraints. The reflection focused on communications strategy.",
+      "task_action": "I introduced feedback loops, structured reflection sessions, and shared system-level tracking so the team could identify issues before they escalated.",
+      "result": "The project became significantly more proactive and adaptive because issues were identified and addressed earlier in the workflow.",
+      "pfr": "Before this experience, I believed project difficulties were mainly caused by individual performance issues. Through deeper reflection, I recognised that poorly designed coordination systems and feedback structures were the main drivers of recurring failure.",
+      "learning": "I learned that engineering leadership involves shaping feedback mechanisms and coordination structures rather than only solving technical issues directly."
+    },
+    {
+      "id": 226,
+      "grade": 9.5,
+      "topic": "Project management",
+      "situation": "During a long-term engineering project, the team repeatedly encountered systemic coordination and decision-making problems despite strong individual effort. The reflection focused on project management.",
+      "task_action": "I introduced feedback loops, structured reflection sessions, and shared system-level tracking so the team could identify issues before they escalated.",
+      "result": "The revised processes improved collaboration, reduced systemic delays, and strengthened decision quality across the project.",
+      "pfr": "Before this experience, I believed project difficulties were mainly caused by individual performance issues. Through deeper reflection, I recognised that poorly designed coordination systems and feedback structures were the main drivers of recurring failure.",
+      "learning": "I learned that engineering leadership involves shaping feedback mechanisms and coordination structures rather than only solving technical issues directly."
+    },
+    {
+      "id": 227,
+      "grade": 10.0,
+      "topic": "Project management",
+      "situation": "Our capstone project exposed tensions between technical optimisation, stakeholder expectations, and practical implementation constraints. The reflection focused on project management.",
+      "task_action": "I reframed the problem from a purely technical failure into an interaction between stakeholder expectations, communication structures, and engineering assumptions.",
+      "result": "The revised processes improved collaboration, reduced systemic delays, and strengthened decision quality across the project.",
+      "pfr": "The experience reframed my understanding of engineering practice from solving isolated technical problems to managing interconnected systems involving people, uncertainty, and evolving constraints.",
+      "learning": "I learned that sustainable engineering improvement occurs when teams create systems that support reflection, shared awareness, and adaptive decision-making."
+    },
+    {
+      "id": 228,
+      "grade": 9.5,
+      "topic": "Leadership",
+      "situation": "During a long-term engineering project, the team repeatedly encountered systemic coordination and decision-making problems despite strong individual effort. The reflection focused on leadership.",
+      "task_action": "I examined the underlying coordination mechanisms within the project and identified that the recurring problems were caused by fragmented decision-making rather than lack of effort.",
+      "result": "The team shifted from reactive troubleshooting toward continuous evaluation and long-term planning.",
+      "pfr": "The experience reframed my understanding of engineering practice from solving isolated technical problems to managing interconnected systems involving people, uncertainty, and evolving constraints.",
+      "learning": "I learned that engineering leadership involves shaping feedback mechanisms and coordination structures rather than only solving technical issues directly."
+    },
+    {
+      "id": 229,
+      "grade": 9.5,
+      "topic": "Defining solutions",
+      "situation": "During a long-term engineering project, the team repeatedly encountered systemic coordination and decision-making problems despite strong individual effort. The reflection focused on defining solutions.",
+      "task_action": "I examined the underlying coordination mechanisms within the project and identified that the recurring problems were caused by fragmented decision-making rather than lack of effort.",
+      "result": "The project became significantly more proactive and adaptive because issues were identified and addressed earlier in the workflow.",
+      "pfr": "The experience reframed my understanding of engineering practice from solving isolated technical problems to managing interconnected systems involving people, uncertainty, and evolving constraints.",
+      "learning": "I learned that high-quality engineering outcomes emerge when assumptions, stakeholder perspectives, and system interactions are continuously examined and refined."
+    },
+    {
+      "id": 230,
+      "grade": 8.5,
+      "topic": "Data driven decision making",
+      "situation": "During a long-term engineering project, the team repeatedly encountered systemic coordination and decision-making problems despite strong individual effort. The reflection focused on data driven decision making.",
+      "task_action": "I reframed the problem from a purely technical failure into an interaction between stakeholder expectations, communication structures, and engineering assumptions.",
+      "result": "The revised processes improved collaboration, reduced systemic delays, and strengthened decision quality across the project.",
+      "pfr": "Before this experience, I believed project difficulties were mainly caused by individual performance issues. Through deeper reflection, I recognised that poorly designed coordination systems and feedback structures were the main drivers of recurring failure.",
+      "learning": "I learned that sustainable engineering improvement occurs when teams create systems that support reflection, shared awareness, and adaptive decision-making."
+    },
+    {
+      "id": 231,
+      "grade": 9.0,
+      "topic": "Implementation management",
+      "situation": "While analysing project failures, I recognised that our technical assumptions were shaping how we interpreted evidence and limited our ability to identify root causes. The reflection focused on implementation management.",
+      "task_action": "I introduced feedback loops, structured reflection sessions, and shared system-level tracking so the team could identify issues before they escalated.",
+      "result": "The team shifted from reactive troubleshooting toward continuous evaluation and long-term planning.",
+      "pfr": "I realised that my earlier approach focused too heavily on optimising technical outputs without understanding how communication structures shaped team behaviour and decision-making.",
+      "learning": "I learned that sustainable engineering improvement occurs when teams create systems that support reflection, shared awareness, and adaptive decision-making."
+    },
+    {
+      "id": 232,
+      "grade": 9.5,
+      "topic": "Thinking holistically",
+      "situation": "Our capstone project exposed tensions between technical optimisation, stakeholder expectations, and practical implementation constraints. The reflection focused on thinking holistically.",
+      "task_action": "I introduced feedback loops, structured reflection sessions, and shared system-level tracking so the team could identify issues before they escalated.",
+      "result": "The revised processes improved collaboration, reduced systemic delays, and strengthened decision quality across the project.",
+      "pfr": "The experience reframed my understanding of engineering practice from solving isolated technical problems to managing interconnected systems involving people, uncertainty, and evolving constraints.",
+      "learning": "I learned that sustainable engineering improvement occurs when teams create systems that support reflection, shared awareness, and adaptive decision-making."
+    },
+    {
+      "id": 233,
+      "grade": 9.0,
+      "topic": "Initiative under uncertainty",
+      "situation": "During a long-term engineering project, the team repeatedly encountered systemic coordination and decision-making problems despite strong individual effort. The reflection focused on initiative under uncertainty.",
+      "task_action": "I reframed the problem from a purely technical failure into an interaction between stakeholder expectations, communication structures, and engineering assumptions.",
+      "result": "The project became significantly more proactive and adaptive because issues were identified and addressed earlier in the workflow.",
+      "pfr": "The experience reframed my understanding of engineering practice from solving isolated technical problems to managing interconnected systems involving people, uncertainty, and evolving constraints.",
+      "learning": "I learned that sustainable engineering improvement occurs when teams create systems that support reflection, shared awareness, and adaptive decision-making."
+    },
+    {
+      "id": 234,
+      "grade": 9.8,
+      "topic": "Innovation process",
+      "situation": "Our capstone project exposed tensions between technical optimisation, stakeholder expectations, and practical implementation constraints. The reflection focused on innovation process.",
+      "task_action": "I introduced feedback loops, structured reflection sessions, and shared system-level tracking so the team could identify issues before they escalated.",
+      "result": "The team shifted from reactive troubleshooting toward continuous evaluation and long-term planning.",
+      "pfr": "The experience reframed my understanding of engineering practice from solving isolated technical problems to managing interconnected systems involving people, uncertainty, and evolving constraints.",
+      "learning": "I learned that engineering leadership involves shaping feedback mechanisms and coordination structures rather than only solving technical issues directly."
+    },
+    {
+      "id": 235,
+      "grade": 9.5,
+      "topic": "Trade-offs and judgement",
+      "situation": "During a long-term engineering project, the team repeatedly encountered systemic coordination and decision-making problems despite strong individual effort. The reflection focused on trade-offs and judgement.",
+      "task_action": "I reframed the problem from a purely technical failure into an interaction between stakeholder expectations, communication structures, and engineering assumptions.",
+      "result": "The project became significantly more proactive and adaptive because issues were identified and addressed earlier in the workflow.",
+      "pfr": "I realised that my earlier approach focused too heavily on optimising technical outputs without understanding how communication structures shaped team behaviour and decision-making.",
+      "learning": "I learned that engineering leadership involves shaping feedback mechanisms and coordination structures rather than only solving technical issues directly."
+    },
+    {
+      "id": 236,
+      "grade": 9.5,
+      "topic": "Lifelong learning",
+      "situation": "Our capstone project exposed tensions between technical optimisation, stakeholder expectations, and practical implementation constraints. The reflection focused on lifelong learning.",
+      "task_action": "I reframed the problem from a purely technical failure into an interaction between stakeholder expectations, communication structures, and engineering assumptions.",
+      "result": "The revised processes improved collaboration, reduced systemic delays, and strengthened decision quality across the project.",
+      "pfr": "I realised that my earlier approach focused too heavily on optimising technical outputs without understanding how communication structures shaped team behaviour and decision-making.",
+      "learning": "I learned that high-quality engineering outcomes emerge when assumptions, stakeholder perspectives, and system interactions are continuously examined and refined."
+    },
+    {
+      "id": 237,
+      "grade": 8.5,
+      "topic": "Impact of engineering on society",
+      "situation": "During a long-term engineering project, the team repeatedly encountered systemic coordination and decision-making problems despite strong individual effort. The reflection focused on impact of engineering on society.",
+      "task_action": "I introduced feedback loops, structured reflection sessions, and shared system-level tracking so the team could identify issues before they escalated.",
+      "result": "The revised processes improved collaboration, reduced systemic delays, and strengthened decision quality across the project.",
+      "pfr": "Before this experience, I believed project difficulties were mainly caused by individual performance issues. Through deeper reflection, I recognised that poorly designed coordination systems and feedback structures were the main drivers of recurring failure.",
+      "learning": "I learned that sustainable engineering improvement occurs when teams create systems that support reflection, shared awareness, and adaptive decision-making."
+    },
+    {
+      "id": 238,
+      "grade": 9.5,
+      "topic": "Communications strategy",
+      "situation": "During a long-term engineering project, the team repeatedly encountered systemic coordination and decision-making problems despite strong individual effort. The reflection focused on communications strategy.",
+      "task_action": "I examined the underlying coordination mechanisms within the project and identified that the recurring problems were caused by fragmented decision-making rather than lack of effort.",
+      "result": "The team shifted from reactive troubleshooting toward continuous evaluation and long-term planning.",
+      "pfr": "I realised that my earlier approach focused too heavily on optimising technical outputs without understanding how communication structures shaped team behaviour and decision-making.",
+      "learning": "I learned that engineering leadership involves shaping feedback mechanisms and coordination structures rather than only solving technical issues directly."
+    },
+    {
+      "id": 239,
+      "grade": 8.5,
+      "topic": "Lifelong learning",
+      "situation": "While analysing project failures, I recognised that our technical assumptions were shaping how we interpreted evidence and limited our ability to identify root causes. The reflection focused on lifelong learning.",
+      "task_action": "I reframed the problem from a purely technical failure into an interaction between stakeholder expectations, communication structures, and engineering assumptions.",
+      "result": "The team shifted from reactive troubleshooting toward continuous evaluation and long-term planning.",
+      "pfr": "Before this experience, I believed project difficulties were mainly caused by individual performance issues. Through deeper reflection, I recognised that poorly designed coordination systems and feedback structures were the main drivers of recurring failure.",
+      "learning": "I learned that sustainable engineering improvement occurs when teams create systems that support reflection, shared awareness, and adaptive decision-making."
+    },
+    {
+      "id": 240,
+      "grade": 10.0,
+      "topic": "Reproducibility",
+      "situation": "Our capstone project exposed tensions between technical optimisation, stakeholder expectations, and practical implementation constraints. The reflection focused on reproducibility.",
+      "task_action": "I examined the underlying coordination mechanisms within the project and identified that the recurring problems were caused by fragmented decision-making rather than lack of effort.",
+      "result": "The revised processes improved collaboration, reduced systemic delays, and strengthened decision quality across the project.",
+      "pfr": "The experience reframed my understanding of engineering practice from solving isolated technical problems to managing interconnected systems involving people, uncertainty, and evolving constraints.",
+      "learning": "I learned that high-quality engineering outcomes emerge when assumptions, stakeholder perspectives, and system interactions are continuously examined and refined."
+    },
+    {
+      "id": 241,
+      "grade": 8.5,
+      "topic": "Creating new solution concepts",
+      "situation": "While analysing project failures, I recognised that our technical assumptions were shaping how we interpreted evidence and limited our ability to identify root causes. The reflection focused on creating new solution concepts.",
+      "task_action": "I reframed the problem from a purely technical failure into an interaction between stakeholder expectations, communication structures, and engineering assumptions.",
+      "result": "The project became significantly more proactive and adaptive because issues were identified and addressed earlier in the workflow.",
+      "pfr": "I realised that my earlier approach focused too heavily on optimising technical outputs without understanding how communication structures shaped team behaviour and decision-making.",
+      "learning": "I learned that sustainable engineering improvement occurs when teams create systems that support reflection, shared awareness, and adaptive decision-making."
+    },
+    {
+      "id": 242,
+      "grade": 8.5,
+      "topic": "Visual communication",
+      "situation": "While analysing project failures, I recognised that our technical assumptions were shaping how we interpreted evidence and limited our ability to identify root causes. The reflection focused on visual communication.",
+      "task_action": "I reframed the problem from a purely technical failure into an interaction between stakeholder expectations, communication structures, and engineering assumptions.",
+      "result": "The team shifted from reactive troubleshooting toward continuous evaluation and long-term planning.",
+      "pfr": "The experience reframed my understanding of engineering practice from solving isolated technical problems to managing interconnected systems involving people, uncertainty, and evolving constraints.",
+      "learning": "I learned that engineering leadership involves shaping feedback mechanisms and coordination structures rather than only solving technical issues directly."
+    },
+    {
+      "id": 243,
+      "grade": 9.5,
+      "topic": "Trade-offs and judgement",
+      "situation": "During a long-term engineering project, the team repeatedly encountered systemic coordination and decision-making problems despite strong individual effort. The reflection focused on trade-offs and judgement.",
+      "task_action": "I introduced feedback loops, structured reflection sessions, and shared system-level tracking so the team could identify issues before they escalated.",
+      "result": "The project became significantly more proactive and adaptive because issues were identified and addressed earlier in the workflow.",
+      "pfr": "I realised that my earlier approach focused too heavily on optimising technical outputs without understanding how communication structures shaped team behaviour and decision-making.",
+      "learning": "I learned that sustainable engineering improvement occurs when teams create systems that support reflection, shared awareness, and adaptive decision-making."
+    },
+    {
+      "id": 244,
+      "grade": 9.8,
+      "topic": "Adaptability",
+      "situation": "Our capstone project exposed tensions between technical optimisation, stakeholder expectations, and practical implementation constraints. The reflection focused on adaptability.",
+      "task_action": "I introduced feedback loops, structured reflection sessions, and shared system-level tracking so the team could identify issues before they escalated.",
+      "result": "The project became significantly more proactive and adaptive because issues were identified and addressed earlier in the workflow.",
+      "pfr": "I realised that my earlier approach focused too heavily on optimising technical outputs without understanding how communication structures shaped team behaviour and decision-making.",
+      "learning": "I learned that sustainable engineering improvement occurs when teams create systems that support reflection, shared awareness, and adaptive decision-making."
+    },
+    {
+      "id": 245,
+      "grade": 9.8,
+      "topic": "Oral presentation",
+      "situation": "Our capstone project exposed tensions between technical optimisation, stakeholder expectations, and practical implementation constraints. The reflection focused on oral presentation.",
+      "task_action": "I introduced feedback loops, structured reflection sessions, and shared system-level tracking so the team could identify issues before they escalated.",
+      "result": "The revised processes improved collaboration, reduced systemic delays, and strengthened decision quality across the project.",
+      "pfr": "Before this experience, I believed project difficulties were mainly caused by individual performance issues. Through deeper reflection, I recognised that poorly designed coordination systems and feedback structures were the main drivers of recurring failure.",
+      "learning": "I learned that engineering leadership involves shaping feedback mechanisms and coordination structures rather than only solving technical issues directly."
+    },
+    {
+      "id": 246,
+      "grade": 9.5,
+      "topic": "Impact of engineering on society",
+      "situation": "During a long-term engineering project, the team repeatedly encountered systemic coordination and decision-making problems despite strong individual effort. The reflection focused on impact of engineering on society.",
+      "task_action": "I introduced feedback loops, structured reflection sessions, and shared system-level tracking so the team could identify issues before they escalated.",
+      "result": "The project became significantly more proactive and adaptive because issues were identified and addressed earlier in the workflow.",
+      "pfr": "Before this experience, I believed project difficulties were mainly caused by individual performance issues. Through deeper reflection, I recognised that poorly designed coordination systems and feedback structures were the main drivers of recurring failure.",
+      "learning": "I learned that high-quality engineering outcomes emerge when assumptions, stakeholder perspectives, and system interactions are continuously examined and refined."
+    },
+    {
+      "id": 247,
+      "grade": 10.0,
+      "topic": "Lifelong learning",
+      "situation": "Our capstone project exposed tensions between technical optimisation, stakeholder expectations, and practical implementation constraints. The reflection focused on lifelong learning.",
+      "task_action": "I examined the underlying coordination mechanisms within the project and identified that the recurring problems were caused by fragmented decision-making rather than lack of effort.",
+      "result": "The team shifted from reactive troubleshooting toward continuous evaluation and long-term planning.",
+      "pfr": "I realised that my earlier approach focused too heavily on optimising technical outputs without understanding how communication structures shaped team behaviour and decision-making.",
+      "learning": "I learned that high-quality engineering outcomes emerge when assumptions, stakeholder perspectives, and system interactions are continuously examined and refined."
+    },
+    {
+      "id": 248,
+      "grade": 9.0,
+      "topic": "Ethics and social responsibility",
+      "situation": "During a long-term engineering project, the team repeatedly encountered systemic coordination and decision-making problems despite strong individual effort. The reflection focused on ethics and social responsibility.",
+      "task_action": "I examined the underlying coordination mechanisms within the project and identified that the recurring problems were caused by fragmented decision-making rather than lack of effort.",
+      "result": "The team shifted from reactive troubleshooting toward continuous evaluation and long-term planning.",
+      "pfr": "Before this experience, I believed project difficulties were mainly caused by individual performance issues. Through deeper reflection, I recognised that poorly designed coordination systems and feedback structures were the main drivers of recurring failure.",
+      "learning": "I learned that sustainable engineering improvement occurs when teams create systems that support reflection, shared awareness, and adaptive decision-making."
+    },
+    {
+      "id": 249,
+      "grade": 9.0,
+      "topic": "Leadership",
+      "situation": "Our capstone project exposed tensions between technical optimisation, stakeholder expectations, and practical implementation constraints. The reflection focused on leadership.",
+      "task_action": "I examined the underlying coordination mechanisms within the project and identified that the recurring problems were caused by fragmented decision-making rather than lack of effort.",
+      "result": "The project became significantly more proactive and adaptive because issues were identified and addressed earlier in the workflow.",
+      "pfr": "The experience reframed my understanding of engineering practice from solving isolated technical problems to managing interconnected systems involving people, uncertainty, and evolving constraints.",
+      "learning": "I learned that engineering leadership involves shaping feedback mechanisms and coordination structures rather than only solving technical issues directly."
+    },
+    {
+      "id": 250,
+      "grade": 10.0,
+      "topic": "Visual communication",
+      "situation": "Our capstone project exposed tensions between technical optimisation, stakeholder expectations, and practical implementation constraints. The reflection focused on visual communication.",
+      "task_action": "I introduced feedback loops, structured reflection sessions, and shared system-level tracking so the team could identify issues before they escalated.",
+      "result": "The revised processes improved collaboration, reduced systemic delays, and strengthened decision quality across the project.",
+      "pfr": "The experience reframed my understanding of engineering practice from solving isolated technical problems to managing interconnected systems involving people, uncertainty, and evolving constraints.",
+      "learning": "I learned that high-quality engineering outcomes emerge when assumptions, stakeholder perspectives, and system interactions are continuously examined and refined."
+    }
+  ]
+}

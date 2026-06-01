@@ -1,0 +1,6 @@
+model,avg_intra_topic_similarity,avg_inter_topic_similarity,separability_ratio,unique_topics,n_reflections,embedding_dim
+all-MiniLM-L6-v2,0.5352,0.4352,1.2298,260,1560,384
+all-mpnet-base-v2,0.5648,0.4764,1.1855,260,1560,768
+paraphrase-mpnet-base-v2,0.6055,0.5222,1.1595,260,1560,768
+multi-qa-MiniLM-L6-cos-v1,0.5422,0.45,1.2049,260,1560,384
+all-MiniLM-L12-v2,0.5335,0.4331,1.2318,260,1560,384

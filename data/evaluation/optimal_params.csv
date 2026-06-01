@@ -1,0 +1,2 @@
+k,alpha,min_multiplier,s1_weight,disparity_threshold,similarity_threshold,cluster_size_threshold,accuracy,mae,rmse,flag_rate,n_correct,n_flagged,n_total
+15.0,0.1,0.3,0.4,2.0,0.4,15.0,80.0,0.99,1.221,24.0,20.0,6.0,25.0

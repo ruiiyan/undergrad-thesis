@@ -1,0 +1,74 @@
+=================================================================
+  REFLECTION CLUSTERING SUMMARY
+  Run: 2026-04-27 17:04:29
+=================================================================
+
+--- Parameters ---
+  UMAP:    n_neighbors=15, min_dist=0.1, n_components=10, metric='cosine'
+  HDBSCAN: min_cluster_size=15, min_samples=5, metric='euclidean'
+  Label sample size: 10
+
+--- Overview ---
+  Total reflections : 1879
+  Clusters found    : 7
+  Noise (unclustered): 113 (6.0%)
+
+--- Cluster Table ---
+   ID  Theme                                    N   high  mid  low  Bloom
+  ----------------------------------------------------------------------
+    0  Coding problem-solving strategies       91     91    0    0   2.24
+    1  Toolbox fabrication problem-solving    105    101    4    0   2.00
+    2  Arduino coding problem-solving          81     78    2    1   2.04
+    3  Critical thinking skill development     59     27   30    2   2.01
+    4  Technical drawing skill development     73     73    0    0   1.96
+    5  Innovative solution concept development    119     17  102    0   2.22
+    6  RGM collaborative brainstorming process   1238    883  347    8   2.12
+   –1  unclustered                            113
+
+--- Cluster Descriptions ---
+  [0] Coding problem-solving strategies
+      Students reflect on the strategies they employed to solve programming challenges, including seeking help, planning, brainstorming, and iterative testing to complete coding tasks.
+  [1] Toolbox fabrication problem-solving
+      Students reflect on overcoming technical errors, material setbacks, and design challenges encountered during hands-on sheet metal toolbox construction.
+  [2] Arduino coding problem-solving
+      Students reflect on systematically breaking down and completing Arduino circuit and coding exercises within time constraints using structured problem-solving strategies.
+  [3] Critical thinking skill development
+      Students reflect on applying and developing critical thinking skills across academic, professional, and personal contexts to solve problems and make informed decisions.
+  [4] Technical drawing skill development
+      Students reflect on progressively mastering diverse technical drawing methods—such as isometric, perspective, and multiview—through structured practice, resource use, and iterative problem-solving within workshop sessions.
+  [5] Innovative solution concept development
+      Students reflect on systematically defining problems, brainstorming ideas, and developing feasible conceptual solutions to meet user or consumer requirements.
+  [6] RGM collaborative brainstorming process
+      Students reflect on how their teams used structured brainstorming techniques, communication tools, and group decision-making to develop concepts and themes for their Rube Goldberg Machine project.
+
+--- Validation Samples (2 results per cluster) ---
+
+  Cluster 0 — "Coding problem-solving strategies"
+    [Row_2173] After this cycle of receiving help I managed to complete the game and made it fully functioning with a best of 3 rounds and everything I could have wanted it to do, I had received exactly what I needed and wished I asked even earlier. This event made me realize that despite not believing in my abili...
+    [Row_2177] The result of this group plan was being able to make a sufficient Blackjack game within the given time constraint. Our group assignment was given a 91%....
+
+  Cluster 1 — "Toolbox fabrication problem-solving"
+    [Row_2154] The result was finally locking the individual pieces together and having enough structural integrity to both hold itself together and any tools that also could fit within....
+    [Row_2158] The result was a toolbox finished before the deadline, without the need to put in extra hours outside of designated class time....
+
+  Cluster 2 — "Arduino coding problem-solving"
+    [Row_2162] Approaching each exercise in this manner allowed me to determine how each element of the circuit would need to be built and coded, as well as how they would need to be connected together so that they could operate simultaneously in order to achieve the requirement specified in the worksheet.  The en...
+    [Row_2163] Approaching each exercise in this manner allowed me to determine how each element of the circuit would need to be built and coded, as well as how they would need to be connected together so that they could operate simultaneously in order to achieve the requirement specified in the worksheet.  The en...
+
+  Cluster 3 — "Critical thinking skill development"
+    [Row_2153] As a result of my critical thinking and analysis, i was able to save customers from buying outdated stocks and save the company from finical liability....
+    [Row_2240] As a result of our critical thinking and joint efforts, we were able to spot possible issues that could have hampered our answer if we had not addressed them. We were also able to create a comprehensive solution that incorporated all accessible data and viewpoints. Our presentation was well received...
+
+  Cluster 4 — "Technical drawing skill development"
+    [Row_2175] The result was incrementally furthering my skillset with every piece completed, and feeling more capable and confident with my abilities....
+    [Row_2183] The result was that I gained valuable experience with the different methods of technical drawing which boosted my understanding of more complex shapes....
+
+  Cluster 5 — "Innovative solution concept development"
+    [Row_2361] The result of creating the program was that users could now enter a piece of data that they wanted to convert to either Fahrenheit or Celsius and be able to successfully receive their desired outcome....
+    [Row_2591] Our result was being able to break down the purposes of each pre-designed function and use parts of those pieces to produce a successful website with all the qualities of one which relied on external libraries, therefore satisfying our mentor....
+
+  Cluster 6 — "RGM collaborative brainstorming process"
+    [Row_2061] As a result, we created more enriched ideas because they had contributions from all of us, not only from one perspective. Each of us has different approaches and skills to face tasks, so our projects reflect a variety of personal opinions....
+    [Row_2062] ...
+
+=================================================================

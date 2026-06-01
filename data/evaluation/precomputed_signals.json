@@ -1,0 +1,2169 @@
+[
+  {
+    "id": 1,
+    "expected_grade": 2.0,
+    "topic": "teamwork",
+    "cluster": 30,
+    "cluster_similarity": 0.7885568141937256,
+    "cluster_confidence": "high",
+    "flag_low_confidence": false,
+    "keywords": "group task, require teamwork, communicate team, teamwork communication, group work",
+    "s1_neighbours": [
+      {
+        "grade": 10.0,
+        "similarity": 0.7193059921264648
+      },
+      {
+        "grade": 5.7,
+        "similarity": 0.7098873853683472
+      },
+      {
+        "grade": 6.0,
+        "similarity": 0.6621836423873901
+      },
+      {
+        "grade": 10.0,
+        "similarity": 0.61781907081604
+      },
+      {
+        "grade": 10.0,
+        "similarity": 0.6081523895263672
+      },
+      {
+        "grade": 10.0,
+        "similarity": 0.5959637761116028
+      },
+      {
+        "grade": 10.0,
+        "similarity": 0.5708070397377014
+      },
+      {
+        "grade": 10.0,
+        "similarity": 0.5271744728088379
+      },
+      {
+        "grade": 10.0,
+        "similarity": 0.49665573239326477
+      },
+      {
+        "grade": 10.0,
+        "similarity": 0.4834284484386444
+      },
+      {
+        "grade": 10.0,
+        "similarity": 0.4717254638671875
+      },
+      {
+        "grade": 10.0,
+        "similarity": 0.44147390127182007
+      },
+      {
+        "grade": 10.0,
+        "similarity": 0.42276373505592346
+      },
+      {
+        "grade": 5.5,
+        "similarity": 0.050849370658397675
+      }
+    ],
+    "s1_cluster_size": 14,
+    "s1_avg_similarity": 0.5270135998725891,
+    "s1_flag": false
+  },
+  {
+    "id": 2,
+    "expected_grade": 3.0,
+    "topic": "time management",
+    "cluster": 22,
+    "cluster_similarity": 0.7964487075805664,
+    "cluster_confidence": "high",
+    "flag_low_confidence": false,
+    "keywords": "managing time, scheduling completion, time management, manage time, organise time",
+    "s1_neighbours": [
+      {
+        "grade": 10.0,
+        "similarity": 0.7687176465988159
+      },
+      {
+        "grade": 10.0,
+        "similarity": 0.7123461365699768
+      },
+      {
+        "grade": 10.0,
+        "similarity": 0.7002331018447876
+      },
+      {
+        "grade": 5.0,
+        "similarity": 0.6949899196624756
+      },
+      {
+        "grade": 10.0,
+        "similarity": 0.6854109764099121
+      },
+      {
+        "grade": 9.5,
+        "similarity": 0.6769484281539917
+      },
+      {
+        "grade": 10.0,
+        "similarity": 0.6625153422355652
+      },
+      {
+        "grade": 10.0,
+        "similarity": 0.635886549949646
+      },
+      {
+        "grade": 10.0,
+        "similarity": 0.6334311366081238
+      },
+      {
+        "grade": 10.0,
+        "similarity": 0.6212570667266846
+      },
+      {
+        "grade": 10.0,
+        "similarity": 0.612186849117279
+      },
+      {
+        "grade": 10.0,
+        "similarity": 0.6113382577896118
+      },
+      {
+        "grade": 10.0,
+        "similarity": 0.6110846400260925
+      },
+      {
+        "grade": 5.7,
+        "similarity": 0.5966059565544128
+      },
+      {
+        "grade": 7.0,
+        "similarity": 0.5954083204269409
+      },
+      {
+        "grade": 10.0,
+        "similarity": 0.5595932006835938
+      },
+      {
+        "grade": 10.0,
+        "similarity": 0.5528622269630432
+      },
+      {
+        "grade": 10.0,
+        "similarity": 0.5502741932868958
+      },
+      {
+        "grade": 8.67,
+        "similarity": 0.5388566255569458
+      },
+      {
+        "grade": 8.33,
+        "similarity": 0.5348992347717285
+      }
+    ],
+    "s1_cluster_size": 132,
+    "s1_avg_similarity": 0.6277422904968262,
+    "s1_flag": false
+  },
+  {
+    "id": 3,
+    "expected_grade": 4.0,
+    "topic": "communication",
+    "cluster": 0,
+    "cluster_similarity": 0.7747294902801514,
+    "cluster_confidence": "high",
+    "flag_low_confidence": false,
+    "keywords": "visualise idea, rgm brainstorm, brainstorm conceptual, idea design, idea presentation",
+    "s1_neighbours": [
+      {
+        "grade": 10.0,
+        "similarity": 0.7333190441131592
+      },
+      {
+        "grade": 10.0,
+        "similarity": 0.7288609743118286
+      },
+      {
+        "grade": 10.0,
+        "similarity": 0.6798895001411438
+      },
+      {
+        "grade": 9.33,
+        "similarity": 0.6642498970031738
+      },
+      {
+        "grade": 10.0,
+        "similarity": 0.6616274118423462
+      },
+      {
+        "grade": 9.33,
+        "similarity": 0.6370023488998413
+      },
+      {
+        "grade": 9.17,
+        "similarity": 0.6073452234268188
+      },
+      {
+        "grade": 7.33,
+        "similarity": 0.5946272015571594
+      },
+      {
+        "grade": 10.0,
+        "similarity": 0.5875707268714905
+      },
+      {
+        "grade": 10.0,
+        "similarity": 0.5820890665054321
+      },
+      {
+        "grade": 10.0,
+        "similarity": 0.5523383617401123
+      },
+      {
+        "grade": 10.0,
+        "similarity": 0.5319749116897583
+      },
+      {
+        "grade": 10.0,
+        "similarity": 0.5295307040214539
+      },
+      {
+        "grade": 10.0,
+        "similarity": 0.5211827754974365
+      },
+      {
+        "grade": 10.0,
+        "similarity": 0.5210676193237305
+      },
+      {
+        "grade": 10.0,
+        "similarity": 0.5103158354759216
+      },
+      {
+        "grade": 10.0,
+        "similarity": 0.5101085901260376
+      },
+      {
+        "grade": 10.0,
+        "similarity": 0.5088027119636536
+      },
+      {
+        "grade": 6.5,
+        "similarity": 0.5042538642883301
+      },
+      {
+        "grade": 10.0,
+        "similarity": 0.500197172164917
+      }
+    ],
+    "s1_cluster_size": 121,
+    "s1_avg_similarity": 0.5833176970481873,
+    "s1_flag": false
+  },
+  {
+    "id": 4,
+    "expected_grade": 5.0,
+    "topic": "problem solving",
+    "cluster": 5,
+    "cluster_similarity": 0.5547631978988647,
+    "cluster_confidence": "high",
+    "flag_low_confidence": false,
+    "keywords": "detect error, error handling, error hurdle, error find_round_winner, error approach",
+    "s1_neighbours": [
+      {
+        "grade": 10.0,
+        "similarity": 0.6540430784225464
+      },
+      {
+        "grade": 10.0,
+        "similarity": 0.6207038164138794
+      },
+      {
+        "grade": 10.0,
+        "similarity": 0.522597074508667
+      },
+      {
+        "grade": 10.0,
+        "similarity": 0.5111287832260132
+      },
+      {
+        "grade": 10.0,
+        "similarity": 0.46787065267562866
+      },
+      {
+        "grade": 10.0,
+        "similarity": 0.4230200946331024
+      },
+      {
+        "grade": 10.0,
+        "similarity": 0.42030131816864014
+      },
+      {
+        "grade": 10.0,
+        "similarity": 0.4180479347705841
+      },
+      {
+        "grade": 10.0,
+        "similarity": 0.41666021943092346
+      },
+      {
+        "grade": 10.0,
+        "similarity": 0.4110618531703949
+      },
+      {
+        "grade": 10.0,
+        "similarity": 0.40986984968185425
+      },
+      {
+        "grade": 10.0,
+        "similarity": 0.40195387601852417
+      },
+      {
+        "grade": 10.0,
+        "similarity": 0.3975553810596466
+      },
+      {
+        "grade": 10.0,
+        "similarity": 0.3824130892753601
+      },
+      {
+        "grade": 10.0,
+        "similarity": 0.3813277781009674
+      },
+      {
+        "grade": 10.0,
+        "similarity": 0.3809443414211273
+      },
+      {
+        "grade": 10.0,
+        "similarity": 0.3682909607887268
+      },
+      {
+        "grade": 10.0,
+        "similarity": 0.36366891860961914
+      },
+      {
+        "grade": 10.0,
+        "similarity": 0.3549768626689911
+      },
+      {
+        "grade": 8.0,
+        "similarity": 0.35440683364868164
+      }
+    ],
+    "s1_cluster_size": 81,
+    "s1_avg_similarity": 0.43304213881492615,
+    "s1_flag": false
+  },
+  {
+    "id": 5,
+    "expected_grade": 5.5,
+    "topic": "technical drawing",
+    "cluster": 12,
+    "cluster_similarity": 0.7370168566703796,
+    "cluster_confidence": "high",
+    "flag_low_confidence": false,
+    "keywords": "drawing experience, draw technical, drawing technical, drawing proficiency, drawing learn",
+    "s1_neighbours": [
+      {
+        "grade": 10.0,
+        "similarity": 0.5831013917922974
+      },
+      {
+        "grade": 10.0,
+        "similarity": 0.49628138542175293
+      },
+      {
+        "grade": 10.0,
+        "similarity": 0.4476972818374634
+      },
+      {
+        "grade": 10.0,
+        "similarity": 0.44010183215141296
+      },
+      {
+        "grade": 10.0,
+        "similarity": 0.4388745427131653
+      },
+      {
+        "grade": 10.0,
+        "similarity": 0.4200603663921356
+      },
+      {
+        "grade": 10.0,
+        "similarity": 0.41468071937561035
+      },
+      {
+        "grade": 10.0,
+        "similarity": 0.4027177095413208
+      },
+      {
+        "grade": 10.0,
+        "similarity": 0.37951773405075073
+      },
+      {
+        "grade": 10.0,
+        "similarity": 0.3788585960865021
+      },
+      {
+        "grade": 10.0,
+        "similarity": 0.3755386471748352
+      },
+      {
+        "grade": 10.0,
+        "similarity": 0.36184632778167725
+      },
+      {
+        "grade": 10.0,
+        "similarity": 0.3530954122543335
+      },
+      {
+        "grade": 10.0,
+        "similarity": 0.34752392768859863
+      },
+      {
+        "grade": 10.0,
+        "similarity": 0.32619088888168335
+      },
+      {
+        "grade": 10.0,
+        "similarity": 0.32562199234962463
+      },
+      {
+        "grade": 10.0,
+        "similarity": 0.3226969838142395
+      },
+      {
+        "grade": 10.0,
+        "similarity": 0.28544384241104126
+      },
+      {
+        "grade": 10.0,
+        "similarity": 0.28153154253959656
+      },
+      {
+        "grade": 10.0,
+        "similarity": 0.2550543546676636
+      }
+    ],
+    "s1_cluster_size": 26,
+    "s1_avg_similarity": 0.38182178139686584,
+    "s1_flag": false
+  },
+  {
+    "id": 6,
+    "expected_grade": 6.0,
+    "topic": "adaptability",
+    "cluster": 29,
+    "cluster_similarity": 0.5670648813247681,
+    "cluster_confidence": "high",
+    "flag_low_confidence": false,
+    "keywords": "fail swing, problem swing, swing push, object swing, swing wall",
+    "s1_neighbours": [
+      {
+        "grade": 8.67,
+        "similarity": 0.45175281167030334
+      },
+      {
+        "grade": 9.73,
+        "similarity": 0.443969190120697
+      },
+      {
+        "grade": 10.0,
+        "similarity": 0.4428510069847107
+      },
+      {
+        "grade": 8.0,
+        "similarity": 0.43559232354164124
+      },
+      {
+        "grade": 9.67,
+        "similarity": 0.4304601550102234
+      },
+      {
+        "grade": 10.0,
+        "similarity": 0.4295292794704437
+      },
+      {
+        "grade": 6.5,
+        "similarity": 0.4261266589164734
+      },
+      {
+        "grade": 10.0,
+        "similarity": 0.4242369532585144
+      },
+      {
+        "grade": 8.17,
+        "similarity": 0.4225250780582428
+      },
+      {
+        "grade": 6.9,
+        "similarity": 0.4105724096298218
+      },
+      {
+        "grade": 9.33,
+        "similarity": 0.3923403024673462
+      },
+      {
+        "grade": 9.67,
+        "similarity": 0.3869377672672272
+      },
+      {
+        "grade": 0.0,
+        "similarity": 0.3835451006889343
+      },
+      {
+        "grade": 9.33,
+        "similarity": 0.3771021366119385
+      },
+      {
+        "grade": 10.0,
+        "similarity": 0.3748554289340973
+      },
+      {
+        "grade": 5.7,
+        "similarity": 0.37317392230033875
+      },
+      {
+        "grade": 9.5,
+        "similarity": 0.3665483295917511
+      },
+      {
+        "grade": 5.7,
+        "similarity": 0.36039063334465027
+      },
+      {
+        "grade": 8.67,
+        "similarity": 0.3458547294139862
+      },
+      {
+        "grade": 8.0,
+        "similarity": 0.3317624628543854
+      }
+    ],
+    "s1_cluster_size": 22,
+    "s1_avg_similarity": 0.4005063474178314,
+    "s1_flag": false
+  },
+  {
+    "id": 7,
+    "expected_grade": 6.3,
+    "topic": "professional behaviour",
+    "cluster": 0,
+    "cluster_similarity": 0.6450854539871216,
+    "cluster_confidence": "high",
+    "flag_low_confidence": false,
+    "keywords": "visualise idea, rgm brainstorm, brainstorm conceptual, idea design, idea presentation",
+    "s1_neighbours": [
+      {
+        "grade": 10.0,
+        "similarity": 0.5930871367454529
+      },
+      {
+        "grade": 10.0,
+        "similarity": 0.5880011320114136
+      },
+      {
+        "grade": 10.0,
+        "similarity": 0.570789098739624
+      },
+      {
+        "grade": 10.0,
+        "similarity": 0.5613685846328735
+      },
+      {
+        "grade": 10.0,
+        "similarity": 0.5498301982879639
+      },
+      {
+        "grade": 7.33,
+        "similarity": 0.548748254776001
+      },
+      {
+        "grade": 10.0,
+        "similarity": 0.5462651252746582
+      },
+      {
+        "grade": 10.0,
+        "similarity": 0.5399490594863892
+      },
+      {
+        "grade": 10.0,
+        "similarity": 0.533623456954956
+      },
+      {
+        "grade": 8.67,
+        "similarity": 0.5296602249145508
+      },
+      {
+        "grade": 10.0,
+        "similarity": 0.5181179046630859
+      },
+      {
+        "grade": 10.0,
+        "similarity": 0.5161452889442444
+      },
+      {
+        "grade": 5.5,
+        "similarity": 0.514073371887207
+      },
+      {
+        "grade": 10.0,
+        "similarity": 0.5097819566726685
+      },
+      {
+        "grade": 9.33,
+        "similarity": 0.5089632272720337
+      },
+      {
+        "grade": 8.33,
+        "similarity": 0.5085651874542236
+      },
+      {
+        "grade": 9.17,
+        "similarity": 0.5074669122695923
+      },
+      {
+        "grade": 10.0,
+        "similarity": 0.4979690909385681
+      },
+      {
+        "grade": 9.33,
+        "similarity": 0.4969460368156433
+      },
+      {
+        "grade": 10.0,
+        "similarity": 0.48485881090164185
+      }
+    ],
+    "s1_cluster_size": 121,
+    "s1_avg_similarity": 0.5312104821205139,
+    "s1_flag": false
+  },
+  {
+    "id": 8,
+    "expected_grade": 6.5,
+    "topic": "design process",
+    "cluster": 31,
+    "cluster_similarity": 0.7732319235801697,
+    "cluster_confidence": "high",
+    "flag_low_confidence": false,
+    "keywords": "build domino, domino chain, make domino, reduce domino, chain time",
+    "s1_neighbours": [
+      {
+        "grade": 9.0,
+        "similarity": 0.6386701464653015
+      },
+      {
+        "grade": 10.0,
+        "similarity": 0.624208390712738
+      },
+      {
+        "grade": 10.0,
+        "similarity": 0.5667060613632202
+      },
+      {
+        "grade": 8.83,
+        "similarity": 0.5530471801757812
+      },
+      {
+        "grade": 9.33,
+        "similarity": 0.5338369011878967
+      },
+      {
+        "grade": 10.0,
+        "similarity": 0.5280957221984863
+      },
+      {
+        "grade": 9.0,
+        "similarity": 0.5034118890762329
+      },
+      {
+        "grade": 9.5,
+        "similarity": 0.37560564279556274
+      },
+      {
+        "grade": 9.0,
+        "similarity": 0.371285080909729
+      },
+      {
+        "grade": 10.0,
+        "similarity": 0.3580935299396515
+      },
+      {
+        "grade": 6.67,
+        "similarity": 0.3316214084625244
+      },
+      {
+        "grade": 8.67,
+        "similarity": 0.31484144926071167
+      }
+    ],
+    "s1_cluster_size": 12,
+    "s1_avg_similarity": 0.4749518930912018,
+    "s1_flag": false
+  },
+  {
+    "id": 9,
+    "expected_grade": 6.8,
+    "topic": "conflict resolution",
+    "cluster": 38,
+    "cluster_similarity": 0.8036686182022095,
+    "cluster_confidence": "high",
+    "flag_low_confidence": false,
+    "keywords": "discussion moderator, discussion prepare, discussion learn, discussion ensure, facilitate discussion",
+    "s1_neighbours": [
+      {
+        "grade": 5.0,
+        "similarity": 0.7539657354354858
+      },
+      {
+        "grade": 9.2,
+        "similarity": 0.7403237819671631
+      },
+      {
+        "grade": 5.7,
+        "similarity": 0.6822679042816162
+      },
+      {
+        "grade": 7.3,
+        "similarity": 0.6803547143936157
+      },
+      {
+        "grade": 6.5,
+        "similarity": 0.6547969579696655
+      },
+      {
+        "grade": 6.3,
+        "similarity": 0.6077936887741089
+      },
+      {
+        "grade": 5.7,
+        "similarity": 0.5584574937820435
+      },
+      {
+        "grade": 7.0,
+        "similarity": 0.5373263955116272
+      },
+      {
+        "grade": 7.3,
+        "similarity": 0.5366727113723755
+      },
+      {
+        "grade": 7.0,
+        "similarity": 0.5164749622344971
+      },
+      {
+        "grade": 7.5,
+        "similarity": 0.5058771371841431
+      },
+      {
+        "grade": 10.0,
+        "similarity": 0.4884410500526428
+      },
+      {
+        "grade": 7.9,
+        "similarity": 0.4833219051361084
+      },
+      {
+        "grade": 10.0,
+        "similarity": 0.4789280891418457
+      },
+      {
+        "grade": 10.0,
+        "similarity": 0.46164190769195557
+      },
+      {
+        "grade": 10.0,
+        "similarity": 0.4506112039089203
+      },
+      {
+        "grade": 7.3,
+        "similarity": 0.4483047127723694
+      },
+      {
+        "grade": 6.9,
+        "similarity": 0.44312694668769836
+      },
+      {
+        "grade": 5.0,
+        "similarity": 0.4166843295097351
+      },
+      {
+        "grade": 8.67,
+        "similarity": 0.39372509717941284
+      }
+    ],
+    "s1_cluster_size": 27,
+    "s1_avg_similarity": 0.5419548749923706,
+    "s1_flag": false
+  },
+  {
+    "id": 10,
+    "expected_grade": 7.0,
+    "topic": "leadership",
+    "cluster": 40,
+    "cluster_similarity": 0.8513153195381165,
+    "cluster_confidence": "high",
+    "flag_low_confidence": false,
+    "keywords": "teamwork communication, communication teamwork, communicate team, team communicate, team communication",
+    "s1_neighbours": [
+      {
+        "grade": 5.5,
+        "similarity": 0.7432397603988647
+      },
+      {
+        "grade": 10.0,
+        "similarity": 0.7139531373977661
+      },
+      {
+        "grade": 7.3,
+        "similarity": 0.6986147165298462
+      },
+      {
+        "grade": 10.0,
+        "similarity": 0.6901222467422485
+      },
+      {
+        "grade": 8.67,
+        "similarity": 0.6728469133377075
+      },
+      {
+        "grade": 6.3,
+        "similarity": 0.6685279011726379
+      },
+      {
+        "grade": 7.9,
+        "similarity": 0.6481853127479553
+      },
+      {
+        "grade": 10.0,
+        "similarity": 0.6350807547569275
+      },
+      {
+        "grade": 10.0,
+        "similarity": 0.6174341440200806
+      },
+      {
+        "grade": 10.0,
+        "similarity": 0.5731779336929321
+      },
+      {
+        "grade": 6.3,
+        "similarity": 0.5716762542724609
+      },
+      {
+        "grade": 6.9,
+        "similarity": 0.5419225692749023
+      },
+      {
+        "grade": 5.5,
+        "similarity": 0.5378024578094482
+      },
+      {
+        "grade": 5.0,
+        "similarity": 0.5186026096343994
+      },
+      {
+        "grade": 10.0,
+        "similarity": 0.4786684215068817
+      },
+      {
+        "grade": 6.5,
+        "similarity": 0.45396482944488525
+      },
+      {
+        "grade": 10.0,
+        "similarity": 0.4508119225502014
+      },
+      {
+        "grade": 10.0,
+        "similarity": 0.4469835162162781
+      },
+      {
+        "grade": 5.7,
+        "similarity": 0.39866724610328674
+      },
+      {
+        "grade": 10.0,
+        "similarity": 0.37677377462387085
+      }
+    ],
+    "s1_cluster_size": 22,
+    "s1_avg_similarity": 0.5718528032302856,
+    "s1_flag": false
+  },
+  {
+    "id": 11,
+    "expected_grade": 7.2,
+    "topic": "ethics",
+    "cluster": 29,
+    "cluster_similarity": 0.5562513470649719,
+    "cluster_confidence": "high",
+    "flag_low_confidence": false,
+    "keywords": "fail swing, problem swing, swing push, object swing, swing wall",
+    "s1_neighbours": [
+      {
+        "grade": 8.67,
+        "similarity": 0.4086134433746338
+      },
+      {
+        "grade": 8.0,
+        "similarity": 0.39734935760498047
+      },
+      {
+        "grade": 10.0,
+        "similarity": 0.31565144658088684
+      },
+      {
+        "grade": 8.67,
+        "similarity": 0.313804566860199
+      },
+      {
+        "grade": 8.0,
+        "similarity": 0.3115549683570862
+      },
+      {
+        "grade": 8.17,
+        "similarity": 0.3055877685546875
+      },
+      {
+        "grade": 9.67,
+        "similarity": 0.298555850982666
+      },
+      {
+        "grade": 5.7,
+        "similarity": 0.294881135225296
+      },
+      {
+        "grade": 10.0,
+        "similarity": 0.29311099648475647
+      },
+      {
+        "grade": 9.33,
+        "similarity": 0.2864205241203308
+      },
+      {
+        "grade": 9.5,
+        "similarity": 0.26163023710250854
+      },
+      {
+        "grade": 9.67,
+        "similarity": 0.2581928074359894
+      },
+      {
+        "grade": 6.5,
+        "similarity": 0.2263958752155304
+      },
+      {
+        "grade": 0.0,
+        "similarity": 0.22634798288345337
+      },
+      {
+        "grade": 5.7,
+        "similarity": 0.21791855990886688
+      },
+      {
+        "grade": 9.33,
+        "similarity": 0.21303445100784302
+      },
+      {
+        "grade": 7.0,
+        "similarity": 0.2111351639032364
+      },
+      {
+        "grade": 10.0,
+        "similarity": 0.20977413654327393
+      },
+      {
+        "grade": 6.9,
+        "similarity": 0.20765343308448792
+      },
+      {
+        "grade": 10.0,
+        "similarity": 0.19622066617012024
+      }
+    ],
+    "s1_cluster_size": 22,
+    "s1_avg_similarity": 0.2726916968822479,
+    "s1_flag": false
+  },
+  {
+    "id": 12,
+    "expected_grade": 7.4,
+    "topic": "communication",
+    "cluster": 0,
+    "cluster_similarity": 0.6594452857971191,
+    "cluster_confidence": "high",
+    "flag_low_confidence": false,
+    "keywords": "visualise idea, rgm brainstorm, brainstorm conceptual, idea design, idea presentation",
+    "s1_neighbours": [
+      {
+        "grade": 10.0,
+        "similarity": 0.6328232884407043
+      },
+      {
+        "grade": 10.0,
+        "similarity": 0.617836058139801
+      },
+      {
+        "grade": 9.33,
+        "similarity": 0.5996146202087402
+      },
+      {
+        "grade": 10.0,
+        "similarity": 0.5766056776046753
+      },
+      {
+        "grade": 9.17,
+        "similarity": 0.5725027322769165
+      },
+      {
+        "grade": 10.0,
+        "similarity": 0.5644217729568481
+      },
+      {
+        "grade": 9.33,
+        "similarity": 0.5601397156715393
+      },
+      {
+        "grade": 6.0,
+        "similarity": 0.5515394806861877
+      },
+      {
+        "grade": 10.0,
+        "similarity": 0.543452262878418
+      },
+      {
+        "grade": 10.0,
+        "similarity": 0.5362231135368347
+      },
+      {
+        "grade": 10.0,
+        "similarity": 0.5337104201316833
+      },
+      {
+        "grade": 7.33,
+        "similarity": 0.5327723026275635
+      },
+      {
+        "grade": 10.0,
+        "similarity": 0.5304252505302429
+      },
+      {
+        "grade": 5.0,
+        "similarity": 0.5190750360488892
+      },
+      {
+        "grade": 10.0,
+        "similarity": 0.5190402865409851
+      },
+      {
+        "grade": 8.67,
+        "similarity": 0.5165594816207886
+      },
+      {
+        "grade": 10.0,
+        "similarity": 0.5142756700515747
+      },
+      {
+        "grade": 10.0,
+        "similarity": 0.5138619542121887
+      },
+      {
+        "grade": 10.0,
+        "similarity": 0.5097654461860657
+      },
+      {
+        "grade": 10.0,
+        "similarity": 0.5090905427932739
+      }
+    ],
+    "s1_cluster_size": 121,
+    "s1_avg_similarity": 0.547686755657196,
+    "s1_flag": false
+  },
+  {
+    "id": 13,
+    "expected_grade": 7.5,
+    "topic": "teamwork",
+    "cluster": 34,
+    "cluster_similarity": 0.7744768857955933,
+    "cluster_confidence": "high",
+    "flag_low_confidence": false,
+    "keywords": "teamwork present, group work, team work, split work, group task",
+    "s1_neighbours": [
+      {
+        "grade": 8.67,
+        "similarity": 0.6187678575515747
+      },
+      {
+        "grade": 10.0,
+        "similarity": 0.5306815505027771
+      },
+      {
+        "grade": 10.0,
+        "similarity": 0.483955979347229
+      },
+      {
+        "grade": 9.67,
+        "similarity": 0.44891422986984253
+      },
+      {
+        "grade": 10.0,
+        "similarity": 0.438373327255249
+      },
+      {
+        "grade": 7.67,
+        "similarity": 0.42461228370666504
+      },
+      {
+        "grade": 10.0,
+        "similarity": 0.41563066840171814
+      },
+      {
+        "grade": 8.33,
+        "similarity": 0.41209936141967773
+      },
+      {
+        "grade": 5.0,
+        "similarity": 0.37985002994537354
+      },
+      {
+        "grade": 9.17,
+        "similarity": 0.32142505049705505
+      }
+    ],
+    "s1_cluster_size": 10,
+    "s1_avg_similarity": 0.4474309980869293,
+    "s1_flag": false
+  },
+  {
+    "id": 14,
+    "expected_grade": 7.8,
+    "topic": "problem solving",
+    "cluster": 29,
+    "cluster_similarity": 0.5759435892105103,
+    "cluster_confidence": "high",
+    "flag_low_confidence": false,
+    "keywords": "fail swing, problem swing, swing push, object swing, swing wall",
+    "s1_neighbours": [
+      {
+        "grade": 8.67,
+        "similarity": 0.44742196798324585
+      },
+      {
+        "grade": 8.0,
+        "similarity": 0.40716785192489624
+      },
+      {
+        "grade": 9.67,
+        "similarity": 0.29951339960098267
+      },
+      {
+        "grade": 9.33,
+        "similarity": 0.2676815390586853
+      },
+      {
+        "grade": 10.0,
+        "similarity": 0.26448336243629456
+      },
+      {
+        "grade": 5.7,
+        "similarity": 0.2615894377231598
+      },
+      {
+        "grade": 8.17,
+        "similarity": 0.2613213062286377
+      },
+      {
+        "grade": 8.0,
+        "similarity": 0.24488186836242676
+      },
+      {
+        "grade": 9.67,
+        "similarity": 0.23193123936653137
+      },
+      {
+        "grade": 8.5,
+        "similarity": 0.2219414860010147
+      },
+      {
+        "grade": 9.73,
+        "similarity": 0.2215629667043686
+      },
+      {
+        "grade": 6.5,
+        "similarity": 0.20118123292922974
+      },
+      {
+        "grade": 8.67,
+        "similarity": 0.20074662566184998
+      },
+      {
+        "grade": 10.0,
+        "similarity": 0.20032483339309692
+      },
+      {
+        "grade": 9.33,
+        "similarity": 0.19243785738945007
+      },
+      {
+        "grade": 10.0,
+        "similarity": 0.16554637253284454
+      },
+      {
+        "grade": 6.9,
+        "similarity": 0.15950049459934235
+      },
+      {
+        "grade": 9.5,
+        "similarity": 0.15860044956207275
+      },
+      {
+        "grade": 5.7,
+        "similarity": 0.14923381805419922
+      },
+      {
+        "grade": 7.0,
+        "similarity": 0.14034831523895264
+      }
+    ],
+    "s1_cluster_size": 22,
+    "s1_avg_similarity": 0.23487083613872528,
+    "s1_flag": false
+  },
+  {
+    "id": 15,
+    "expected_grade": 8.0,
+    "topic": "adaptability",
+    "cluster": 31,
+    "cluster_similarity": 0.7066250443458557,
+    "cluster_confidence": "high",
+    "flag_low_confidence": false,
+    "keywords": "build domino, domino chain, make domino, reduce domino, chain time",
+    "s1_neighbours": [
+      {
+        "grade": 9.0,
+        "similarity": 0.5535918474197388
+      },
+      {
+        "grade": 10.0,
+        "similarity": 0.5146830081939697
+      },
+      {
+        "grade": 9.33,
+        "similarity": 0.5012447237968445
+      },
+      {
+        "grade": 10.0,
+        "similarity": 0.5001412630081177
+      },
+      {
+        "grade": 10.0,
+        "similarity": 0.48451268672943115
+      },
+      {
+        "grade": 8.83,
+        "similarity": 0.4692842960357666
+      },
+      {
+        "grade": 9.0,
+        "similarity": 0.46706926822662354
+      },
+      {
+        "grade": 10.0,
+        "similarity": 0.3981754183769226
+      },
+      {
+        "grade": 9.0,
+        "similarity": 0.36449134349823
+      },
+      {
+        "grade": 9.5,
+        "similarity": 0.3290025591850281
+      },
+      {
+        "grade": 6.67,
+        "similarity": 0.3077198266983032
+      },
+      {
+        "grade": 8.67,
+        "similarity": 0.28353145718574524
+      }
+    ],
+    "s1_cluster_size": 12,
+    "s1_avg_similarity": 0.4311206340789795,
+    "s1_flag": false
+  },
+  {
+    "id": 16,
+    "expected_grade": 8.2,
+    "topic": "leadership",
+    "cluster": 39,
+    "cluster_similarity": 0.7896362543106079,
+    "cluster_confidence": "high",
+    "flag_low_confidence": false,
+    "keywords": "communication project, communication brainstorm, communicate team, communication collaboration, communication teamwork",
+    "s1_neighbours": [
+      {
+        "grade": 10.0,
+        "similarity": 0.7016938924789429
+      },
+      {
+        "grade": 8.0,
+        "similarity": 0.6948703527450562
+      },
+      {
+        "grade": 10.0,
+        "similarity": 0.5957648754119873
+      },
+      {
+        "grade": 10.0,
+        "similarity": 0.5906271934509277
+      },
+      {
+        "grade": 10.0,
+        "similarity": 0.5774453282356262
+      },
+      {
+        "grade": 10.0,
+        "similarity": 0.5628618001937866
+      },
+      {
+        "grade": 5.7,
+        "similarity": 0.5231913328170776
+      },
+      {
+        "grade": 5.5,
+        "similarity": 0.49622589349746704
+      },
+      {
+        "grade": 5.7,
+        "similarity": 0.4914979636669159
+      },
+      {
+        "grade": 10.0,
+        "similarity": 0.47348660230636597
+      },
+      {
+        "grade": 10.0,
+        "similarity": 0.47266221046447754
+      },
+      {
+        "grade": 10.0,
+        "similarity": 0.36369243264198303
+      },
+      {
+        "grade": 10.0,
+        "similarity": 0.3579334616661072
+      },
+      {
+        "grade": 9.67,
+        "similarity": 0.3471824526786804
+      },
+      {
+        "grade": 10.0,
+        "similarity": 0.3463633358478546
+      },
+      {
+        "grade": 10.0,
+        "similarity": 0.34483253955841064
+      },
+      {
+        "grade": 9.67,
+        "similarity": 0.3385985493659973
+      },
+      {
+        "grade": 5.5,
+        "similarity": 0.3086269795894623
+      },
+      {
+        "grade": 10.0,
+        "similarity": 0.29800915718078613
+      },
+      {
+        "grade": 10.0,
+        "similarity": 0.2938983738422394
+      }
+    ],
+    "s1_cluster_size": 22,
+    "s1_avg_similarity": 0.458973228931427,
+    "s1_flag": false
+  },
+  {
+    "id": 17,
+    "expected_grade": 8.4,
+    "topic": "professional behaviour",
+    "cluster": 40,
+    "cluster_similarity": 0.7133916616439819,
+    "cluster_confidence": "high",
+    "flag_low_confidence": false,
+    "keywords": "teamwork communication, communication teamwork, communicate team, team communicate, team communication",
+    "s1_neighbours": [
+      {
+        "grade": 5.5,
+        "similarity": 0.538192093372345
+      },
+      {
+        "grade": 5.0,
+        "similarity": 0.5127336978912354
+      },
+      {
+        "grade": 8.67,
+        "similarity": 0.5126579999923706
+      },
+      {
+        "grade": 10.0,
+        "similarity": 0.4897705316543579
+      },
+      {
+        "grade": 10.0,
+        "similarity": 0.47088122367858887
+      },
+      {
+        "grade": 10.0,
+        "similarity": 0.4708098769187927
+      },
+      {
+        "grade": 5.7,
+        "similarity": 0.46699559688568115
+      },
+      {
+        "grade": 7.9,
+        "similarity": 0.45531103014945984
+      },
+      {
+        "grade": 6.3,
+        "similarity": 0.4487118422985077
+      },
+      {
+        "grade": 10.0,
+        "similarity": 0.43612515926361084
+      },
+      {
+        "grade": 10.0,
+        "similarity": 0.42592906951904297
+      },
+      {
+        "grade": 7.3,
+        "similarity": 0.4122332036495209
+      },
+      {
+        "grade": 6.3,
+        "similarity": 0.3932543396949768
+      },
+      {
+        "grade": 6.5,
+        "similarity": 0.37807342410087585
+      },
+      {
+        "grade": 5.5,
+        "similarity": 0.37448441982269287
+      },
+      {
+        "grade": 10.0,
+        "similarity": 0.3734147250652313
+      },
+      {
+        "grade": 6.9,
+        "similarity": 0.36429262161254883
+      },
+      {
+        "grade": 10.0,
+        "similarity": 0.3540276885032654
+      },
+      {
+        "grade": 10.0,
+        "similarity": 0.3528026044368744
+      },
+      {
+        "grade": 10.0,
+        "similarity": 0.3523251712322235
+      }
+    ],
+    "s1_cluster_size": 22,
+    "s1_avg_similarity": 0.42915135622024536,
+    "s1_flag": false
+  },
+  {
+    "id": 18,
+    "expected_grade": 8.5,
+    "topic": "design process",
+    "cluster": 31,
+    "cluster_similarity": 0.6148485541343689,
+    "cluster_confidence": "high",
+    "flag_low_confidence": false,
+    "keywords": "build domino, domino chain, make domino, reduce domino, chain time",
+    "s1_neighbours": [
+      {
+        "grade": 8.83,
+        "similarity": 0.42595189809799194
+      },
+      {
+        "grade": 9.0,
+        "similarity": 0.4210315942764282
+      },
+      {
+        "grade": 10.0,
+        "similarity": 0.4132120609283447
+      },
+      {
+        "grade": 10.0,
+        "similarity": 0.4101994037628174
+      },
+      {
+        "grade": 9.0,
+        "similarity": 0.3917318880558014
+      },
+      {
+        "grade": 10.0,
+        "similarity": 0.38779956102371216
+      },
+      {
+        "grade": 6.67,
+        "similarity": 0.3418731391429901
+      },
+      {
+        "grade": 9.33,
+        "similarity": 0.3306981921195984
+      },
+      {
+        "grade": 9.5,
+        "similarity": 0.32865169644355774
+      },
+      {
+        "grade": 9.0,
+        "similarity": 0.326401025056839
+      },
+      {
+        "grade": 8.67,
+        "similarity": 0.2835988998413086
+      },
+      {
+        "grade": 10.0,
+        "similarity": 0.26797476410865784
+      }
+    ],
+    "s1_cluster_size": 12,
+    "s1_avg_similarity": 0.36076033115386963,
+    "s1_flag": false
+  },
+  {
+    "id": 19,
+    "expected_grade": 9.0,
+    "topic": "ethics",
+    "cluster": 10,
+    "cluster_similarity": 0.5872624516487122,
+    "cluster_confidence": "high",
+    "flag_low_confidence": false,
+    "keywords": "problem engineer, engineering practice, engineering management, practice engineering, engineering team",
+    "s1_neighbours": [
+      {
+        "grade": 6.5,
+        "similarity": 0.4758654832839966
+      },
+      {
+        "grade": 10.0,
+        "similarity": 0.41877225041389465
+      },
+      {
+        "grade": 5.7,
+        "similarity": 0.3982595205307007
+      },
+      {
+        "grade": 6.5,
+        "similarity": 0.36756381392478943
+      },
+      {
+        "grade": 8.0,
+        "similarity": 0.36713945865631104
+      },
+      {
+        "grade": 9.33,
+        "similarity": 0.3430324196815491
+      },
+      {
+        "grade": 10.0,
+        "similarity": 0.3302461504936218
+      },
+      {
+        "grade": 5.7,
+        "similarity": 0.32826268672943115
+      },
+      {
+        "grade": 8.0,
+        "similarity": 0.3054552376270294
+      },
+      {
+        "grade": 10.0,
+        "similarity": 0.305256724357605
+      },
+      {
+        "grade": 5.7,
+        "similarity": 0.2815389037132263
+      },
+      {
+        "grade": 10.0,
+        "similarity": 0.26483073830604553
+      },
+      {
+        "grade": 5.7,
+        "similarity": 0.23665088415145874
+      },
+      {
+        "grade": 10.0,
+        "similarity": 0.23578155040740967
+      },
+      {
+        "grade": 3.33,
+        "similarity": 0.23563526570796967
+      },
+      {
+        "grade": 10.0,
+        "similarity": 0.2114938497543335
+      },
+      {
+        "grade": 9.0,
+        "similarity": 0.19421231746673584
+      },
+      {
+        "grade": 10.0,
+        "similarity": 0.13422881066799164
+      }
+    ],
+    "s1_cluster_size": 18,
+    "s1_avg_similarity": 0.3019014596939087,
+    "s1_flag": false
+  },
+  {
+    "id": 20,
+    "expected_grade": 9.5,
+    "topic": "conflict resolution",
+    "cluster": 38,
+    "cluster_similarity": 0.7858523726463318,
+    "cluster_confidence": "high",
+    "flag_low_confidence": false,
+    "keywords": "discussion moderator, discussion prepare, discussion learn, discussion ensure, facilitate discussion",
+    "s1_neighbours": [
+      {
+        "grade": 5.0,
+        "similarity": 0.6300617456436157
+      },
+      {
+        "grade": 5.7,
+        "similarity": 0.6245080232620239
+      },
+      {
+        "grade": 9.2,
+        "similarity": 0.6095721125602722
+      },
+      {
+        "grade": 7.3,
+        "similarity": 0.6012171506881714
+      },
+      {
+        "grade": 6.5,
+        "similarity": 0.5756803750991821
+      },
+      {
+        "grade": 5.7,
+        "similarity": 0.5450080633163452
+      },
+      {
+        "grade": 7.3,
+        "similarity": 0.523489236831665
+      },
+      {
+        "grade": 7.0,
+        "similarity": 0.49951523542404175
+      },
+      {
+        "grade": 6.9,
+        "similarity": 0.4946862757205963
+      },
+      {
+        "grade": 10.0,
+        "similarity": 0.4648621678352356
+      },
+      {
+        "grade": 6.3,
+        "similarity": 0.45497873425483704
+      },
+      {
+        "grade": 10.0,
+        "similarity": 0.4520152509212494
+      },
+      {
+        "grade": 7.5,
+        "similarity": 0.443916916847229
+      },
+      {
+        "grade": 7.0,
+        "similarity": 0.4414723515510559
+      },
+      {
+        "grade": 7.3,
+        "similarity": 0.4279237985610962
+      },
+      {
+        "grade": 10.0,
+        "similarity": 0.39725738763809204
+      },
+      {
+        "grade": 8.67,
+        "similarity": 0.3934513330459595
+      },
+      {
+        "grade": 7.3,
+        "similarity": 0.39192888140678406
+      },
+      {
+        "grade": 7.9,
+        "similarity": 0.3919256925582886
+      },
+      {
+        "grade": 10.0,
+        "similarity": 0.3918718695640564
+      }
+    ],
+    "s1_cluster_size": 27,
+    "s1_avg_similarity": 0.48776713013648987,
+    "s1_flag": false
+  },
+  {
+    "id": 21,
+    "expected_grade": 9.8,
+    "topic": "communication",
+    "cluster": 0,
+    "cluster_similarity": 0.690995454788208,
+    "cluster_confidence": "high",
+    "flag_low_confidence": false,
+    "keywords": "visualise idea, rgm brainstorm, brainstorm conceptual, idea design, idea presentation",
+    "s1_neighbours": [
+      {
+        "grade": 9.33,
+        "similarity": 0.6305904388427734
+      },
+      {
+        "grade": 10.0,
+        "similarity": 0.6252858638763428
+      },
+      {
+        "grade": 10.0,
+        "similarity": 0.6210095882415771
+      },
+      {
+        "grade": 9.17,
+        "similarity": 0.599012017250061
+      },
+      {
+        "grade": 10.0,
+        "similarity": 0.5923748016357422
+      },
+      {
+        "grade": 10.0,
+        "similarity": 0.5890712738037109
+      },
+      {
+        "grade": 10.0,
+        "similarity": 0.5867226123809814
+      },
+      {
+        "grade": 9.33,
+        "similarity": 0.5842775106430054
+      },
+      {
+        "grade": 10.0,
+        "similarity": 0.5809597373008728
+      },
+      {
+        "grade": 10.0,
+        "similarity": 0.5611688494682312
+      },
+      {
+        "grade": 6.0,
+        "similarity": 0.5492962598800659
+      },
+      {
+        "grade": 7.33,
+        "similarity": 0.5445272922515869
+      },
+      {
+        "grade": 9.33,
+        "similarity": 0.5435709357261658
+      },
+      {
+        "grade": 10.0,
+        "similarity": 0.5391067862510681
+      },
+      {
+        "grade": 10.0,
+        "similarity": 0.5352371335029602
+      },
+      {
+        "grade": 8.33,
+        "similarity": 0.533395528793335
+      },
+      {
+        "grade": 10.0,
+        "similarity": 0.5282747149467468
+      },
+      {
+        "grade": 10.0,
+        "similarity": 0.526508092880249
+      },
+      {
+        "grade": 10.0,
+        "similarity": 0.5264290571212769
+      },
+      {
+        "grade": 9.33,
+        "similarity": 0.509788453578949
+      }
+    ],
+    "s1_cluster_size": 121,
+    "s1_avg_similarity": 0.5653303861618042,
+    "s1_flag": false
+  },
+  {
+    "id": 22,
+    "expected_grade": 10.0,
+    "topic": "leadership",
+    "cluster": 38,
+    "cluster_similarity": 0.7903764247894287,
+    "cluster_confidence": "high",
+    "flag_low_confidence": false,
+    "keywords": "discussion moderator, discussion prepare, discussion learn, discussion ensure, facilitate discussion",
+    "s1_neighbours": [
+      {
+        "grade": 5.0,
+        "similarity": 0.7688854932785034
+      },
+      {
+        "grade": 5.7,
+        "similarity": 0.6818790435791016
+      },
+      {
+        "grade": 6.5,
+        "similarity": 0.6528850793838501
+      },
+      {
+        "grade": 7.3,
+        "similarity": 0.6499496698379517
+      },
+      {
+        "grade": 7.3,
+        "similarity": 0.6031138300895691
+      },
+      {
+        "grade": 9.2,
+        "similarity": 0.5863648653030396
+      },
+      {
+        "grade": 7.0,
+        "similarity": 0.5717328786849976
+      },
+      {
+        "grade": 5.7,
+        "similarity": 0.5592119693756104
+      },
+      {
+        "grade": 7.0,
+        "similarity": 0.518457293510437
+      },
+      {
+        "grade": 7.5,
+        "similarity": 0.5015318393707275
+      },
+      {
+        "grade": 6.3,
+        "similarity": 0.49700525403022766
+      },
+      {
+        "grade": 8.67,
+        "similarity": 0.4874783754348755
+      },
+      {
+        "grade": 6.9,
+        "similarity": 0.46613508462905884
+      },
+      {
+        "grade": 7.9,
+        "similarity": 0.4643344283103943
+      },
+      {
+        "grade": 7.3,
+        "similarity": 0.4558781087398529
+      },
+      {
+        "grade": 7.3,
+        "similarity": 0.41303932666778564
+      },
+      {
+        "grade": 5.7,
+        "similarity": 0.4077898859977722
+      },
+      {
+        "grade": 6.3,
+        "similarity": 0.39443373680114746
+      },
+      {
+        "grade": 10.0,
+        "similarity": 0.38526999950408936
+      },
+      {
+        "grade": 10.0,
+        "similarity": 0.3816685676574707
+      }
+    ],
+    "s1_cluster_size": 27,
+    "s1_avg_similarity": 0.5223522186279297,
+    "s1_flag": false
+  },
+  {
+    "id": 23,
+    "expected_grade": 5.0,
+    "topic": "teamwork",
+    "cluster": 34,
+    "cluster_similarity": 0.8415390253067017,
+    "cluster_confidence": "high",
+    "flag_low_confidence": false,
+    "keywords": "teamwork present, group work, team work, split work, group task",
+    "s1_neighbours": [
+      {
+        "grade": 8.67,
+        "similarity": 0.6606575846672058
+      },
+      {
+        "grade": 10.0,
+        "similarity": 0.5469681620597839
+      },
+      {
+        "grade": 7.67,
+        "similarity": 0.5184531211853027
+      },
+      {
+        "grade": 8.33,
+        "similarity": 0.5158877372741699
+      },
+      {
+        "grade": 10.0,
+        "similarity": 0.513680100440979
+      },
+      {
+        "grade": 10.0,
+        "similarity": 0.5079171657562256
+      },
+      {
+        "grade": 9.67,
+        "similarity": 0.45500612258911133
+      },
+      {
+        "grade": 10.0,
+        "similarity": 0.40532225370407104
+      },
+      {
+        "grade": 5.0,
+        "similarity": 0.38303133845329285
+      },
+      {
+        "grade": 9.17,
+        "similarity": 0.25073909759521484
+      }
+    ],
+    "s1_cluster_size": 10,
+    "s1_avg_similarity": 0.47576627135276794,
+    "s1_flag": false
+  },
+  {
+    "id": 24,
+    "expected_grade": 6.8,
+    "topic": "technical drawing",
+    "cluster": 12,
+    "cluster_similarity": 0.7260801792144775,
+    "cluster_confidence": "high",
+    "flag_low_confidence": false,
+    "keywords": "drawing experience, draw technical, drawing technical, drawing proficiency, drawing learn",
+    "s1_neighbours": [
+      {
+        "grade": 10.0,
+        "similarity": 0.5399805307388306
+      },
+      {
+        "grade": 10.0,
+        "similarity": 0.4907301664352417
+      },
+      {
+        "grade": 10.0,
+        "similarity": 0.4602420926094055
+      },
+      {
+        "grade": 10.0,
+        "similarity": 0.44221311807632446
+      },
+      {
+        "grade": 10.0,
+        "similarity": 0.40545713901519775
+      },
+      {
+        "grade": 10.0,
+        "similarity": 0.40114277601242065
+      },
+      {
+        "grade": 10.0,
+        "similarity": 0.3987366259098053
+      },
+      {
+        "grade": 10.0,
+        "similarity": 0.3848274350166321
+      },
+      {
+        "grade": 10.0,
+        "similarity": 0.38427627086639404
+      },
+      {
+        "grade": 10.0,
+        "similarity": 0.370472252368927
+      },
+      {
+        "grade": 10.0,
+        "similarity": 0.37045595049858093
+      },
+      {
+        "grade": 10.0,
+        "similarity": 0.36344945430755615
+      },
+      {
+        "grade": 10.0,
+        "similarity": 0.35217130184173584
+      },
+      {
+        "grade": 10.0,
+        "similarity": 0.3389189839363098
+      },
+      {
+        "grade": 10.0,
+        "similarity": 0.3166491985321045
+      },
+      {
+        "grade": 10.0,
+        "similarity": 0.31440839171409607
+      },
+      {
+        "grade": 10.0,
+        "similarity": 0.30781808495521545
+      },
+      {
+        "grade": 10.0,
+        "similarity": 0.30482348799705505
+      },
+      {
+        "grade": 10.0,
+        "similarity": 0.2946307063102722
+      },
+      {
+        "grade": 10.0,
+        "similarity": 0.26864320039749146
+      }
+    ],
+    "s1_cluster_size": 26,
+    "s1_avg_similarity": 0.375502347946167,
+    "s1_flag": false
+  },
+  {
+    "id": 25,
+    "expected_grade": 8.0,
+    "topic": "time management",
+    "cluster": 22,
+    "cluster_similarity": 0.8229548335075378,
+    "cluster_confidence": "high",
+    "flag_low_confidence": false,
+    "keywords": "managing time, scheduling completion, time management, manage time, organise time",
+    "s1_neighbours": [
+      {
+        "grade": 10.0,
+        "similarity": 0.7840275168418884
+      },
+      {
+        "grade": 10.0,
+        "similarity": 0.7807639241218567
+      },
+      {
+        "grade": 10.0,
+        "similarity": 0.7471746206283569
+      },
+      {
+        "grade": 10.0,
+        "similarity": 0.7454062104225159
+      },
+      {
+        "grade": 10.0,
+        "similarity": 0.7362699508666992
+      },
+      {
+        "grade": 9.5,
+        "similarity": 0.7261286973953247
+      },
+      {
+        "grade": 10.0,
+        "similarity": 0.6949771642684937
+      },
+      {
+        "grade": 10.0,
+        "similarity": 0.681360125541687
+      },
+      {
+        "grade": 5.7,
+        "similarity": 0.6808279752731323
+      },
+      {
+        "grade": 10.0,
+        "similarity": 0.6733816862106323
+      },
+      {
+        "grade": 10.0,
+        "similarity": 0.6609005331993103
+      },
+      {
+        "grade": 10.0,
+        "similarity": 0.6488364934921265
+      },
+      {
+        "grade": 10.0,
+        "similarity": 0.6429417133331299
+      },
+      {
+        "grade": 5.0,
+        "similarity": 0.6367754936218262
+      },
+      {
+        "grade": 7.0,
+        "similarity": 0.6131956577301025
+      },
+      {
+        "grade": 10.0,
+        "similarity": 0.6061633825302124
+      },
+      {
+        "grade": 10.0,
+        "similarity": 0.5902591943740845
+      },
+      {
+        "grade": 10.0,
+        "similarity": 0.5632210373878479
+      },
+      {
+        "grade": 10.0,
+        "similarity": 0.5555639266967773
+      },
+      {
+        "grade": 7.0,
+        "similarity": 0.5550469160079956
+      }
+    ],
+    "s1_cluster_size": 132,
+    "s1_avg_similarity": 0.6661611795425415,
+    "s1_flag": false
+  }
+]

@@ -1,0 +1,5 @@
+n_clusters,noise_pct,purity,nmi,in_target_range,umap_metric,cluster_selection
+19,24.2,0.2859,0.3849,True,cosine,eom
+23,39.5,0.2908,0.4219,True,cosine,leaf
+17,21.8,0.2762,0.3804,True,euclidean,eom
+24,43.3,0.3112,0.4246,True,euclidean,leaf

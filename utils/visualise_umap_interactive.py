@@ -12,8 +12,8 @@ import json
 import numpy as np
 import umap
 
-EMBEDDINGS_FILE = "reflection_embeddings.npy"
-CLUSTERED_FILE  = "reflections_clustered_final.json"
+EMBEDDINGS_FILE = "./data/reflection_embeddings.npy"
+CLUSTERED_FILE  = "./data/reflections_reparsed.json"
 OUTPUT_HTML     = "umap_interactive.html"
 
 UMAP_PARAMS = dict(n_neighbors=15, min_dist=0.1, n_components=2, metric="cosine", random_state=42)

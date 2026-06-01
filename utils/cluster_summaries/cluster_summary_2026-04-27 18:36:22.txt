@@ -1,0 +1,134 @@
+=================================================================
+  REFLECTION CLUSTERING SUMMARY
+  Run: 2026-04-27 18:36:22
+=================================================================
+
+--- Parameters ---
+  UMAP:    n_neighbors=15, min_dist=0.1, n_components=10, metric='cosine'
+  HDBSCAN: min_cluster_size=15, min_samples=5, metric='euclidean'
+  Label sample size: 10
+  Sub-cluster threshold: >500 reflections
+  Sub-cluster UMAP:    n_neighbors=10, min_dist=0.05, n_components=5
+  Sub-cluster HDBSCAN: min_cluster_size=30, min_samples=5
+
+--- Overview ---
+  Total reflections : 1879
+  Clusters found    : 7
+  Noise (unclustered): 113 (6.0%)
+
+--- Cluster Table ---
+   ID  Theme                                    N   high  mid  low  Bloom
+  ----------------------------------------------------------------------
+    0    Coding problem-solving strategies       91     91    0    0   2.24
+    1    Toolbox fabrication problem-solving    105    101    4    0   2.00
+    2    Arduino coding time management          81     78    2    1   2.04
+    3    Critical thinking skill development     59     27   30    2   2.01
+    4    Technical drawing skill development     73     73    0    0   1.96
+    5    Developing innovative solution concepts    119     17  102    0   2.22
+    6    RGM collaborative brainstorming process    262    165   94    3   2.15
+    7 *  Balancing competing priorities effectively    169    119   49    1   2.19
+    8 *  Team project presentation skills       170    122   48    0   1.92
+    9 *  RGM Conceptual Design Brainstorming    239    191   44    4   2.08
+   10 *  Collaborative engineering design solutions     48     30   18    0   2.29
+   11 *  Collaborative project planning execution    101     94    7    0   1.99
+   12 *  Team communication and collaboration     31     26    5    0   2.28
+   13 *  Team communication and collaboration    132     82   50    0   2.24
+   14 *  Project time and resource management     86     54   32    0   2.19
+   –1    unclustered                            113
+  (* = sub-cluster derived from an oversized parent cluster)
+
+--- Cluster Descriptions ---
+  [0] Coding problem-solving strategies
+      Students reflect on how they approached and resolved programming challenges through planning, seeking help, and iterative problem-solving.
+  [1] Toolbox fabrication problem-solving
+      Students reflect on overcoming technical and logistical challenges encountered during the hands-on construction of a metal toolbox in a workshop setting.
+  [2] Arduino coding time management
+      Students reflect on strategically managing limited workshop time to systematically complete Arduino circuit-building and coding exercises using structured problem-solving approaches.
+  [3] Critical thinking skill development
+      Students reflect on applying critical thinking across academic, professional, and personal contexts to analyze problems, make decisions, and develop as future engineers.
+  [4] Technical drawing skill development
+      Students reflect on progressively mastering various technical drawing methods and conventions through structured practice, problem-solving, and incremental skill-building over the workshop period.
+  [5] Developing innovative solution concepts
+      Students reflect on systematically generating, evaluating, and refining design concepts to meet defined user or consumer requirements across diverse engineering projects.
+  [6] RGM collaborative brainstorming process
+      Students reflect on how their teams used structured brainstorming, communication tools, and group decision-making to develop ideas and themes for their Rube Goldberg Machine projects.
+  [7]  [sub-cluster of 6] Balancing competing priorities effectively
+      Students describe managing multiple simultaneous obligations—work, university assessments, and personal responsibilities—by applying structured prioritisation and time management strategies to meet all deadlines.
+  [8]  [sub-cluster of 6] Team project presentation skills
+      Students reflect on developing oral presentation abilities and collaborative teamwork strategies while completing group engineering design projects.
+  [9]  [sub-cluster of 6] RGM Conceptual Design Brainstorming
+      Students reflect on collaborative brainstorming sessions to generate and refine event ideas for their Rube Goldberg Machine conceptual design.
+  [10]  [sub-cluster of 6] Collaborative engineering design solutions
+      Students reflect on working in teams to address engineering design challenges, emphasizing brainstorming, task division, and iterative problem-solving to reach effective solutions.
+  [11]  [sub-cluster of 6] Collaborative project planning execution
+      Students navigated team-based design and construction projects by dividing tasks, managing resources, and coordinating schedules to meet project requirements under constraints.
+  [12]  [sub-cluster of 6] Team communication and collaboration
+      Students reflect on developing effective communication strategies and collaborative skills to overcome initial group challenges and achieve shared project goals.
+  [13]  [sub-cluster of 6] Team communication and collaboration
+      Students reflect on how they established and utilized communication structures and digital tools to coordinate teamwork and maintain accountability in group engineering projects.
+  [14]  [sub-cluster of 6] Project time and resource management
+      Students reflect on applying time management tools, resource allocation strategies, and structured planning to complete team projects within deadlines.
+
+--- Validation Samples (2 results per cluster) ---
+
+  Cluster 0 — "Coding problem-solving strategies"
+    [Row_2173] After this cycle of receiving help I managed to complete the game and made it fully functioning with a best of 3 rounds and everything I could have wanted it to do, I had received exactly what I needed and wished I asked even earlier. This event made me realize that despite not believing in my abili...
+    [Row_2177] The result of this group plan was being able to make a sufficient Blackjack game within the given time constraint. Our group assignment was given a 91%....
+
+  Cluster 1 — "Toolbox fabrication problem-solving"
+    [Row_2154] The result was finally locking the individual pieces together and having enough structural integrity to both hold itself together and any tools that also could fit within....
+    [Row_2158] The result was a toolbox finished before the deadline, without the need to put in extra hours outside of designated class time....
+
+  Cluster 2 — "Arduino coding time management"
+    [Row_2162] Approaching each exercise in this manner allowed me to determine how each element of the circuit would need to be built and coded, as well as how they would need to be connected together so that they could operate simultaneously in order to achieve the requirement specified in the worksheet.  The en...
+    [Row_2163] Approaching each exercise in this manner allowed me to determine how each element of the circuit would need to be built and coded, as well as how they would need to be connected together so that they could operate simultaneously in order to achieve the requirement specified in the worksheet.  The en...
+
+  Cluster 3 — "Critical thinking skill development"
+    [Row_2153] As a result of my critical thinking and analysis, i was able to save customers from buying outdated stocks and save the company from finical liability....
+    [Row_2240] As a result of our critical thinking and joint efforts, we were able to spot possible issues that could have hampered our answer if we had not addressed them. We were also able to create a comprehensive solution that incorporated all accessible data and viewpoints. Our presentation was well received...
+
+  Cluster 4 — "Technical drawing skill development"
+    [Row_2175] The result was incrementally furthering my skillset with every piece completed, and feeling more capable and confident with my abilities....
+    [Row_2183] The result was that I gained valuable experience with the different methods of technical drawing which boosted my understanding of more complex shapes....
+
+  Cluster 5 — "Developing innovative solution concepts"
+    [Row_2361] The result of creating the program was that users could now enter a piece of data that they wanted to convert to either Fahrenheit or Celsius and be able to successfully receive their desired outcome....
+    [Row_2591] Our result was being able to break down the purposes of each pre-designed function and use parts of those pieces to produce a successful website with all the qualities of one which relied on external libraries, therefore satisfying our mentor....
+
+  Cluster 6 — "RGM collaborative brainstorming process"
+    [Row_2068] ...
+    [Row_2069] We were able to consider the different styles of each team member before undergoing the design process, and we were able to assign roles based on individual skillsets....
+
+  Cluster 7 — "Balancing competing priorities effectively"
+    [Row_2070] Using all the time and resources at my disposal resulted in the completion and submission of the documents on time and to a high standard, completing the math quiz to the best of my ability and working for 8 hours with various breaks throughout that time....
+    [Row_2092] The result was being able to follow up the routine and do my task orderly. I also set my tasks in a prioritised sequence. For instance, if I have a submission or an exam then I will put it in a top priority section of my routine and set it as my first goal to finish....
+
+  Cluster 8 — "Team project presentation skills"
+    [Row_2080] The result was an approximately 5 minute presentation delivering a summary of our problem definition and draft conceptual design to my tutor and peers....
+    [Row_2104] The result was a somewhat choppy series of videos in which some sections of the RGM were vastly more reliable than others....
+
+  Cluster 9 — "RGM Conceptual Design Brainstorming"
+    [Row_2062] ...
+    [Row_2063] we decided to use the first and only proposal that was forwarded by our members with everyone agreeing very quickly to said proposal which was to pour some juice into a glass or cup....
+
+  Cluster 10 — "Collaborative engineering design solutions"
+    [Row_2509] Based on our brainstorming   and research we have to modify our existing  water filtration  while thinking about cost and effectiveness of the method....
+    [Row_2557] The effects of engineering on society and the environment are quite varies. Through technical advancements, economic expansion, and healthcare innovations, it has improved society’s quality of life. Although, it has also brought forth problems for the environment, such as pollution, climate change, ...
+
+  Cluster 11 — "Collaborative project planning execution"
+    [Row_2157] We successfully designed a plan through effective communication within the team and helping one another during the process....
+    [Row_2184] The result was being able to complete the project under time restriction and limited resources having to strategically resource management. Even more surprisingly was how well we worked together due to this adversity, it gave us even more of a reason to complete the project and to do better and that...
+
+  Cluster 12 — "Team communication and collaboration"
+    [Row_2061] As a result, we created more enriched ideas because they had contributions from all of us, not only from one perspective. Each of us has different approaches and skills to face tasks, so our projects reflect a variety of personal opinions....
+    [Row_2084] I did notice a difference with my performance during the workshops, as I was able to get my ideas across in an appropriate and well-spoken manner. Other members were also able to get their ideas across. Conversations and decisions were made in a structured manner, where everyone was heard. More work...
+
+  Cluster 13 — "Team communication and collaboration"
+    [Row_2067] The result of these methods of communication were very effective as we were able to very easily communicate ideas without wasting time hosting multiple formal meetings.  Discord was vital for supporting our virtual meets and allowed us to complete tasks collectively using the call feature.  Snapchat...
+    [Row_2101] These communication skills and resources allowed for interconnectivity and the sharing of ideas and responsibilities. We were able to create, give and receive feedback inspiration and information whether we were in a face-to-face meeting in discord or on the go through the mobile application snapcha...
+
+  Cluster 14 — "Project time and resource management"
+    [Row_2100] This proactive approach, of utilizing time and resource management strategies, has enabled our team to produce a high quality project, within the deadline. It has also taught me the importance of managing ones time and resources, in order to ensure efficiency and productivity....
+    [Row_2130] The results of this disciplinary program were deemed beneficial to the entire team. The program was successful at ensuring all team members participated in their duties equally and ensured all team members attended the meetings necessary. Through this program, C12 was able to complete all tasks and ...
+
+=================================================================
